@@ -1,0 +1,23 @@
+site_name: Interrailinfo på svenska
+site_description: Spåret till #Tågskryt
+site_url: http://localhost:8000
+
+theme:
+  name: material
+  logo: images/icon.png
+  features:
+    - navigation.indexes
+
+plugins:
+  - rss:
+      match_path: "blog/.*"
+      feed_ttl: 1
+  - tags:
+      tags_file: tags.md
+  - blog:
+      use_git: false
+  - social:
+      cards: false
+  - search
+
+
