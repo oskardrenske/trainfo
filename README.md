@@ -1,0 +1,1 @@
+This repo builds a web site/blog with MkDocs and deploys it to netlify with the domin name trainfo.eu 
