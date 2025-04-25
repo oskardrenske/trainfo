@@ -1,7 +1,9 @@
 ---
 title: "Portugal"
 date: 2024-03-07
-coverImage: "lusitania.jpeg"
+coverImage: "images/portugal_11.jpeg"
+tags:
+    - Portugal
 ---
 
 ![](images/portugal_11.jpeg?w=1024)

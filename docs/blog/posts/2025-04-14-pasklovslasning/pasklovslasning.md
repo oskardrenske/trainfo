@@ -6,7 +6,7 @@ tags:
   - "italien"
   - "platsbiljett"
   - "polen"
-  - "portugal"
+  - "Portugal"
   - "railplanner"
   - "spanien"
   - "sverige"

@@ -5,7 +5,7 @@ tags:
   - "Frankrike"
   - "london"
   - "platsbiljett"
-  - "portugal"
+  - "Portugal"
   - "railplanner"
   - "tips"
 coverImage: "oktoberfest-small.png"

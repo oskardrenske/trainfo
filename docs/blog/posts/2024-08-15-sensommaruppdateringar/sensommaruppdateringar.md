@@ -6,7 +6,7 @@ tags:
   - "Frankrike"
   - "italien"
   - "platsbiljett"
-  - "portugal"
+  - "Portugal"
   - "reseberattelser"
   - "spanien"
   - "sverige"
