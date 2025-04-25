@@ -4,7 +4,7 @@ date: 2025-04-15
 coverImage: "images/knodelexpress_10.jpg"
 tags:
     - Tjeckien
-    - "praktiska tips"
+    - "praktisk info"
     - reseberättelser
 ---
 
