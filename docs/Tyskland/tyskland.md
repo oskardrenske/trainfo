@@ -30,8 +30,6 @@ Om det är nåt som DB kan sälja (plats)biljett till.
 
 Om du söker hos DB för ditt tåg några dar innan kan du se vad förväntat antal passagerare är – “low demand” till “exceptionally high demand” – och bedöma om du vill ha platsbiljett. Det kan också vara så att bara delar av sträckan förväntas ha mycket folk. Prognosen finns främst för tåg i Tyskland. Vid "exceptionally high demand” kan det vara försent att köpa (plats)biljett. Interrail räcker som biljett men komfortnivån är nog "sardinburk". Dock är det sällan proppfullt hela vägen.
 
- 
-
 ![](images/tyskland_2.png?w=839)
 
 <figcaption>
@@ -39,8 +37,6 @@ Om du söker hos DB för ditt tåg några dar innan kan du se vad förväntat an
 DB:s trängselprognos
 
 </figcaption>
-
- 
 
 [Detaljerad info om bokning med pauser](https://www.trainfo.eu/platsbokning-med-db/)
 
@@ -85,5 +81,3 @@ De är som sagt frivilliga, och reservationen upphör efter 15 minuter. Som när
 - Det går att få ihop ett platsbiljettköp med 1-2 längre [uppehåll](https://www.trainfo.eu/platsbokning-med-db/)
 
 Uppdaterad 2024-10-01
-
-## Liknande sidor

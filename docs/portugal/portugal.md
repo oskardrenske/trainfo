@@ -4,8 +4,6 @@ date: 2024-03-07
 coverImage: "lusitania.jpeg"
 ---
 
- 
-
 ![](images/portugal_11.jpeg?w=1024)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "lusitania.jpeg"
 Lusitania är den romerska provinsen som nu är Portugal. Bild från Cafe Lusitania i spanska Ferrol, det närmaste jag kommit Portugal med tåg.
 
 </figcaption>
-
- 
 
 Det är långt till Portugal så det kommer att ta ett par dar dit. Du behöver ta dig igenom [Danmark](https://www.trainfo.eu/danmark/), [Tyskland](https://www.trainfo.eu/tyskland/), [Frankrike](https://www.trainfo.eu/frankrike/) och [Spanien](https://www.trainfo.eu/spanien/) först.
 
@@ -28,15 +24,11 @@ Du har [tagit dig till Spanien](https://www.trainfo.eu/spanien-resa/) och har l[
 
 1. Madrid - Badajoz (ES) - Entroncamento (PT). - Lissabon. Tågen mot Badajoz verkar gå från "Atocha-Cercanias", en del av Atocha-stationen i Madrid som du kommer till om du åkt från Barcelona-hållet. Passa på att kolla vart du skall vid ankomst om du skall fortsätta nästa dag då blir det mindre stressigt om du skall iväg på morgonen. Atocha är en stor station. Från Badajoz kan du ta tåg [utan krav på platsbiljett.](https://www.trainfo.eu/platsbiljettskrav-eller-inte/) Eller lite snabbare med platsbiljetter. Standardsökningen i Railplanner anger ett byte på 4 minuter. Det är tänkt att funka men du hinner inte köpa platsbiljetter. Det går fler tåg. Med ett lite längre uppehåll i Entroncamento hinner du köpa platsbiljetter (eller så tar du regionaltåg, det tar 30 min längre. I och med att du åker från startstationen behöver du inte oroa dig för att få plats.) Pausar du i Entrocamendo så ligger ["Museu Nacional Ferroviário"](https://www.fmnf.pt/en) där.
 
-3. Madrid - Pontevedra - Vigo (ES) - Porto (PT) - Lissabon. Du kan köpa platsbiljetter i Vigo. Från Porto går det tåg som inte kräver platsbiljett men det blir ett antal byten och tar mycket längre tid. Ha koll på vilken [station i Vigo](https://www.seat61.com/stations/vigo.htm) som gäller, troligen Guixar. Du kommer att behöva övernatta längs vägen.
+2. Madrid - Pontevedra - Vigo (ES) - Porto (PT) - Lissabon. Du kan köpa platsbiljetter i Vigo. Från Porto går det tåg som inte kräver platsbiljett men det blir ett antal byten och tar mycket längre tid. Ha koll på vilken [station i Vigo](https://www.seat61.com/stations/vigo.htm) som gäller, troligen Guixar. Du kommer att behöva övernatta längs vägen.
 
-5. Madrid - Sevilla eller direkt Barcelona- Sevilla i Spanien och sen [buss till Faro i Portugal.](https://www.rome2rio.com/map/Seville/Faro) Eller kanske tåg till Huelva, buss Huelva - Ayamonte, sen färja över gränsfloden till Vila Real de Santo Antonio varifrån det går platsbiljettfria regionaltåg till Faro.
+3. Madrid - Sevilla eller direkt Barcelona- Sevilla i Spanien och sen [buss till Faro i Portugal.](https://www.rome2rio.com/map/Seville/Faro) Eller kanske tåg till Huelva, buss Huelva - Ayamonte, sen färja över gränsfloden till Vila Real de Santo Antonio varifrån det går platsbiljettfria regionaltåg till Faro.
 
-7. Vitoria/Gasteiz till Vigo Guixar. Om du tar dig till [Spanien](https://www.trainfo.eu/spanien/) via Hendaye kan detta vara ett alternativ.
-
- 
-
- 
+4. Vitoria/Gasteiz till Vigo Guixar. Om du tar dig till [Spanien](https://www.trainfo.eu/spanien/) via Hendaye kan detta vara ett alternativ.
 
 ![](images/portugal_3.jpeg?w=1024)
 
@@ -46,10 +38,6 @@ Badajoz
 
 </figcaption>
 
- 
-
- 
-
 ![](images/portugal_9.jpeg?w=1024)
 
 <figcaption>
@@ -57,10 +45,6 @@ Badajoz
 Vigo-Porto
 
 </figcaption>
-
- 
-
- 
 
 ![](images/portugal_1.jpeg?w=1024)
 
@@ -70,10 +54,6 @@ Sevilla
 
 </figcaption>
 
- 
-
- 
-
 ![](images/portugal_5.jpg?w=552)
 
 <figcaption>
@@ -82,10 +62,6 @@ Färja över gränsen
 
 </figcaption>
 
- 
-
- 
-
 ![](images/portugal_6.jpeg?w=1022)
 
 <figcaption>
@@ -93,10 +69,6 @@ Färja över gränsen
 Hendaye -Vigo -Lissabon
 
 </figcaption>
-
- 
-
- 
 
 Hemresan blir enklare eftersom du kan köpa portugisiska platsbiljetter på plats.
 
@@ -135,5 +107,3 @@ Det förekom en del rykten om månadsbiljetter för €49 och €20, men de visa
 - Platsbiljetter för Interrail inom landet köps på stationer i Portugal, inte online.
 
 - Du kommer till Lissabon från Badajoz i Spanien utan portugisiska platsbiljetter.
-
-## Liknande sidor

@@ -100,11 +100,11 @@ Det finns en risk att trilla i "se alla kända storstäder i Europa"-fällan och
 
 Även om Karin Boye inte skulle hålla med:
 
->   
+>
 > På ställen, där man sover blott en gång, blir sömnen trygg och drömmen full av sång.  
->   
+>
 > Bryt upp, bryt upp! Den nya dagen gryr. Oändligt är vårt stora äventyr.
-> 
+>
 > [https://www.karinboye.se/verk/dikter/dikter/i-rorelse.shtml](https://www.karinboye.se/verk/dikter/dikter/i-rorelse.shtml)
 
 ### Olika sätt att resa på
@@ -199,8 +199,6 @@ Lycka till med resan! Bon voyage, Gute Reise, Buon viaggio osv Det kommer att g�
 
 Du måste såklart inte ha alla resdagars tåg och boende detaljplanerat, men en punkt i checklistan hjälper så att du inte glömt det om du hade velat detaljplanera.
 
- 
-
 | Att kolla | Kommentar | ✅ |
 | --- | --- | --- |
 | [Pass / Nationellt ID-kort](https://polisen.se/tjanster-tillstand/pass-och-nationellt-id-kort/) giltigt | Lätt att glömma att de skall förnyas |  |
@@ -224,8 +222,4 @@ Några saker att tänka på.
 
 </figcaption>
 
- 
-
 Uppdaterad 2025-01-11
-
-## Liknande sidor

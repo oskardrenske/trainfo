@@ -3,8 +3,8 @@ title: "Aosta-dalen i Italien med tåg"
 date: 2024-04-16
 coverImage: "cc9861e6-3e8c-4924-aae6-c2ad22853dc4_1_105_c.jpeg"
 tags:
-  - Italien
-  - Rese-exempel
+- Italien
+- Rese-exempel
 ---
 
 Tidningen Vagabond kom just med en "tåg-special". Det finns med en artikel om Aosta-dalen som mest är reklam för att sälja resor. Med flyg. Inte ett ord nämns i "tåg-specialen" hur man tar tåget till Aosta-dalen. Men det får du reda på här.
@@ -52,5 +52,3 @@ Tack och lov är "il caffe" italienskt utan grannländernas åverkan. På "Place
 - Norrut (Schweiz) eller västerut (Frankrike) behöver du ta buss. Eller vandra / [springa](https://montblanc.utmb.world/races/utmb)
 
 - Kaffet är italienskt och motstår fransk (p)åverkan.
-
-## Liknande sidor

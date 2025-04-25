@@ -58,5 +58,3 @@ Bild på 8-personers-kupé på TER Marseille - Nice
 ![](images/cote-dazur_1.jpeg?w=768)
 
 Uppdaterad 2025-02-17
-
-## Liknande sidor

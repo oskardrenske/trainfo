@@ -245,5 +245,3 @@ Repetera ordlistan om du är osäker på begreppen.
 Är något otydligt? [Hör av dig.](https://www.trainfo.eu/om-sajten/)
 
 Uppdaterad 2025-01-11
-
-## Liknande sidor

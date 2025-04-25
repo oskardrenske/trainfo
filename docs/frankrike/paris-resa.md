@@ -105,5 +105,3 @@ Utöver de platsbiljetter du behöver för att ta dig till Hamburg
 - Har du betalt mindre än €17 för platsbiljetten Tyskland - Frankrike har något blivit fel.
 
 Uppdaterad 2025-02-17
-
-## Liknande sidor

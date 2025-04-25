@@ -168,8 +168,6 @@ Blandade tåg. 1 med lok och vagnar, resten motorvagnar
 
 Ofta korta byten på några minuter men planerade för att vara enkla tvärs över perrongen. Tågen har visst utrymme för att vänta in. Men det förekom också byten på typ 20 minuter, så om du vill se dig omkring så blir det 1 timme och 20 minuter (om tågen går varje timme). Jag missade ett byte på hela resan, det var 2-minutersbyte (!) men det kom snart ett annat tåg.
 
- 
-
 ![](images/deutschland-ticket_30.jpg?w=1024)
 
 <figcaption>
@@ -177,8 +175,6 @@ Ofta korta byten på några minuter men planerade för att vara enkla tvärs öv
 Väntan på ett annat tåg.
 
 </figcaption>
-
- 
 
 ### Sittplats
 
@@ -218,8 +214,6 @@ Har du mest varit på storstädernas Hauptbahnhöfer är det dags att skruva ned
 
 Appen Bahnhof Live visar vad det finns för butiker på stationen. Det kanske inte finns nåt alls, eller så är det enorm shoppinggalleria som på Leipzig Hbf eller Potsdam Hbf (ett sätt att smyga in söndagsöppet?). ”Yorma’s” är en närbutikskedja som finns på många stationer.
 
- 
-
 ![](images/deutschland-ticket_26.jpg?w=1024)
 
 <figcaption>
@@ -227,8 +221,6 @@ Appen Bahnhof Live visar vad det finns för butiker på stationen. Det kanske in
 Butiker på Hof Hbf
 
 </figcaption>
-
- 
 
 ### Halt!
 
@@ -271,5 +263,3 @@ Jag fick tips om [https://www.mopla.solutions/de/tickets/deutschlandticket](http
 - Priset är €58 per månad från och med 2025 (€9 2022, sedan €49 och nu €58).
 
 Uppdaterad 2025-03-26
-
-## Liknande sidor

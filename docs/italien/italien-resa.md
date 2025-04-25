@@ -4,8 +4,6 @@ date: 2024-03-08
 coverImage: "50f02443-4719-4cf7-9d2e-3061fb5f3e37_1_105_c.jpeg"
 ---
 
- 
-
 ![](images/italien-resa_3.jpeg?w=1024)
 
 <figcaption>
@@ -14,13 +12,9 @@ Milano Centrale
 
 </figcaption>
 
- 
-
 Alla (järn)vägar bär till Rom
 
 Inlägget är dels för att visa alternativ, dels för att du skall förstå hur lång tid det tar. Men så fort du kommit till Milano eller Bologna tar du dig snabbt vidare inom Italien. Det som står om bokning mm gäller om du har interrail.
-
- 
 
 ![](images/italien-resa_1.png?w=628)
 
@@ -29,8 +23,6 @@ Inlägget är dels för att visa alternativ, dels för att du skall förstå hur
 Karta över några (järn)vägar till norra Italien.
 
 </figcaption>
-
- 
 
 Är det din första långresa med tåg rekommenderas att läsa [”Första resan”](https://www.trainfo.eu/forsta-resan/)
 
@@ -129,5 +121,3 @@ Utöver de platsbiljetter du behöver för att ta dig till Hamburg
 [Sicilien / Kalabrien / Apulien](https://www.trainfo.eu/sicilien-kalbrien-apulien/)
 
 uppdaterad 2025-03-26
-
-## Liknande sidor

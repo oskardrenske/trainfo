@@ -3,8 +3,8 @@ title: "Sicilien, Kalabrien och Apulien med (natt)tåg"
 date: 2024-04-16
 coverImage: "images/sicilien-kalbrien-apulien_16.jpeg"
 tags:
-  - Italien
-  - Rese-exempel
+- Italien
+- Rese-exempel
 ---
 ![](images/sicilien-kalbrien-apulien_16.jpeg?w=768)  
 <figcaption>
@@ -12,7 +12,6 @@ Färska blodapelsiner på marknaden i Syracusa. Inte att förväxla med bandybol
 </figcaption>
 
 Eftersom Italien är ett populärt resmål tänkte jag komplettera det jag skrivit tidigare med hur man tar sig till de södra delarna.
-
 
 ![](images/sicilien-kalbrien-apulien_14.jpg?w=1024)
 <figcaption>
@@ -41,8 +40,6 @@ Hela processen med att få över tåget tar ca två timmar, vara 40 minuter är 
 
 Det är ett sammanhängande tåg på fastlandet som delas upp mot Palermo respektive Syracusa. Detta kan visas som två tåg i [Railplanner](https://www.trainfo.eu/railplanner-appen/) (med byte på Messina Centrale) vilket gör att du måste lägga in tåget manuellt för att inte förbruka ytterligare en resdag efter "delningen". Det kan också visas på stationens avgångstavlor som att tåget bara går till en av slutstationerna (Siracusa om jag minns rätt). Norrut blir evenuella "spök-byten" samma resdag som du kliver på så du behöver inte göra nåt speciellt. Båda tågdelarna (som sätts ihop i Villa San Giovanni på fastlandet) går till Rom/Milano så alla skyltar bör vara begripliga.
 
- 
-
 ![](images/sicilien-kalbrien-apulien_7.png?w=493)
 
 <figcaption>
@@ -51,13 +48,9 @@ InterCity Notte linjenät
 
 </figcaption>
 
- 
-
 ### Mat
 
 Frukosten på italienska nattåg är inte så mycket att hurra för. Men kaffet är förvånansvärt bra även om det serveras i pappmugg tillsammans med en inplastad croissant och lite juice och skorpor. På vägen från Sicilien fick jag en "brioche" istället för croissant. Jag åkte sovvagn, det kanske är annan frukost i ligg/sittvagn. Tänk på att ha med mat om du åker nåt av tågen som kommer fram på eftermiddagen. Eller på tågen från Sicilien som lämnar Palermo vid lunchtid. Det går att äta nåt på färjan, men vad jag hört var det inte mycket att ha. Tågfärjan är tydligen Europas sista av sitt slag. De används bara till tåg och drivs av Italiens bolag som hanterar infrastrukturen för järnväg.
-
- 
 
 ![](images/sicilien-kalbrien-apulien_1.jpeg?w=768)
 
@@ -66,8 +59,6 @@ Frukosten på italienska nattåg är inte så mycket att hurra för. Men kaffet 
 Frukost en bit söder om Salerno
 
 </figcaption>
-
- 
 
 Det delas ut diverse prylar på kvällen också. I alla fall i sovvagn.
 
@@ -130,15 +121,11 @@ Inga konstigheter med regionaltågen, bara att lägga till dem i RailPlanner, ak
 
 Lite enklare eftersom det inte är nån färja. Ta dagtåg eller nattåg till t.ex Lecce som är slutstation på fjärrtågsnätet. Skall du sen vidare till Gallipoli, Otranto eller nån annan av småstäderna köper du biljett i Trenitalia-appen eller på stationen för de tågen som körs av FSE - [Ferrovie Del Sud Est.](https://www.fseonline.it/s/?language=it) De ingår inte i Interrail men kostar inte mycket. Och de går så långsamt att det inte hinner bli dyrt att resa med dem. Räkna inte med nån bemanning på de mindre stationerna, kanske finns en biljettautomat.
 
-
-
 ![](images/sicilien-kalbrien-apulien_2.jpg?w=768)
 
 <figcaption>
 Såna här puttrar runt i 30-40 km/h genom olivlundarna
 </figcaption>
-
-
 
 [Tågnätet på "klacken".](https://www.openrailwaymap.org/?style=standard&lat=40.107487419012415&lon=18.0780029296875&zoom=9) När jag var där gick inte FSE-tågen på söndagar, då gick det bussar istället (biljettköp i Trenitalia-appen även för dem).
 
@@ -151,5 +138,3 @@ Såna här puttrar runt i 30-40 km/h genom olivlundarna
 [https://www.trenitalia.com/en/intercity-notte.html](https://www.trenitalia.com/en/intercity-notte.html)
 
 Uppdaterad
-
-## Liknande sidor

@@ -168,5 +168,3 @@ Frankrike är inte riktigt landet för spontant tågluffande på snabbtåg. Dera
 - Du _måste_ ha namnlapp på dina väskor.
 
 - "Vägglöss-epidemin" var en rysk desinformationskampanj.
-
-## Liknande sidor

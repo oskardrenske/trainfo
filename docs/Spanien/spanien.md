@@ -4,15 +4,10 @@ date: 2024-03-07
 coverImage: "4ad67f26-fdbc-48a6-9096-b5f555a4286e_1_201_a.jpg"
 ---
 
- 
-
 ![](images/spanien_5.jpg?w=1024)
-
 
 Renfe-tåg i Ferrol i Galicien.  
 Med ett "underbett" som för tankarna till den inavlade [kung Carlos II](https://sv.wikipedia.org/wiki/Karl_II_av_Spanien) och hans "Habsburgs-haka"  
-
-
 
 ## Renfe
 
@@ -129,5 +124,3 @@ Stationerna där snabbtågen stannar ligger ibland lite utanför städerna och h
 - Till Barcelona kommer du lätt (men inte lika snabbt) utan krav på platsbiljetter.
 
 - Att hitta tider för annat än huvudlinjerna kan kräva lite detektivarbete.
-
-## Liknande sidor

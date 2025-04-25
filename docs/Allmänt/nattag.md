@@ -4,8 +4,6 @@ date: 2024-03-07
 coverImage: "1cba3960-2525-4e1f-9c57-487f8751708d_1_105_c.jpeg"
 ---
 
- 
-
 ![](images/nattag_2.jpeg?w=1024)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "1cba3960-2525-4e1f-9c57-487f8751708d_1_105_c.jpeg"
 Finaste kupésorten på italienska nattåg
 
 </figcaption>
-
- 
 
 Det finns olika sorts tåg som går på natten. 
 
@@ -95,8 +91,7 @@ Från [Interrails "Conditions of Use for Eurail and Interrail Passes" (pdf)](htt
 > **Flexi Pass: overnight journeys**  
 > Travel by overnight train with a flexi Pass will only require the use of one travel day: the day of departure, if the journey is made by a direct overnight train (no change of trains after midnight, based on local time). This rule is only valid if the dates of departure and arrival both fall within the overall period of the Pass validity. If the Pass holder makes an arrival both fall within the overall period of the Pass validity. If the Pass holder makes an  
 > overnight journey past midnight and boards a second train after midnight, it is necessary to use two travel days.
-> 
->   
+>
 > For example: If a paper Pass Holder boards a direct night train at 18:00 hours on September 21st, which is set to arrive at its destination at 05:00 in the morning, he should enter the date of departure, the 21st of September, in the Travel Calendar. If he is still on the train past midnight, he does not need to activate a second day (the date of arrival), unless he boards a second train. For mobile Pass holders the rule will be applied automatically when saving the train connection to the trip.
 
 ### "spök-byten" efter midnatt
@@ -111,7 +106,7 @@ Till exempel om du har minst en resdag kvar, det är den 21 mars och du vill åk
 
 1. Ditt interrail gäller till och med 21 mars. Du får åka med till sista stationen före 23:59. Du får inte fortsätta efter midnatt. Ditt interrail slutar gälla vid midnatt.
 
-3. Ditt interrail gäller t.o.m 22 mars eller längre: du får åka med till tågets slutstation nästa dag. En resdag går åt. Det är inga problem om du förbrukade din sista resdag den dagen du klev på tåget, så länge du håller dig inom Interrail-passets giltighetstid. Resdagen gäller så länge du är kvar på tåget.
+2. Ditt interrail gäller t.o.m 22 mars eller längre: du får åka med till tågets slutstation nästa dag. En resdag går åt. Det är inga problem om du förbrukade din sista resdag den dagen du klev på tåget, så länge du håller dig inom Interrail-passets giltighetstid. Resdagen gäller så länge du är kvar på tåget.
 
 ### Nattåg flera nätter i rad
 
@@ -147,8 +142,6 @@ När tåget passerar en gräns _kan det_ bli gränskontroll oavsett vad klockan 
 
 Diverse prylar en får (förutom handduken) på italienska nattåg, i alla fall i sovkupé. Sen kom det en liten flaska prosecco också. ÖBB erbjöd en flaska vatten och en liten godispåse i liggvagn, lite mer i sovvagn, tofflor t.ex. Frukostens omfattning och standard varierar också mellan bolag och klasser.
 
- 
-
 ![](images/nattag_1.jpeg?w=1024)
 
 <figcaption>
@@ -156,8 +149,6 @@ Diverse prylar en får (förutom handduken) på italienska nattåg, i alla fall 
 _"Shoot, a fella' could have a pretty good weekend in Vegas with all that stuff.”_
 
 </figcaption>
-
- 
 
 ### Sammanfattning
 
@@ -178,5 +169,3 @@ _"Shoot, a fella' could have a pretty good weekend in Vegas with all that stuff.
 - Sista _giltighetsdagen_ på ditt Interrail slutar det gälla vid midnatt. Du får inte fortsätta. Nattåg är i praktiken omöjligt.
 
 - Sista _resdagen_ inom giltighetstiden får du fortsätta efter midnatt, till tågets slutstation om du vill.
-
-## Liknande sidor

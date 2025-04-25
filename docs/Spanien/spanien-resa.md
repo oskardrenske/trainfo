@@ -4,8 +4,6 @@ date: 2024-03-08
 coverImage: "spanien_resa_small.png"
 ---
 
- 
-
 ![](images/spanien-resa_1.jpg?w=768)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "spanien_resa_small.png"
 Salvador Dali-muséet i Figueres (en av de katalanska städer som passeras på väg mot Barcelona)
 
 </figcaption>
-
- 
 
 Exempelresa till Barcelona
 
@@ -34,9 +30,9 @@ Nästa dag finns några alternativ för fortsatt resa till Spanien:
 
 1. Från Avignon TGV: Det spanska snabbtåget AVE (AVI) som kommer från Marseille och går till Madrid via Barcelona. Mer detaljer på sidan om [Spanien](https://www.trainfo.eu/spanien/).
 
-3. Från Avignon Centre: Regionaltåg (TER) till Portbou och sedan spanska regionaltåg till Barcelona. Det går några direkttåg om dan till Portbou, och några med byte i Narbonne.
+2. Från Avignon Centre: Regionaltåg (TER) till Portbou och sedan spanska regionaltåg till Barcelona. Det går några direkttåg om dan till Portbou, och några med byte i Narbonne.
 
-5. Från Avignon TGV: TGV till Perpignan, sedan regionaltåg till Portbou som i alternativet ovan. Snabbare tåg, men det blir byten och väntan som kanske gör det ovärt, speciellt som du behöver platsbiljetter till TGV.
+3. Från Avignon TGV: TGV till Perpignan, sedan regionaltåg till Portbou som i alternativet ovan. Snabbare tåg, men det blir byten och väntan som kanske gör det ovärt, speciellt som du behöver platsbiljetter till TGV.
 
 Väljer du regionaltåg och vill stanna en natt i Occitanie kan det vara idé att överväga de dags-biljetter som finns för TER i Occitanie (även från Avignon Centre). Läs mer på sidan om [Frankrike](https://www.trainfo.eu/frankrike/).
 
@@ -87,5 +83,3 @@ Renfe [https://www.renfe.com/es/en](https://www.renfe.com/es/en)
 [Sida om Spanien](https://www.trainfo.eu/spanien/)
 
 [Sida om Frankrike](https://www.trainfo.eu/frankrike/)
-
-## Liknande sidor

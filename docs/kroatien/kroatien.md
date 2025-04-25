@@ -8,8 +8,6 @@ Några uppslag till att ta sig till Kroatiens olika delar.
 
 Fram till juli 2025 kommer det att vara banarbeten söder om Salzburg i Österrike som kan påverka hur du tar dig till Kroatien och Slovenien. [Läs mer hos ÖBB](https://www.oebb.at/de/fahrplan/baustelleninformation/tauernsperre-schwarzach-mallnitzobervellach)
 
- 
-
 ![](images/kroatien_6.jpeg?w=1024)
 
 <figcaption>
@@ -18,13 +16,9 @@ Rovinj,Istrien
 
 </figcaption>
 
- 
-
 ### Vart skall du?
 
 Kroatiens geografi gör att reseförslag till de populära platserna blir som att resa till olika länder. Frågan "hur åker jag till Kroatien" kan ha många svar. Umag längst i nordväst? Dubrovnik nästan längst söder på den kroatiska kustremsan som ligger söder om Bosniens lilla "kust". Eller nånstans vid serbiska gränsen? (det senare lär väl i och för sig inte vara det mest populära resmålet)
-
- 
 
 ![](images/kroatien_8.png?w=1024)
 
@@ -33,8 +27,6 @@ Kroatiens geografi gör att reseförslag till de populära platserna blir som at
 Inte alltid möjligt att ta tåg över gränser. Bosnien är isolerat tågmässigt.
 
 </figcaption>
-
- 
 
 ### Platsbiljetter
 
@@ -52,7 +44,7 @@ Det går att välja platser för liggvagn eller sittplatser, men det går inte a
 
 ![](images/kroatien_4.png?w=427)
 
-#### Dagtid
+### Dagtid
 
 Dagtid: Hamburg - München - Villach - Ljubljana - Rijeka. Du vill nog dela upp så du får lagom långa dagsetapper beroende på när du startar. Det är totalt 20-25h tågresa.
 
@@ -62,8 +54,6 @@ Trieste Centrale - Pivka - Rijeka
 
 Tåget till Rijeka kostar €8 [enl HZPP](https://www.hzpp.hr/en/trieste-villa-opicina-–-rijeka-and-vice-versa?p=514) om du inte har Interrail. Lite fånigt när det skryts om ett direkttåg som går från en station utanför staden.
 
- 
-
 ![](images/kroatien_10.png?w=510)
 
 <figcaption>
@@ -71,8 +61,6 @@ Tåget till Rijeka kostar €8 [enl HZPP](https://www.hzpp.hr/en/trieste-villa-o
 Det är lång tågväg för att ta sig upp från Trieste till Villa Opicina uppe på höjderna.
 
 </figcaption>
-
- 
 
 #### Med nattåg:
 
@@ -136,8 +124,6 @@ Några linjer du kan ta efter att ha åkt till [Italien](https://www.trainfo.eu/
 
 - Både Trieste och Ljubljana som nämns här tycker jag är värda ett besök.
 
- 
-
 ![](images/kroatien_7.jpeg?w=1024)
 
 <figcaption>
@@ -146,12 +132,8 @@ En liten stad nånstans i Istrien
 
 </figcaption>
 
- 
-
 Kompletterar med [Chronotrains](https://www.chronotrains.com/en/station/3186886-Zagreb/8) som visar hur långt du tar dig på en given tid. I detta fall 8 från Zagreb.
 
 ![](images/kroatien_3.png?w=584)
 
 Uppdaterad 2025-03-26
-
-## Liknande sidor

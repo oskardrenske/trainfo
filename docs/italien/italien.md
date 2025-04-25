@@ -3,7 +3,7 @@ title: "Italien med tåg"
 date: 2024-03-07
 coverImage: "images/italien_6.jpeg"
 tags:
-  - Italien
+- Italien
 ---
 
 ![](images/italien_6.jpeg?w=886)
@@ -34,8 +34,6 @@ Exempel Bologna - Pescara, ca 400 km.
 
 ![](images/italien_11.png?w=440)
 
- 
-
 ![](images/italien_1.png?w=538)
 
 <figcaption>
@@ -43,8 +41,6 @@ Exempel Bologna - Pescara, ca 400 km.
 InterCity linjenät
 
 </figcaption>
-
- 
 
 #### Regionaltågs-erbjudande
 
@@ -126,9 +122,7 @@ Kolla "next strikes" i appen Trenti!
 
 ![](images/italien_9.jpeg?w=500)
 
-
 Så här kan det se ut en strejkdag, vissa tåg verkar gå normalt:
-
 
 ![](images/italien_10.jpg?w=500)
 
@@ -137,8 +131,6 @@ Så här kan det se ut en strejkdag, vissa tåg verkar gå normalt:
 Bild från appen Trenìt! En strejkdag. En del tåg går. Kanske går det att pussla med regionaltåg.
 
 </figcaption>
-
-
 
 ### Snabbtågsstationer
 
@@ -225,5 +217,3 @@ Enl [Interrail](https://www.interrail.eu/en/support/already-bought-pass/mobile-p
 Bild: Nattåg (ICN, InterCityNotte) från Palermo och Siracusa på Siclien körs ombord på färjan över Messinasundet, på fastlandet sätts de ihop till ett tåg som går till Milano. Messina på Sicilien i bakgrunden.
 
 ![](images/italien_8.jpeg?w=768)
-
-## Liknande sidor

@@ -40,8 +40,6 @@ Det står vid priset att det är med Interrail. Priset i exemplet är sittplats 
 
 Du kan köpa platsbiljett för Interrail så länge det finns platser kvar (med 2 kl lugn som undantag)
 
- 
-
 ![](images/sverige_4.png?w=576)
 
 <figcaption>
@@ -50,9 +48,7 @@ Sittplats på nattåget till Berlin kostade 165 kr nu kostar det 195 kr
 
 </figcaption>
 
- 
-
-#### Priser för SJ-platsbiljett om du har Interrail
+### Priser för SJ-platsbiljett om du har Interrail
 
 |  | 2 kl | 1 kl |
 | --- | --- | --- |
@@ -98,12 +94,11 @@ Alternativt: Sök i Railplanner efter tåg som inte kräver platsbiljett. Det ta
 [Information från SJ:](https://www.sj.se/kundservice/fragor-och-svar/4607/nar-slapps-sjs-biljetter/)
 
 > **_När släpps biljetterna för sommaren?_**
-> 
->   
+>
 > _I dagsläget vet vi inte när vi kommer kunna släppa biljetter för sommarens resor._ 
-> 
+>
 > _SJ Kundservice kan inte ge några mer specifika besked angående biljettsläppet._
-> 
+>
 > [sj.se](https://www.sj.se/kundservice/fragor-och-svar/4607/nar-slapps-sjs-biljetter/)
 
 Tips:
@@ -146,8 +141,6 @@ SJ säljer biljetter när all planering är klar. De säljer ofta med byten och 
 
 - Det skall stå ”med Interrail/Eurail” vid priset när du bokar hos SJ
 
- 
-
 ![](images/sverige_3.jpeg?w=768)
 
 <figcaption>
@@ -156,8 +149,4 @@ Snälltåget passerar Södertälje på väg mot Tyskland.
 
 </figcaption>
 
- 
-
 Uppdaterad 2025-03-26
-
-## Liknande sidor

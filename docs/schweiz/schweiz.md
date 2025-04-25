@@ -32,8 +32,6 @@ Det finns Bernina Express-tåg med stora fönster och dyra platsbiljetter. Men d
 
 Den här sträckan tar tid, så om du bara söker t.ex Zürich-Tirano kommer du att få snabbare förslag via Milano. Sökning från Chur borde funka bättre. Eller Samedan som via-station. Se kartan sist på sidan.
 
- 
-
 ![](images/schweiz_4.jpeg?w=800)
 
 <figcaption>
@@ -42,13 +40,9 @@ Klicka på "Read more" vid Panorama Express (PE)-tågen i Railplanner.
 
 </figcaption>
 
- 
-
 Sen kommer du till Tirano i Italien där du fortsätter med regionaltåg (det går inte att reservera plats på dem) längs Comosjöns östra sida till Milano.
 
 ### Centovalli
-
- 
 
 ![](images/schweiz_3.jpeg?w=1024)
 
@@ -57,8 +51,6 @@ Sen kommer du till Tirano i Italien där du fortsätter med regionaltåg (det g�
 En regnig aprildag i Panorama Express från Domodossola till Locarno.
 
 </figcaption>
-
- 
 
 Domodossola (IT) - Locarno (CH), Interrail gäller, men med ett tillägg på 1.50 €/CHF för att åka med Panorama Express (PE i tidtabellen). Kan betalas på tåget. Jag tog det för att det var nästa tåg när jag kom till Domodossola.
 
@@ -87,5 +79,3 @@ Del av [Interrails karta](https://www.interrail.eu/content/dam/pdfs/Interrail_Ma
 ![](images/schweiz_1.png?w=1024)
 
 Uppdaterad 2024-09-24
-
-## Liknande sidor

@@ -3,8 +3,6 @@ title: "Resdagar i Sverige"
 date: 2024-09-22
 ---
 
- 
-
 ![](images/resdagar-i-sverige_1.jpeg?w=1024)
 
 <figcaption>
@@ -12,8 +10,6 @@ date: 2024-09-22
 Här går en hemlandsresedag åt
 
 </figcaption>
-
- 
 
 ## Interrail i boendelandet
 
@@ -55,7 +51,7 @@ Du får inte göra flera "omgångar" av resor i Sverige. De resor i Sverige som 
 
 - Det är inga extra resdagar, det är resdagar du också får resa i Sverige med. "Uppgraderade resdagar" så att säga. Så många resdagar du köpte är så många resdagar du kan använda.
 
-#### Exempelresor för att visa hemlandsresedagar:
+### Exempelresor för att visa hemlandsresedagar:
 
 - Gävle - Stockholm - Malmö - Köpenhamn under en dag. Det går åt en resdag och en av dina hemlandsresedagar.
 
@@ -82,5 +78,3 @@ Nu när 4 av resdagarna kan användas i Sverige krävs det mindre tankeverksamhe
 [https://www.interrail.eu/en/interrail-passes/interrail-mobile-pass/mobile-pass-faq/how-can-I-travel-in-my-country-of-residence-with-a-global-pass](https://www.interrail.eu/en/interrail-passes/interrail-mobile-pass/mobile-pass-faq/how-can-I-travel-in-my-country-of-residence-with-a-global-pass)
 
 Uppdaterad 2025-03-29
-
-## Liknande sidor

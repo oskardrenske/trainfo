@@ -4,8 +4,6 @@ date: 2024-04-16
 coverImage: "img_9865.jpg"
 ---
 
- 
-
 ![](images/forseningar_1.jpg?w=1024)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "img_9865.jpg"
 När kommer tåget?
 
 </figcaption>
-
- 
 
 Förseningar förekommer såklart. Inte så illa som ryktena och fördomarna säger, men nåt som en resenär (oavsett transportsätt) måste ha i åtanke att det kan hända.
 
@@ -77,5 +73,3 @@ Att tåget är försenat spelar ingen roll, du söker fram ordinare avgångstid 
 Snälltåget är inte med i AJC.
 
 Uppdaterad 2024-10-04
-
-## Liknande sidor

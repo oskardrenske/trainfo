@@ -4,8 +4,6 @@ date: 2025-02-08
 coverImage: "img_0780.jpeg"
 ---
 
- 
-
 ![](images/faq-vanliga-fragor_1.jpeg?w=600)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "img_0780.jpeg"
 _Gare Lëtzebuer_g / _Gare de Luxembourg_ / _Bahnhof Luxemburg_
 
 </figcaption>
-
- 
 
 Många frågor har redan ställts av andra, här kommer en del vanliga frågor kring tågresor och Interrail som jag samlat på mig. I sin första inkarnation var informationen som nu finns på denna sajt ett Facebook-inlägg med ett dussin frågor (och tillhörande svar) som "alla" ställde när det gick att resa igen 2022 när Covid-restriktionerna började lättas. En del av de frågorna är med här, några är nya.
 

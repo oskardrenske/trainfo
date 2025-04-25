@@ -14,8 +14,6 @@ Jo absolut. Men det är inget ”tvång” längre. Du kan resa på många fler 
 
 [Franska tåg där Interrail inte gällde](https://www.theguardian.com/travel/2022/mar/09/rail-route-of-the-month-paris-marseille-50-years-after-interrail-began). Tyska tåg där det krävdes tillägg (nu krävs det inget mer än Interrail I Tyskland). Och det fanns inga tåg från Stockholm på kvällen till Paris på morgonen oavsett vad folk minns.
 
- 
-
 ![](images/var-det-battre-forr_3.jpeg?w=1024)
 
 <figcaption>
@@ -24,10 +22,6 @@ Jo absolut. Men det är inget ”tvång” längre. Du kan resa på många fler 
 
 </figcaption>
 
- 
-
- 
-
 ![](images/var-det-battre-forr_4.jpeg?w=1024)
 
 <figcaption>
@@ -35,8 +29,6 @@ Jo absolut. Men det är inget ”tvång” längre. Du kan resa på många fler 
 18 DM i tillägg i Tyskland 1998. Du får räkna på vad det motsvarar idag med inflation och växelkurs DM-EUR.
 
 </figcaption>
-
- 
 
 Bilder med tillstånd från [https://urbanists.social/@tml/112604767569903024](https://urbanists.social/@tml/112604767569903024)
 
@@ -72,8 +64,6 @@ Några punkter jag hade sparat som ett standardsvar när nån som inte rest med 
 
 - Problem med nattåg får också mycket uppmärksamhet eftersom konsekvenserna av att missa dem, eller att de är inställda, är så stora.
 
- 
-
 ![](images/var-det-battre-forr_2.png?w=633)
 
 <figcaption>
@@ -82,8 +72,6 @@ Inte en mobiltelefon i sikte, bara människor som lever i nuet
 
 </figcaption>
 
- 
-
 Mycket av problemen är också Interrail-specifika. Sträckor som skulle vara enkla att köpa vanlig biljett till blir ofta krångligare när det är Interrail inblandat. Speciellt om tåget passerar en gräns. Att resa med Renfes tåg från Lyon till Barcelona är inga problem alls om du köper en biljett. Ungefär samma låga svårighetsgrad som att köpa en SJ-biljett Stockholm - Malmö. Men har du Interrail och bara vill ha en platsbiljett blir det väldigt komplicerat (enklare numera) Troligen för att Interrail inte är en så viktig produkt för nationella tågbolag som för svenskar på tågsemester. Så "det är krångligt" är egentligen "det är krångligt att resa på snabba tåg med Interrail i vissa länder".
 
 Men som jag utvecklat i bloggposten [”Krånglar vi till det”](https://www.trainfo.eu/2024/08/13/kranglar-vi-till-det/) så har nog jag - och andra som jag lärt mig av - krånglat till det i onödan. Mycket problem skulle försvunnit om interrail.eu använts. Dyrare men enklare.
@@ -91,7 +79,5 @@ Men som jag utvecklat i bloggposten [”Krånglar vi till det”](https://www.tr
 När jag gjorde en ovetenskaplig undersökning i FB-gruppen Tågsemester visade det sig att det var en liten andel som skulle till Spanien och Portugal, men de ländernas egenheter med Interrail gjorde att det var oproportioneligt mycket frågor kring dem. Majoriteten skulle till Tyskland (frågan var typ "vi skall till X med tåg", dvs destination, inte transitland). Men det är lätt att åka till och i Tyskland så det blir inte så mycket frågor kring det. Besöksstatistiken på den här sajten ger ett liknande resultat, det läses mycket mer om Italien än om Spanien.
 
 Med den här sajten kommer du att lära dig att resa smidigt med tåg och Interrail-biljett. Och redan när du är på väg hemåt från din första resa kommer det att kännas lättare.
-
-## Liknande sidor
 
 Uppdaterad 2025-01-25

@@ -4,8 +4,6 @@ date: 2024-06-01
 coverImage: "tivoli.jpeg"
 ---
 
- 
-
 ![](images/italia-in-tour-3-5-dagarsbiljett-for-regionaltag_2.jpeg?w=769)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "tivoli.jpeg"
 Regionaltåget på bilden ingår. TIvoli utanför Rom.
 
 </figcaption>
-
- 
 
 ### Italia In Tour - Billiga regionaltåg i delar av Italien:
 
@@ -67,5 +63,3 @@ Kopierat 2025-02-28: [https://www.trenitalia.com/en/offers/italia-in-tour.html](
 - [Resa till Italien](https://www.trainfo.eu/italien-resa/)
 
 Uppdaterad 2025-02-28
-
-## Liknande sidor

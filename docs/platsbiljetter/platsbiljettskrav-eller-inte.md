@@ -4,8 +4,6 @@ date: 2024-08-07
 coverImage: "image.jpg"
 ---
 
-
-
 ![](images/platsbiljettskrav-eller-inte_3.jpg?w=1024)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "image.jpg"
 Italienska InterCity har platsbiljettkrav.
 
 </figcaption>
-
-
 
 En genomgång av hur platsreservationer hanteras på olika sorters tåg.
 
@@ -26,8 +22,6 @@ Det finns i grova drag tre sätt att hantera biljetter och platsbiljetter. Alla 
 
 Här _måste_ du ha en reserverad plats. Den ingår när du köper vanlig biljett men Interrail _måste_ kompletteras med platsbiljett. SJ Snabbtåg är ett exempel. (Systemet förekommer även i t.ex. Frankrike, Spanien, Italien och generellt på [nattåg](https://www.trainfo.eu/nattag/)). Bild från appen [RailPlanner](https://www.trainfo.eu/railplanner-appen/). Tåget tar inte ombord fler passagerare än det finns sittplatser (undantag kan göras för de som missat ett annat tåg). För att ha en giltig biljett krävs att du lägger in tåget i din trip i Railplanner och aktiverar resa, samt att du har en platsbiljett för den aktuella avgången. Har du inte detta får du inte åka med. Du behöver generellt visa både ditt Interrail och platsbiljetten. Detta gäller även med gamla pappers-Interrail, fast då var det två papper som skulle visas upp istället för två QR-koder i mobilen.
 
- 
-
 ![](images/platsbiljettskrav-eller-inte_11.jpeg?w=1024)
 
 <figcaption>
@@ -35,8 +29,6 @@ Här _måste_ du ha en reserverad plats. Den ingår när du köper vanlig biljet
 TGV i Frankrike, extra dyr platsbiljett hos interrail.eu
 
 </figcaption>
-
- 
 
 Obligatoriska platsbiljetter visas så här på interrail.eu. "print at home" är deras sätt att säga att det inte är en utskriven biljett som skickas med post (då står det). Platsbiljetter kan visas i mobilen:
 
@@ -50,8 +42,6 @@ Du får åka med om du har Interrail och har lagt in och aktiverat sträckan. In
 
 Du behöver inte visa upp din platsbiljett vid biljettkontroll, tågpersonalen är bara intresserade av ditt Interrailpass. I Tyskland gäller platsreservationen till 15 minuter efter avgång. Sen är det fritt fram för nån annan att sätta sig där. Som en tvättstugetid du inte använder. På det tåg som har en elektronisk skylt om vilken sträcka platsen är bokad på så släcks skylten.
 
- 
-
 ![](images/platsbiljettskrav-eller-inte_1.jpeg?w=670)
 
 <figcaption>
@@ -59,8 +49,6 @@ Du behöver inte visa upp din platsbiljett vid biljettkontroll, tågpersonalen �
 08:10 är kanske populärare än 07:08?
 
 </figcaption>
-
- 
 
 "optional" visas så här på interrail.eu:
 
@@ -112,8 +100,6 @@ Trycker på "Read more" så visas texten:
 
 På t.ex. Deutsche Bahn visas obligatoriska platsbiljetter med ett R i en fyrkant. Men hos tex SNCF visas det inte.
 
- 
-
 ![](images/platsbiljettskrav-eller-inte_14.jpg?w=750)
 
 <figcaption>
@@ -122,11 +108,7 @@ Ett tåg med obligatorisk platsbokning \[R\], ett utan
 
 </figcaption>
 
- 
-
 ## Sammanfattning
-
- 
 
 ![](images/platsbiljettskrav-eller-inte_4.jpeg?w=625)
 
@@ -135,8 +117,6 @@ Ett tåg med obligatorisk platsbokning \[R\], ett utan
 Alla sorter i en bild.
 
 </figcaption>
-
- 
 
 - Det krävs _alltid_ en [aktiverad journey](https://www.trainfo.eu/railplanner-appen/) (de tåg du åker med). Oavsett platsbiljettkrav.
 
@@ -153,5 +133,3 @@ Alla sorter i en bild.
 Sammanfattning:
 
 Uppdaterad 2024-09-30
-
-## Liknande sidor
