@@ -33,8 +33,15 @@ MkDocs och [MkDocs-Material(https://github.com/squidfunk/mkdocs-material)] skapa
 ### Deploy
 Jag fick tips om Netlify som gjorde det enkelt att ta filer från ett Git-repository, bygga dem till en statisk sajt med MkDocs och sen deploya så att den blir publikt åtkomlig som en webbsajt
 
-### Domän
+## Domän
 jag köpte domänen trainfo.eu (nån annan hade .se och .com, men att köpa upp domäner är inte så relevant idag när det är normalt med andra toppdomäner som .eu). Det gör det enkelt att flytta sajten vid behov.
+
+## Teknisk skuld
+Är det lätt att göra nåt kommer nån gång tillfällen där lättheten gör det väldigt svårt. Att lägga till bilde ri Wordpress utan att behöva fundera på filnamn blir jobbigt vid export av datan och filnamnen är obegripliga.
+
+## Fler som skriver?
+Den som är van vid Wordpress får lära sig en del. Den som jobbat med källkodsfiler och git förstår direkt. 
+
 
 ## Markdown-exempel
 
