@@ -26,7 +26,6 @@ plugins:
       date_from_meta:
         as_creation: date
   - tags:
-      tags_file: tags.md
       tags_allowed:
         - Belgien
         - Danmark
