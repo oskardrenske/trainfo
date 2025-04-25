@@ -3,10 +3,10 @@ title: "Första tågresan?"
 date: 2024-03-07
 coverImage: "forsta-resan_1.jpg"
 tags:
-    - planering
-    - interrail
-    - "praktisk info"
-    - nattåg
+- planering
+- interrail
+- "praktisk info"
+- nattåg
 ---
 
 ![](images/forsta-resan_1.jpg?w=1024)

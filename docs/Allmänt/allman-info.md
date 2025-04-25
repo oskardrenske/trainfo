@@ -252,5 +252,3 @@ Då kommer du att få mycket bättre svar på vad du undrar över.
 - Du kommer att höra och läsa mer om problem än om alla resor som går som tåget.
 
 - Ta med all relevant information om du frågar, så får du mycket bättre svar
-
-

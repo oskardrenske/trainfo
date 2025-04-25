@@ -3,9 +3,9 @@ title: "Nattåg"
 date: 2024-03-07
 coverImage: "images/nattag_2.jpeg"
 tags:
-    - "praktisk info"
-    - nattåg
-    - planering
+- "praktisk info"
+- nattåg
+- planering
 ---
 
 ![](images/nattag_2.jpeg?w=1024)

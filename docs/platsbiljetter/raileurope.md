@@ -1,10 +1,13 @@
 ---
 title: "Raileurope-instruktioner"
 date: 2024-03-09
-coverImage: "image.jpg"
+tags:
+    - Frankrike
+    - Italien
+    - Spanien
 ---
 
-## Raileurope
+# Raileurope
 
 "Add Railpass" syns nu även på mobilen.
 

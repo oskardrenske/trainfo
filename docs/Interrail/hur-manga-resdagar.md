@@ -2,10 +2,10 @@
 title: "Hur många resdagar behövs?"
 date: 2025-03-11
 coverImage: "images/hur-manga-resdagar_1.jpeg"
-tags: 
+tags:
     - interrail
     - planering
-    
+  
 ---
 
 ## "klippkort" eller "åkband"?
