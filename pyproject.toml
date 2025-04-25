@@ -14,3 +14,8 @@ dev = [
     "pre-commit>=4.2.0",
     "pymarkdownlnt>=0.9.29",
 ]
+[tool.pymarkdown]
+disabled-rules = [
+    "line-length",  
+    # Add other rule IDs here as needed
+]
