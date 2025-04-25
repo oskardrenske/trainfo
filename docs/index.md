@@ -9,7 +9,7 @@ date: 2024-03-07
 [Den underliggande tekniken](om-sajten/teknik/) är helt annorlunda.
 
 ## Menyer
-Info-sidor om oilka länder och rese-exemplen dit är i samma katalog/undermeny  
+Info-sidor om oilka länder och rese-exemplen dit är i samma meny  
 [Tags](tags/) inkluderar nu både bloggposter och statiska sidor
 
 
