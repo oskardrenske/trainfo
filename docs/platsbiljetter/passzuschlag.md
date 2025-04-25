@@ -1,7 +1,10 @@
 ---
-title: "Passzuschlag"
+title: "Passzuschlag - DB platsbiljett till Frankrike"
 date: 2024-07-07
-coverImage: "134b640d-cd2a-48bc-89ca-03d3eaa91e74_1_105_c.jpeg"
+coverImage: "images/passzuschlag_4.jpeg"
+tags:
+    - Frankrike
+    - Tyskland
 ---
 
 ## Tyskland - Frankrike - "Passzuschlag"

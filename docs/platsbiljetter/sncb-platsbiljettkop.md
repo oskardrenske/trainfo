@@ -1,10 +1,10 @@
 ---
 title: "SNCB - platsbiljettköp"
 date: 2024-07-05
-coverImage: "df09143b-956f-48cb-98f8-c5fda7a30479_1_105_c.jpeg"
+coverImage: "images/sncb-platsbiljettkop_1.jpeg"
 ---
 
-![]/Users/oskar/code/wordpress-export-to-markdown/export/pages/sncb-platsbiljettkop/images/sncb-platsbiljettkop_1.jpeg?w=1024)
+![]images/sncb-platsbiljettkop_1.jpeg?w=1024)
 
 <figcaption>
 
@@ -12,7 +12,7 @@ Belgisk våffla
 
 </figcaption>
 
-Uppdatering 2024-08-14: SNCB var relevant tidigare och fick en renässans när [Raileurope](https://www.trainfo.eu/raileurope/) hade bokningsavgift några dar i juli 2024 (när jag skrev denna sida). Nu när bokningsavgiften är borta från Raileurope finns det ingen anledning att använda SNCB.
+Uppdatering 2024-08-14: SNCB var relevant tidigare och fick en renässans när [Raileurope](https://www.trainfo.eu/raileurope/) hade bokningsavgift några dar i juli 2024 (när jag skrev denna sida). Nu när bokningsavgiften är borta från Raileurope finns det ingen större anledning att använda SNCB.
 
 Köp av platsbiljetter av SNCB - _Société nationale des chemins de fer belges_ \- Belgiens staliga järnvägsbolag. De kan sälja platsbiljetter till tåg i olika länder.
 
