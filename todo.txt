@@ -9,3 +9,7 @@ https://github.com/squidfunk/mkdocs-material/blob/master/docs/setup/setting-up-s
 coverimage
 - sidor
 - posts
+
+Blog title "title" --> "title (date)" så att tags blir användbara
+
+Bilder .jpeg till .jpg

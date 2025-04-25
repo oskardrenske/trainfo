@@ -25,7 +25,7 @@ När filerna är ren text blir det enkelt att göra sök-ersätt och att se skil
 Det är även möjligt att göra större ändringar som att döpa om bilderna till nåt som matchar filen de hör till. Det här rä ett arbetssätt jag är van vid med programmeringsspråk. 
 
 #### Granskningar
-Det finns program ("linter") som granskar om markdown-filerna är korrekta. Även användbarhet tas upp, att det skall finnas "alt-text" på bilder
+Det finns [program](https://pymarkdown.readthedocs.io/en/latest/) som granskar om markdown-filerna är korrekta. Även användbarhet tas upp, som att det skall finnas "alt-text" på bilder
 
 #### Menyer
 MkDocs och [MkDocs-Material(https://github.com/squidfunk/mkdocs-material)] skapar menyerna utifrån katalogstrukturen. Det går även att definiera menyer själv. [Material Design](https://m3.material.io) är ett populärt ramverk så menyerna borde ge igenkänning från andra webbplatser.
