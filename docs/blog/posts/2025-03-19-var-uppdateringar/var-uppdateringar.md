@@ -1,10 +1,10 @@
 ---
-title: "vår-uppdateringar"
+title: "Blog: vår-uppdateringar"
 date: 2025-03-19
-categories: 
-  - "danmark"
+tags: 
+  - "Danmark"
   - "italien"
-  - "nattag"
+  - "nattåg"
   - "platsbiljett"
   - "polen"
   - "railplanner"
@@ -30,7 +30,7 @@ Läs "[Tågluff 2025"](https://www.trainfo.eu/2025/01/19/tagluff-2025/) om du in
 
 ## Påsk
 
-Banarbeten på många ställen, bl.a [Danmark](https://www.trainfo.eu/danmark/). I de fall det krävs ersättningsbuss går det inga [nattåg](https://www.trainfo.eu/nattag/).
+Banarbeten på många ställen, bl.a [Danmark](https://www.trainfo.eu/Danmark/). I de fall det krävs ersättningsbuss går det inga [nattåg](https://www.trainfo.eu/nattag/).
 
 ## Railplanner
 

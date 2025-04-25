@@ -1,8 +1,8 @@
 ---
-title: "Inför sommaren 2024"
+title: "Blog: Inför sommaren 2024"
 date: 2024-04-16
-categories: 
-  - "danmark"
+tags: 
+  - "Danmark"
   - "italien"
   - "platsbiljett"
   - "sverige"
@@ -14,7 +14,7 @@ categories:
 
 - Obligatorisk platsbiljett under sommaren på EC & RJ-tågen från München över gränsen till Österrike och tillbaka (1 juni - 1 sept). Plus det vanliga tillägget på €10. [Köp hos ÖBB](https://www.trainfo.eu/nightjet/). Går att slippa men då blir det några byten och längre restid. Det verkar inte vara obligatoriskt från Österrike till Italien. Troligen har det med fotbollen att göra.
 
-- Även obligatorisk platsbiljett på direkttågen [Köpenhamn - Hamburg](https://www.trainfo.eu/danmark/) och tillbaka - oavsett vad som står i Railplanner!
+- Även obligatorisk platsbiljett på direkttågen [Köpenhamn - Hamburg](https://www.trainfo.eu/Danmark/) och tillbaka - oavsett vad som står i Railplanner!
 
 - Banarbeten i juli i Danmark med avstängningar och ersättningbuss. Kolla tider med DB/DSB, inte Railplanner.
 

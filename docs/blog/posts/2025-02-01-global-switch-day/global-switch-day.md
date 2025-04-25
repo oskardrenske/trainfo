@@ -1,8 +1,7 @@
 ---
-title: "Global Switch Day"
+title: "Blog: Global Switch Day"
 date: 2025-02-01
 tags: 
-  - "hashtags"
   - "interrail"
 coverImage: "screenshot-2025-02-01-at-10.48.11.png"
 ---

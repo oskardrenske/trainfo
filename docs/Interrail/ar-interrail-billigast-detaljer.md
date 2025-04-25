@@ -2,6 +2,10 @@
 title: "Är interrail billigast? - Detaljer"
 date: 2025-02-03
 coverImage: "image.jpg"
+tags: 
+    - interrail
+    - planering
+
 ---
 
 Läs först sidan "[Är Interrail billigast".](https://www.trainfo.eu/ar-interrail-billigast/) Den här sidan innehåller exempel som gjorde sidan svårläst. Tabellerna gör att den här sidan ser bäst ut på större skärm

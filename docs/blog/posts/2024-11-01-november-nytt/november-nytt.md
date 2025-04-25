@@ -1,10 +1,10 @@
 ---
-title: "November-nytt"
+title: "Blog: November-nytt"
 date: 2024-11-01
-categories: 
+tags: 
   - "italien"
   - "london"
-  - "nattag"
+  - "nattåg"
   - "railplanner"
   - "spanien"
 coverImage: "img_3388.jpeg"

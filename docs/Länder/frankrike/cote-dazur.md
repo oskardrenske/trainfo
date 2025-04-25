@@ -1,6 +1,8 @@
 ---
 title: "Côte d'Azur med tåg"
 date: 2024-03-19
+tags:
+- Frankrike
 ---
 
 Att ta sig till Rivieran är till stora delar samma väg som till [Spanien](https://www.trainfo.eu/spanien-resa/).

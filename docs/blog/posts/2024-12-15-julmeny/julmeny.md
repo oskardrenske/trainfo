@@ -1,5 +1,5 @@
 ---
-title: "Julmeny"
+title: "Blog: Julmeny"
 date: 2024-12-15
 coverImage: "706c3edf-3c4e-4d3a-a749-e8d8ebda282e_1_105_c.jpeg"
 ---

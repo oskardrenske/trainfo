@@ -1,7 +1,7 @@
 ---
-title: "Ny sida: Deutschlandticket och ny meny: Blog"
+title: "Blog: Ny sida: Deutschlandticket och ny meny: Blog"
 date: 2024-04-21
-categories: 
+tags: 
   - "tyskland"
 ---
 

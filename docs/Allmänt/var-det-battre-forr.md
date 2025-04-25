@@ -1,7 +1,7 @@
 ---
 title: "Var det bättre förr?"
 date: 2024-03-31
-coverImage: "trangt_pa_tag_forr.png"
+coverImage: "var-det-battre-forr_1.png"
 ---
 
 ![](images/var-det-battre-forr_1.png?w=500)

@@ -1,7 +1,9 @@
 ---
 title: "Förseningar"
 date: 2024-04-16
-coverImage: "img_9865.jpg"
+coverImage: "images/forseningar_1.jpg"
+
+
 ---
 
 ![](images/forseningar_1.jpg?w=1024)

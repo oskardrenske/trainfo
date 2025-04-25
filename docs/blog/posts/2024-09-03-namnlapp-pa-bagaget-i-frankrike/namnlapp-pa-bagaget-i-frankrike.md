@@ -1,9 +1,9 @@
 ---
-title: "Namnlapp på bagaget i Frankrike"
+title: "Blog: Namnlapp på bagaget i Frankrike"
 date: 2024-09-03
-categories: 
-  - "danmark"
-  - "frankrike"
+tags: 
+  - "Danmark"
+  - "Frankrike"
   - "italien"
   - "london"
   - "polen"
@@ -54,7 +54,7 @@ Nytt [nattåg](https://www.trainfo.eu/nattag/) till [Italien](https://www.trainf
 
 Det dröjer några år till innan vi kan åka i den, men bygget av tunneln Rödby 🇩🇰- Puttgarden 🇩🇪går framåt [https://www.theguardian.com/world/article/2024/aug/23/record-breaking-tunnel-denmark-germany-fehmarnbelt](https://www.theguardian.com/world/article/2024/aug/23/record-breaking-tunnel-denmark-germany-fehmarnbelt)
 
-Platsbiljettkravet för direkttågen Köpenhamn - Hamburg är borta, det kommer kanske tillbaka kring jul och nyår. Men det kan vara en bra idé att köpa det ändå. Läs mer på sidan om [Danmark](https://www.trainfo.eu/danmark/).
+Platsbiljettkravet för direkttågen Köpenhamn - Hamburg är borta, det kommer kanske tillbaka kring jul och nyår. Men det kan vara en bra idé att köpa det ändå. Läs mer på sidan om [Danmark](https://www.trainfo.eu/Danmark/).
 
 ### Sverige
 

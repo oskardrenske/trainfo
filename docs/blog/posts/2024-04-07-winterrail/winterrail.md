@@ -1,8 +1,8 @@
 ---
-title: "Winterrail"
+title: "Blog: Winterrail"
 date: 2024-04-07
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
   - "italien"
   - "reseberattelser"
   - "spanien"

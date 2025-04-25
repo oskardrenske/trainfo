@@ -1,22 +1,26 @@
 ---
 title: "Frankrike med tåg"
 date: 2024-03-07
-coverImage: "a01826e7-fef6-4868-b982-333ac4fbb496_1_105_c.jpeg"
+coverImage: "images/frankrike_5.jpeg"
 tags:
 - Frankrike
 ---
 
 ![](images/frankrike_5.jpeg?w=769)
 
+# Att resa med tåg i Frankrike
+
+ <!-- more -->
+
 Frankrike har ett snabbtågsnät där tågen kräver platsbiljett om du har Interrail. De platsbiljettfria alternativen tar ofta lång tid med flera byten. Tanken är väl ungefär "skall du långt tar du TGV, skall du inte långt tar du TER och eftersom du inte skall långt blir det inte så många byten". De har nog inte en tanke på svenskar som snabbt vill passera Frankrike på väg till Spanien och som dessutom har Interrail.
 
-### Appen SNCF Connect
+## Appen SNCF Connect
 
 SNCFs (det statliga franska tågbolaget) app är rätt dålig. Ibland visar den inte förbindelser med byten (kolla då tågen var för sig) och om du väljer tågtyp TER för att undvika platsbiljetter så verkar den tycka att en delsträcka med TER och resten med TGV eller Intercites är rimligt. Och så visar den ibland reklam när du vill se ett sökresultat. Dessutom kan den påstå att TER-tåg är slutsålda när det är i stort sett tomt. Köp på webben istället för appen funkade för mig när det hände (jag insåg det orimliga i att de skulle ha sålt speciellt många biljetter till den avgången).
 
 ### Paris
 
-[Länk till separat sida med rese-exempel till Paris](https://www.trainfo.eu/paris-resa/)
+[Länk till separat sida med rese-exempel till Paris](https://test.trainfo.eu/frankrike/paris-resa/)
 
 Tågbyte i Paris betyder ofta byte av station. Föreslagna tider för att ta sig genom Paris kan vara optimistiska. Planera minst 2 timmar för det. Stressa i metron eller sitta still i en buss eller taxi när minuterna tickar förbi blir inte kul. [Här kan du läsa om hur Metro-biljetter köps](https://www.seat61.com/changing-stations-in-paris.htm#how-to-buy-metro-tickets). ICE nämns inte men det har gått att köpa på TGV-tågen till Paris.
 

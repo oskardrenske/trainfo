@@ -1,5 +1,5 @@
 ---
-title: "Sökes: Social Media Manager till Sveriges populäraste Interrail-blogg"
+title: "Blog: Sökes: Social Media Manager till Sveriges populäraste Interrail-blogg"
 date: 2025-01-11
 coverImage: "screenshot-2025-01-08-at-13.49.53.png"
 ---

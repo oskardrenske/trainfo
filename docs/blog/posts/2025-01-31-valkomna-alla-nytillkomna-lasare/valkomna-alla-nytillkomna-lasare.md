@@ -1,9 +1,9 @@
 ---
-title: "Välkomna alla nytillkomna läsare"
+title: "Blog: Välkomna alla nytillkomna läsare"
 date: 2025-01-31
-categories: 
-  - "danmark"
-  - "frankrike"
+tags: 
+  - "Danmark"
+  - "Frankrike"
   - "italien"
   - "platsbiljett"
   - "spanien"
@@ -30,7 +30,7 @@ Många nya prenumeranter på sistone, välkomna! Dela gärna länkar så får fl
 
 ### Inga tåg?
 
-Börjar du planera sommaren? Det kan dröja innan tåg kommer in i tidtabellerna, speciellt [Italien](https://www.trainfo.eu/italien/) och [Spanien](https://www.trainfo.eu/spanien/). Får du konstiga sökresultat så kolla motsvarande veckodag "nästa vecka" och se hur det ser ut. Och det kommer att bli banarbete med totalavstängning en julivecka i [Danmark](https://www.trainfo.eu/danmark/) i år också. Inga [nattåg](https://www.trainfo.eu/nattag/) den veckan men välorganiserade bussar på dan. En del förespråkar diverse färjor, men färjorna är ofta anpassade för bilister, med mer eller mindre krångel för de som skall från järnvägsstationen till terminalen och ombord på färjan. Du får kolla rederiernas sajter och se om de beskriver nåt som passar för tågresenärer.
+Börjar du planera sommaren? Det kan dröja innan tåg kommer in i tidtabellerna, speciellt [Italien](https://www.trainfo.eu/italien/) och [Spanien](https://www.trainfo.eu/spanien/). Får du konstiga sökresultat så kolla motsvarande veckodag "nästa vecka" och se hur det ser ut. Och det kommer att bli banarbete med totalavstängning en julivecka i [Danmark](https://www.trainfo.eu/Danmark/) i år också. Inga [nattåg](https://www.trainfo.eu/nattag/) den veckan men välorganiserade bussar på dan. En del förespråkar diverse färjor, men färjorna är ofta anpassade för bilister, med mer eller mindre krångel för de som skall från järnvägsstationen till terminalen och ombord på färjan. Du får kolla rederiernas sajter och se om de beskriver nåt som passar för tågresenärer.
 
 ### Grundtips
 

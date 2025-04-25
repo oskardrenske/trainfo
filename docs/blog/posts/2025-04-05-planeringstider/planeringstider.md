@@ -1,10 +1,10 @@
 ---
-title: "Planeringstider"
+title: "Blog: Planeringstider"
 date: 2025-04-05
-categories: 
-  - "danmark"
+tags: 
+  - "Danmark"
   - "italien"
-  - "nattag"
+  - "nattåg"
   - "platsbiljett"
   - "railplanner"
   - "spanien"

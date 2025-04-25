@@ -1,8 +1,8 @@
 ---
-title: "Obegränsat resande"
+title: "Blog: Obegränsat resande"
 date: 2025-03-07
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
   - "italien"
   - "portugal"
   - "tips"

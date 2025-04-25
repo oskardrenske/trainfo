@@ -1,9 +1,9 @@
 ---
-title: "Förvirringen är över...?"
+title: "Blog: Förvirringen är över...?"
 date: 2024-07-10
-categories: 
-  - "danmark"
-  - "frankrike"
+tags: 
+  - "Danmark"
+  - "Frankrike"
   - "italien"
   - "platsbiljett"
   - "spanien"
@@ -38,7 +38,7 @@ Det var lite förvirrat ett par dar.... Men nu är det stabilare.
 
 #### Allmänt
 
-- Banarbeten i [Danmark](https://www.trainfo.eu/danmark/) från den 13 juli, så det blir buss mellan tågen. Var lugn, de har mer rutin på detta än du har, men restiden blir förstås längre. Kolla tiderna för dina planerade tåg så de inte har ändrats.
+- Banarbeten i [Danmark](https://www.trainfo.eu/Danmark/) från den 13 juli, så det blir buss mellan tågen. Var lugn, de har mer rutin på detta än du har, men restiden blir förstås längre. Kolla tiderna för dina planerade tåg så de inte har ändrats.
 
 - Tjeckien har en [sommar-biljett](https://www.cd.cz/en/typy-jizdenek/vnitrostatni-jizdenky/-38438/) för 1 eller 2 veckor. ca SEK 630 / 990
 

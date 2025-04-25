@@ -1,7 +1,7 @@
 ---
 title: "FAQ - Vanliga frågor"
 date: 2025-02-08
-coverImage: "img_0780.jpeg"
+coverImage: "images/faq-vanliga-fragor_1.jpeg"
 ---
 
 ![](images/faq-vanliga-fragor_1.jpeg?w=600)
@@ -80,7 +80,7 @@ _"Tågluff"_ om jag planerar? ja, ordet används numera för semesterrundresor m
 
 - Kan jag boka om platsbiljetter? Oftast inte.
 
-- Gäller Interrail på färjor. Läs vad som gäller hos [interrail](https://benefitsportal.eurail.com/?categories=1be1ba1c-80f5-4286-b255-3092f0d486cd).
+- Gäller Interrail på färjor. Läs vad som gäller hos [interrail](https://benefitsportal.eurail.com/?tags=1be1ba1c-80f5-4286-b255-3092f0d486cd).
 
 - Skall jag ha Interrail eller Eurail? Interrail. Eurail är för de som inte är bosatta i Europa.
 

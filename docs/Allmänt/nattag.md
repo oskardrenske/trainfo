@@ -1,7 +1,11 @@
 ---
 title: "Nattåg"
 date: 2024-03-07
-coverImage: "1cba3960-2525-4e1f-9c57-487f8751708d_1_105_c.jpeg"
+coverImage: "images/nattag_2.jpeg"
+tags:
+    - "praktisk info"
+    - nattåg
+    - planering
 ---
 
 ![](images/nattag_2.jpeg?w=1024)

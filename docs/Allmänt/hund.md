@@ -1,7 +1,9 @@
 ---
 title: "Hund på tåg"
 date: 2025-03-16
-coverImage: "img_0879-small.jpeg"
+coverImage: "images/hund_1.jpeg"
+tags:
+    - praktisk info
 ---
 
 ![](images/hund_1.jpeg?w=768)

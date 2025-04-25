@@ -1,7 +1,10 @@
 ---
 title: "Allmän info om tågresor och Interrail"
 date: 2024-03-07
-coverImage: "ef4ff7aa-8c54-430b-a6c9-9e8edddf7d22_1_105_c.jpeg"
+coverImage: "images/allman-info_2.jpeg"
+tags:
+- interrail
+- planering
 ---
 
 ![](images/allman-info_2.jpeg?w=1024)
@@ -14,7 +17,7 @@ Platsbiljett (Marseille St Charles - Frankfurt Hbf) köpt i SNCF Boutique i Nice
 
 Att tänka på: Interrail är nog mycket viktigare för svenskar som skall till Medelhavet på semester än det är för tågbolagen på kontinenten. Det är nog orsaken till många av de konstigheter du kommer att stöta på. De vill inte lägga pengar på speciallösningar som dessutom skapar ökad komplexitet i biljettsystemen.
 
-Är det din första långresa med tåg så börja med att läsa sidan ["Första tågresan".](https://www.trainfo.eu/forsta-resan/)
+Är det din första långresa med tåg så börja med att läsa sidan ["Första tågresan"](https://www.trainfo.eu/forsta-resan/)
 
 # Platsbiljetter med Interrail
 
@@ -250,4 +253,4 @@ Då kommer du att få mycket bättre svar på vad du undrar över.
 
 - Ta med all relevant information om du frågar, så får du mycket bättre svar
 
-#
+

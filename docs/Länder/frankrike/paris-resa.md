@@ -2,6 +2,8 @@
 title: "Paris-resa med tåg"
 date: 2024-03-08
 coverImage: "dece15d0-d625-4fd3-bc46-741fbc389878_1_105_c.jpeg"
+tags:
+- Frankrike
 ---
 
 ![](images/paris-resa_1.jpeg?w=775)

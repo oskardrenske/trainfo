@@ -1,7 +1,7 @@
 ---
-title: "Knödelexpressens sista resor?"
+title: "Blog: Knödelexpressens sista resor?"
 date: 2025-04-19
-categories: 
+tags: 
   - "polen"
   - "reseberattelser"
   - "tips"

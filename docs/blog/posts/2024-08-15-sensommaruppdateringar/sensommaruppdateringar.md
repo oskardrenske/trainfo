@@ -1,9 +1,9 @@
 ---
-title: "Uppdateringar i all enkelhet"
+title: "Blog: Uppdateringar i all enkelhet"
 date: 2024-08-15
-categories: 
-  - "danmark"
-  - "frankrike"
+tags: 
+  - "Danmark"
+  - "Frankrike"
   - "italien"
   - "platsbiljett"
   - "portugal"
@@ -41,13 +41,13 @@ Med det sagt kommer här lite **uppdateringar** (inklusive sajterna som kräver 
 
 Mer [**Frankrike**](https://www.trainfo.eu/frankrike/): förr kunde Interrail.eu bara sälja den dyra varianten (€20) av platsbiljetter till TGV inom Frankrike men nu kollade jag och de säljer €10-varianten också.
 
-**[Danska DSB](https://www.trainfo.eu/danmark/)** kan boka flera platsbiljetter till priset av en. [Danmark](https://www.trainfo.eu/danmark/), [Tyskland](https://www.trainfo.eu/tyskland/), [Nederländerna](https://www.trainfo.eu/amsterdam-bryssel-london/) (även den obligatoriska under sommaren som DB inte kan sälja), Österrike, Tjeckien. Kanske fler, det var de länder jag kollade) Inte lika mycket inställningar för uppehåll som [Deutsche Bahn kan göra.](https://www.trainfo.eu/platsbokning-med-db/) 15 kr billigare än DB är främsta argumentet att använda DSB.
+**[Danska DSB](https://www.trainfo.eu/Danmark/)** kan boka flera platsbiljetter till priset av en. [Danmark](https://www.trainfo.eu/Danmark/), [Tyskland](https://www.trainfo.eu/tyskland/), [Nederländerna](https://www.trainfo.eu/amsterdam-bryssel-london/) (även den obligatoriska under sommaren som DB inte kan sälja), Österrike, Tjeckien. Kanske fler, det var de länder jag kollade) Inte lika mycket inställningar för uppehåll som [Deutsche Bahn kan göra.](https://www.trainfo.eu/platsbokning-med-db/) 15 kr billigare än DB är främsta argumentet att använda DSB.
 
 Platsbiljett **Tyskland-Frankrike** som ["Passzuschlag"](https://www.trainfo.eu/passzuschlag/) hos Deutsche Bahn är nu officiell. Tyvärr tror jag många kommer att välja "seat only" och så blir det fel ändå. Inte du som läst bruksanvisningen här på sajten, men de som bara får en länk.
 
 Jag förtydligade om **olika sorters tåg** med [obligatoriska / möjliga / rekommenderade / omöjliga platsbiljetter.](https://www.trainfo.eu/platsbiljettskrav-eller-inte/)
 
-I september tas sommarens tillfälliga platsbiljettskrav i **[Tyskland](https://www.trainfo.eu/tyskland/)** och **[Danmark](https://www.trainfo.eu/danmark/)** bort.
+I september tas sommarens tillfälliga platsbiljettskrav i **[Tyskland](https://www.trainfo.eu/tyskland/)** och **[Danmark](https://www.trainfo.eu/Danmark/)** bort.
 
 [**SNCB**](https://www.trainfo.eu/sncb-platsbiljettkop/) är knappast relevant längre. De fick en kort renässans de dagar Raileurope tog ut en hög bokningsavgift.
 

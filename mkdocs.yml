@@ -1,13 +1,11 @@
 site_name: Interrailinfo på svenska
-site_description: Spåret till #Tågskryt
-site_url: http://localhost:8000
+site_description: "Spåret till #Tågskryt"
+site_url: https://test.trainfo.eu
 
 theme:
   name: material
   logo: images/icon.png
-  features:
-    - navigation.indexes
-
+  
 plugins:
   - rss:
       match_path: "blog/.*"
@@ -19,5 +17,11 @@ plugins:
   - social:
       cards: false
   - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodonsweden.se/@interrailinfosvenska
+      name: Mastodon
 
 

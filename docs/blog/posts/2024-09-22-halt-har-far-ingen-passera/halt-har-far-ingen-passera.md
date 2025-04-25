@@ -1,8 +1,8 @@
 ---
-title: "Halt! Här får ingen passera"
+title: "Blog: Halt! Här får ingen passera"
 date: 2024-09-22
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
   - "italien"
   - "platsbiljett"
   - "sverige"

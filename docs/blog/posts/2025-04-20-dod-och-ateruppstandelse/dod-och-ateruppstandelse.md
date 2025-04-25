@@ -1,7 +1,9 @@
 ---
-title: "Död och återuppståndelse"
+title: "Blog: Död och återuppståndelse"
 date: 2025-04-20
-coverImage: "img_9551-small-1.jpeg"
+coverImage: "images/dod-och-ateruppstandelse_3.jpeg"
+tags:
+    - sajten
 ---
 
  

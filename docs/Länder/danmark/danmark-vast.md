@@ -1,6 +1,8 @@
 ---
-title: "Danmark-väst"
+title: "Västra Danmark"
 date: 2024-03-08
+tags:
+- Danmark
 ---
 
 Ett alternativ för att reservationsfritt men långsammare ta sig Hamburg - Köpenhamn och vice versa är via västra Danmark. Hamburg - Niebüll- Tönder - Bramming - Köpenhamn. Resan gjordes i maj 2023. Jag hade besökt Sylt och tänkte det kunde vara kul att prova, och jag passade på att dokumentera.

@@ -1,9 +1,9 @@
 ---
-title: "Nytt och populärt"
+title: "Blog: Nytt och populärt"
 date: 2025-01-05
-categories: 
-  - "frankrike"
-  - "nattag"
+tags: 
+  - "Frankrike"
+  - "nattåg"
   - "platsbiljett"
   - "reseberattelser"
   - "spanien"
@@ -113,7 +113,7 @@ Totalt 37000 besökare som i snitt läste 2,5 sidor var. Det är säkerligen en 
 | [Amsterdam / Bryssel / London med tåg](https://www.trainfo.eu/amsterdam-bryssel-london/) | 4.1 | 2024-03-14 | 1204 |
 | [Passzuschlag](https://www.trainfo.eu/passzuschlag/) | 4.0 | 2024-07-07 | 723 |
 | [Sverige](https://www.trainfo.eu/sverige/) | 3.5 | 2024-03-07 | 1043 |
-| [Danmark med tåg](https://www.trainfo.eu/danmark/) | 3.3 | 2024-03-08 | 988 |
+| [Danmark med tåg](https://www.trainfo.eu/Danmark/) | 3.3 | 2024-03-08 | 988 |
 | [Raileurope-instruktioner](https://www.trainfo.eu/raileurope/) | 3.3 | 2024-03-09 | 986 |
 | [Är interrail billigast?](https://www.trainfo.eu/ar-interrail-billigast/) | 3.3 | 2024-06-23 | 635 |
 | [Sicilien, Kalabrien & Apulien med tåg](https://www.trainfo.eu/sicilien-kalbrien-apulien/) | 2.1 | 2024-04-16 | 548 |
@@ -128,7 +128,7 @@ Totalt 37000 besökare som i snitt läste 2,5 sidor var. Det är säkerligen en 
 | [Förseningar](https://www.trainfo.eu/forseningar/) | 0.7 | 2024-04-16 | 173 |
 | [Storbritannien](https://www.trainfo.eu/storbrittannien/) | 0.7 | 2024-03-08 | 207 |
 | [Var det bättre förr?](https://www.trainfo.eu/var-det-battre-forr/) | 0.7 | 2024-03-31 | 185 |
-| [Danmark-väst](https://www.trainfo.eu/danmark-vast/) | 0.5 | 2024-03-08 | 165 |
+| [Danmark-väst](https://www.trainfo.eu/Danmark-vast/) | 0.5 | 2024-03-08 | 165 |
 | [Aosta-dalen i Italien med tåg](https://www.trainfo.eu/aosta-dalen-i-italien/) | 0.4 | 2024-04-16 | 114 |
 | [Portugal](https://www.trainfo.eu/portugal/) | 0.4 | 2024-03-07 | 128 |
 | [SNCB – platsbiljettköp](https://www.trainfo.eu/sncb-platsbiljettkop/) | 0.4 | 2024-07-05 | 67 |

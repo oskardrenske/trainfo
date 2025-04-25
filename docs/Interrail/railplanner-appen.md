@@ -1,7 +1,12 @@
 ---
 title: "Railplanner-appen"
 date: 2024-03-07
-coverImage: "image.jpg"
+coverImage: "images/railplanner-appen_20.jpg
+tags: 
+    - interrail
+    - planering
+    - Railplanner
+    
 ---
 
 ![](images/railplanner-appen_20.jpg?w=1024)
