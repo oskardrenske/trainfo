@@ -7,7 +7,7 @@ tags:
 - "tips"
 - "Tjeckien"
 - "Tyskland"
-coverImage: "00100dportrait_00100_burst20190908131040277_cover2-small.jpg"
+coverImage: "images/knodelexpressens-sista-resor_1.jpg"
 ---
 
 ![](images/knodelexpressens-sista-resor_1.jpg?w=768)

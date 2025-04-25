@@ -18,7 +18,7 @@ Vinnytsia
 
 Några tågresebilder från volontären Anna som var med och l[evererade ett fordon och sjukvårdsmateriel mm](https://threadreaderapp.com/thread/1836653490707243423.html) i Ukraina och tog tåget hem.
 
-[![](images/4d7acf1b-38d4-4e77-8ba6-8e2f8860076d_1_105_c.jpeg?w=768)](https://rekyl.org/produkt/cat-tourniquet-gen-7/)
+[![](images/fran-ukraina-med-tag_16.jpeg?w=768)](https://rekyl.org/produkt/cat-tourniquet-gen-7/)
 
 <figcaption>
 

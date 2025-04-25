@@ -40,7 +40,7 @@ Du kan läsa mer om historia och språk på [Wikipedia](https://en.wikipedia.org
 
 Tack och lov är "il caffe" italienskt utan grannländernas åverkan. På "Place de la Republique" (endast franska på gatuskylten) serverades Hausbrandt från Trieste.
 
-![](images/4d1b91f2-8544-469f-816f-552c64a0bf2b_1_201_a.jpg?w=768)
+![](images/aosta-dalen_2.jpg?w=768)
 
 ### Slutsats:
 

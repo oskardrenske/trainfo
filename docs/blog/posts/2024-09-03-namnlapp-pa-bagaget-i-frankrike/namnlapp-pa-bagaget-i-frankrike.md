@@ -9,7 +9,7 @@ tags:
 - "Polen"
 - "tips"
 - "Tyskland"
-coverImage: "e238817d-5fdb-4135-99f0-5f2ec2e4b116_1_105_c.jpeg"
+coverImage: "images/namnlapp-pa-bagaget-i-frankrike_2.jpeg"
 ---
 
 ![](images/namnlapp-pa-bagaget-i-frankrike_2.jpeg?w=1024)

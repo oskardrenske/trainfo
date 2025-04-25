@@ -17,3 +17,5 @@ tags:
 
 - [Siege avec vue](https://www.siegeavecvue.eu) - _"Around Europe on the train with a Peruvian finger puppet."_
 - ["It turns out you’re never too old to go Interrailing around Europe"](https://www.theguardian.com/commentisfree/2025/apr/22/interrailing-europe-sons-family-youth)
+
+[https://www.interrail.eu/en/magazine/travel-stories/25-routes-2025](https://www.interrail.eu/en/magazine/travel-stories/25-routes-2025)

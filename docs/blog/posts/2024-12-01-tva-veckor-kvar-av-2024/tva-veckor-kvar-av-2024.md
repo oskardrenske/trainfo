@@ -10,10 +10,10 @@ tags:
 - "Sverige"
 - "tips"
 - "Tyskland"
-coverImage: "img_0326.jpg"
+coverImage: "images/tva-veckor-kvar-av-2024_4.jpg"
 ---
 
-[![](images/img_0326.jpg?w=798)](https://weihnachtsmarkt-magazin.de/)
+[![](images/tva-veckor-kvar-av-2024_4.jpg?w=798)](https://weihnachtsmarkt-magazin.de/)
 
 <figcaption>
 

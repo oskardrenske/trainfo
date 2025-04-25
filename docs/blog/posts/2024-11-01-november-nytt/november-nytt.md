@@ -7,7 +7,7 @@ tags:
 - "nattåg"
 - "railplanner"
 - "Spanien"
-coverImage: "img_3388.jpeg"
+coverImage: "images/november-nytt_2.jpeg"
 ---
 
 ![](images/november-nytt_2.jpeg?w=750)
@@ -38,7 +38,7 @@ Sökningar i Railplanner bortom decembers tidtabellskifte ger (ibland?) ett felm
 
 Tur att de planerar strejkerna i [Italien](https://www.trainfo.eu/italien/). Undvik om möjligt.att resa i dessa regioner under strejken. Bild från appen Trenit! ("next strikes") 1 nov.
 
-![](images/ddeceda2-0e05-463b-821b-7721d159bea4_4_5005_c.jpeg?w=534)
+![](images/november-nytt_1.jpeg?w=534)
 
 ## Banarbete i Österrike
 

@@ -9,7 +9,7 @@ tags:
 - "Spanien"
 - "Sverige"
 - "tips"
-coverImage: "b60efc0b-43e0-4b9a-b0b2-9c1773d60062_1_201_a.jpg"
+coverImage: "images/valkomna-alla-nytillkomna-lasare_5.jpg"
 ---
 
 ![](images/valkomna-alla-nytillkomna-lasare_5.jpg?w=1024)
@@ -83,8 +83,6 @@ Lågpriståg Amsterdam - Berlin från september. Rykten skriver om Hamburg - Kö
 [https://gleisbaer.eu/lgv/lgv-kursbuch\_indicateur-lgv\_lgv-timetable\_v0.5\_2025.pdf](https://gleisbaer.eu/lgv/lgv-kursbuch_indicateur-lgv_lgv-timetable_v0.5_2025.pdf)
 
 ### Kommande strejker i Italien
-
-![](images/img_0362-1.jpg?w=750)
 
 Det kanske strejkas på annat håll också, men för [Italien](https://www.trainfo.eu/italien/) är det väldigt lätt att ha koll i Trenit!-appen.
 

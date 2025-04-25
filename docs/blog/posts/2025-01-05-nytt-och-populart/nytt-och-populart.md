@@ -9,7 +9,7 @@ tags:
 - "Spanien"
 - "Sverige"
 - "Tyskland"
-coverImage: "bd8cbf06-1e98-4595-a30f-fe300f20fbbe_1_105_c.jpeg"
+coverImage: "bimages/nytt-och-populart_4.jpeg"
 ---
 
 ![](images/nytt-och-populart_4.jpeg?w=1024)

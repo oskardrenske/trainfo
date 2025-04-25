@@ -8,12 +8,41 @@ theme:
   
 plugins:
   - rss:
-      match_path: "blog/.*"
-      use_git: false
+      match_path: "blog/posts/.*"
+      date_from_meta:
+        as_creation: date
   - tags:
       tags_file: tags.md
+      tags_allowed:
+        - Belgien
+        - Danmark
+        - Finland
+        - Frankrike
+        - Holland
+        - Interrail
+        - Italien
+        - London
+        - nattåg
+        - Norge
+        - Polen
+        - Portugal
+        - Rese-exempel
+        - Spanien
+        - Sverige
+        - Tjeckien
+        - Tyskland
+        - Ukraina
+        - planering
+        - platsbiljett
+        - "praktisk info"
+        - railplanner
+        - reseberättelser
+        - sajten
+        - tips
+        - "under resan"
+        - Österrike
   - blog:
-      use_git: false
+      
   - social:
       cards: false
   - search
@@ -25,3 +54,5 @@ extra:
       name: Mastodon
 
 
+extra_javascript:
+  - stat_counter.js

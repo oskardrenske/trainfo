@@ -9,7 +9,7 @@ tags:
 - "Polen"
 - "railplanner"
 - "tips"
-coverImage: "img_6591-small.jpeg"
+coverImage: "images/var-uppdateringar_4.jpeg"
 ---
 
 ![](images/var-uppdateringar_4.jpeg?w=1024)
@@ -84,7 +84,7 @@ DB-sökning visar förväntad beläggning. Sardinburksträngsel i mitten av linj
 
 Trenitalia har ett filter för InterCity (Notte)-tåg. Billig platsbiljett och de går långa sträckor men är förstås långsammare än höghastighetstågen (vilket främst är märkbart på Milano - Bologna - Florens-Rom-Napoli-sträckan). Sidan om [Italien](https://www.trainfo.eu/italien/) är uppdaterad.
 
-![](images/screenshot-2025-03-10-at-20.00.58.png)
+![](images/var-uppdateringar_7.png)
 
 Det finns även ett regionaltågsfilter. Det kan du använda för att ta dig från Brenner och söderut till Verona/Bologna/Venedig utan det "supplemento" som krävs på EuroCity och RailJet-tågen. "No seat reservation" i [RailPlanner](https://www.trainfo.eu/railplanner-appen/) funkar inte där eftersom tågen som kräver "supplemento" är platsbiljettfria. Regionaltåg är långsammare, och med fler byten. Men billigare, och [inga reservationer är möjliga](https://www.trainfo.eu/platsbiljettskrav-eller-inte/). Vill du åka snabbare och slippa byten [köper du ”supplemento”](https://www.trainfo.eu/nightjet/) och ev en platsbiljett.
 

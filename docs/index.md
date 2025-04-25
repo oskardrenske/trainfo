@@ -6,11 +6,11 @@ date: 2024-03-07
 # INTERRAILINFO PÅ SVENSKA - TESTVERSION
 
 ## Teknik
-[Den underliggande tekniken](om-sajten/teknik/) är helt annorlunda.
+[Den underliggande tekniken](om-sajten/teknik.md) är helt annorlunda.
 
 ## Menyer
 Info-sidor om oilka länder och rese-exemplen dit är i samma meny  
-[Tags](tags/) inkluderar nu både bloggposter och statiska sidor
+[Tags](tags.md) inkluderar nu både bloggposter och statiska sidor
 
 
 ## Banarbete
@@ -30,7 +30,7 @@ Det pågår jobb med att konvertera och förbättra siten. Texterna är inte än
 
 ## De senaste blogginläggen
 
-[Hittas här](blog/)
+[Hittas här](blog/index.md)
 
 
 
