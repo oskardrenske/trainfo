@@ -15,7 +15,7 @@ dev = [
     "pymarkdownlnt>=0.9.29",
 ]
 [tool.pymarkdown]
-disabled-rules = [
-    "line-length",  
-    # Add other rule IDs here as needed
-]
+disabled-rules = []
+
+[tool.pymarkdown.rules.md013]
+line_length = 120
