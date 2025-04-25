@@ -1,9 +1,9 @@
 ---
-title: "Blog: Amsterdam / Bryssel / London"
+title: "Blog: Amsterdam / Bryssel / London (2024-03-14)"
 date: 2024-03-14
-tags: 
-  - "london"
-  - "platsbiljett"
+tags:
+- "London"
+- "platsbiljett"
 ---
 
 [Amsterdam / Bryssel / London](https://www.trainfo.eu/amsterdam-bryssel-london/) (ny sida)

@@ -1,20 +1,18 @@
 ---
-title: "Blog: Förvirringen är över...?"
+title: "Blog: Förvirringen är över...? (2024-07-10)"
 date: 2024-07-10
-tags: 
-  - "Danmark"
-  - "Frankrike"
-  - "italien"
-  - "platsbiljett"
-  - "spanien"
-  - "tips"
-  - "tyskland"
-tags: 
-  - "interrail"
+tags:
+- "Danmark"
+- "Frankrike"
+- "italien"
+- "platsbiljett"
+- "spanien"
+- "tips"
+- "tyskland"
+tags:
+- "interrail"
 coverImage: "hemresa_berlin-1.jpeg"
 ---
-
- 
 
 ![](images/forvirringen-ar-over_1.jpeg?w=536)
 
@@ -23,8 +21,6 @@ coverImage: "hemresa_berlin-1.jpeg"
 Har du koll på hemresan?
 
 </figcaption>
-
- 
 
 #### Platsbiljett-nytt
 

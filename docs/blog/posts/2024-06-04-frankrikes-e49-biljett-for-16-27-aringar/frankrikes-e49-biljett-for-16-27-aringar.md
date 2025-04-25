@@ -1,12 +1,10 @@
 ---
-title: "Blog: Frankrikes €49-biljett (för 16-27-åringar)"
+title: "Blog: Frankrikes €49-biljett (för 16-27-åringar) (2024-06-04)"
 date: 2024-06-04
-tags: 
-  - "Frankrike"
+tags:
+- "Frankrike"
 coverImage: "hyeres-small.jpeg"
 ---
-
- 
 
 ![](images/frankrikes-e49-biljett-for-16-27-aringar_1.jpg?w=768)
 
@@ -15,8 +13,6 @@ coverImage: "hyeres-small.jpeg"
 TER i Hyères
 
 </figcaption>
-
- 
 
 Den 5 juni 2024 kommer det en biljett för att _"allow young people between 16 and 27 years old of all nationalities to discover France by train"_ [https://www.ecologie.gouv.fr/pass-rail](https://www.ecologie.gouv.fr/pass-rail) ([översatt av Google](https://www-ecologie-gouv-fr.translate.goog/pass-rail?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp))
 

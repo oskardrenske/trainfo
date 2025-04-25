@@ -1,23 +1,21 @@
 ---
-title: "Blog: Påsklovsläsning"
+title: "Blog: Påsklovsläsning (2025-04-14)"
 date: 2025-04-14
-tags: 
-  - "Frankrike"
-  - "italien"
-  - "platsbiljett"
-  - "Polen"
-  - "Portugal"
-  - "railplanner"
-  - "spanien"
-  - "sverige"
-  - "tips"
-  - "tyskland"
+tags:
+- "Frankrike"
+- "italien"
+- "platsbiljett"
+- "Polen"
+- "Portugal"
+- "railplanner"
+- "spanien"
+- "sverige"
+- "tips"
+- "tyskland"
 coverImage: "gare-nimes.jpeg"
 ---
 
 Sidan om Portugal är uppdaterad med några rutter och det verkar bli strejker i Frankrike. Min reseplanering infor en Italienresa.
-
- 
 
 ![](images/pasklovslasning_4.jpeg?w=768)
 
@@ -27,13 +25,9 @@ Strejkdag = ta en tidigt tåg så skapar du marginaler
 
 </figcaption>
 
- 
-
 ## Nightjet
 
 ÖBB har dynamiska priser för nattågs-platser, men inom ett intervall:
-
- 
 
 ![](images/pasklovslasning_6.jpg?w=750)
 
@@ -43,8 +37,6 @@ Screenshot från Railplanner
 
 </figcaption>
 
- 
-
 ## [Spanien](https://www.trainfo.eu/spanien/)
 
 Barcelona-Toulouse blir försenat, senaste budet är oktober 2025. Ingen primär resväg för svenskar så det kanske inte spelar så stor roll för läsarna här.
@@ -52,8 +44,6 @@ Barcelona-Toulouse blir försenat, senaste budet är oktober 2025. Ingen primär
 Lite uppdateringar på sidorna om [Spanien](https://www.trainfo.eu/spanien/) och [Spanien-resa.](https://www.trainfo.eu/spanien-resa/)
 
 De baskiska pendeltågen Euskotren försvann ur Railplanner men är nu tillbaka. Tågen ingår inte i Interrail, men när de finns med kan de ge vettiga sökresultat för den som kommer till Spanien den vägen, annars föreslås det långa omvägar via Barcelona. Det finns ett filter för att bara visa tåg som ingår i Interrail. I många fall är det bra att filtrera bort dessa tåg, men just i Baskien är det bekvämt att se dem i en app du är van vid. Nu vet du att de finns ifall samma sak händer igen. Och av nån outgrundlig anledning gick det inte att få med sträckan från Hendaye norr om gränsen i denna sökning. Men Hendaye - Zaragosa gick bra. Hmm..? Hursomhelst, försvinner de igen vet du vad det beror på när du får såna här rutt-förslag:
-
- 
 
 ![](images/pasklovslasning_5.jpg?w=1024)
 
@@ -63,15 +53,11 @@ Reservationsfritt Bordeaux - San Sebastian. 50 timmar.
 
 </figcaption>
 
- 
-
 ## [Sverige](https://www.trainfo.eu/sverige/)
 
 SJ visar inte utländska stationer för nattåget till Tyskland när man kollar i appen. På sj.se syns stationerna men de har ingen aktuell information. "Tid enl. tidtabell" betyder att tiderna som visas är från tidtabellen (dvs ingen live-info), inte att tåget håller tiden. Det är svårt med live-info, både tekniskt och presentationsmässigt.
 
 ## [Frankrike](https://www.trainfo.eu/frankrike/)
-
- 
 
 ![](images/pasklovslasning_3.jpeg?w=605)
 
@@ -80,8 +66,6 @@ SJ visar inte utländska stationer för nattåget till Tyskland när man kollar 
 Strejk-demonstration i Nimes
 
 </figcaption>
-
- 
 
 Det verkar vara strejk (_grève_) på gång med både långtidsplanerade och potentiella strejker till slutet av maj. Håller du dig till regionaltåg kan det gå att ta sig fram. Om din resa bygger på snabbtåg, det blir inställt och du skall försöka få plats på nåt TGV som faktiskt går så blir det nog svårare. Speciellt om du har begränsat antal resdagar med ditt Interrail. Läs hur strejkerna funkar på [sidan om Frankrike](https://www.trainfo.eu/frankrike/#strejk).
 

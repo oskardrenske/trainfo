@@ -1,13 +1,13 @@
 ---
-title: "Blog: Trans Europe Express-tågluff"
+title: "Blog: Trans Europe Express-tågluff (2025-04-01)"
 date: 2025-04-01
-tags: 
-  - "Danmark"
-  - "Polen"
-  - "reseberattelser"
-  - "sverige"
-  - "tips"
-  - "tyskland"
+tags:
+- "Danmark"
+- "Polen"
+- "reseberattelser"
+- "sverige"
+- "tips"
+- "tyskland"
 coverImage: "image-1.png"
 ---
 
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=JKHfSwoALYE
 
 Så avslutar vi med
 
-> _From station to station, back to Düsseldorf City  
+> _From station to station, back to Düsseldorf City
 > Meet Iggy Pop and David Bowie_
 
 ![](images/trans-europe-express-tagluff_1.jpeg?w=515)

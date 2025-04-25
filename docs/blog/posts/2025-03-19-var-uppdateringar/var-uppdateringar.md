@@ -1,18 +1,16 @@
 ---
-title: "Blog: vår-uppdateringar"
+title: "Blog: vår-uppdateringar (2025-03-19)"
 date: 2025-03-19
-tags: 
-  - "Danmark"
-  - "italien"
-  - "nattåg"
-  - "platsbiljett"
-  - "Polen"
-  - "railplanner"
-  - "tips"
+tags:
+- "Danmark"
+- "italien"
+- "nattåg"
+- "platsbiljett"
+- "Polen"
+- "railplanner"
+- "tips"
 coverImage: "img_6591-small.jpeg"
 ---
-
- 
 
 ![](images/var-uppdateringar_4.jpeg?w=1024)
 
@@ -21,8 +19,6 @@ coverImage: "img_6591-small.jpeg"
 Pont du Gard i slutet på mars. Nära Nimes, inte så nära TGV-stationen Pont du Gard.
 
 </figcaption>
-
- 
 
 ## I planeringstagen?
 
@@ -34,11 +30,9 @@ Banarbeten på många ställen, bl.a [Danmark](https://www.trainfo.eu/Danmark/).
 
 ## Railplanner
 
-##### Liveinfo
+### Liveinfo
 
 Det verkar vara fortsatta problem med live-infon. _"Journey not possible"_ kan visas. Offline är allt OK, och sträckorna var för sig är OK. Oklart vad som pågår.
-
- 
 
 ![](images/var-uppdateringar_6.jpeg?w=1024)
 
@@ -48,9 +42,7 @@ Screenshot
 
 </figcaption>
 
- 
-
-##### Wallet
+#### Wallet
 
 Railplanner skall tydligen numera kunna visas i Apples Wallet. Hoppas det resulterar i en stabilare biljettvisning. Jag har inte kollat motsvarande i Android.
 
@@ -68,8 +60,6 @@ Och slutligen har tidsberäkningen ändrats så att lokal tid gäller istället 
 
 Det blev några nya läsare på [Mastodon](https://mastodonsweden.se/@interrailinfosvenska)
 
- 
-
 ![](images/var-uppdateringar_1.jpg?w=808)
 
 <figcaption>
@@ -78,13 +68,9 @@ Som man frågar får man svar
 
 </figcaption>
 
- 
-
 ## Fullt?
 
 Ett tåg är sällan fullt från start till slutstation. Det betyder att det kan finnas plats även om det är "fullt" när du söker hela sträckan. Men är det obligatorisk platsbiljett kanske det krävs flera. Så här kan det se ut:
-
- 
 
 ![](images/var-uppdateringar_3.jpeg?w=914)
 
@@ -94,8 +80,6 @@ DB-sökning visar förväntad beläggning. Sardinburksträngsel i mitten av linj
 
 </figcaption>
 
- 
-
 ## InterCity-tåg i Italien.
 
 Trenitalia har ett filter för InterCity (Notte)-tåg. Billig platsbiljett och de går långa sträckor men är förstås långsammare än höghastighetstågen (vilket främst är märkbart på Milano - Bologna - Florens-Rom-Napoli-sträckan). Sidan om [Italien](https://www.trainfo.eu/italien/) är uppdaterad.
@@ -104,9 +88,7 @@ Trenitalia har ett filter för InterCity (Notte)-tåg. Billig platsbiljett och d
 
 Det finns även ett regionaltågsfilter. Det kan du använda för att ta dig från Brenner och söderut till Verona/Bologna/Venedig utan det "supplemento" som krävs på EuroCity och RailJet-tågen. "No seat reservation" i [RailPlanner](https://www.trainfo.eu/railplanner-appen/) funkar inte där eftersom tågen som kräver "supplemento" är platsbiljettfria. Regionaltåg är långsammare, och med fler byten. Men billigare, och [inga reservationer är möjliga](https://www.trainfo.eu/platsbiljettskrav-eller-inte/). Vill du åka snabbare och slippa byten [köper du ”supplemento”](https://www.trainfo.eu/nightjet/) och ev en platsbiljett.
 
-#### Strejk
-
- 
+### Strejk
 
 ![](images/var-uppdateringar_2.jpg?w=947)
 
@@ -115,8 +97,6 @@ Det finns även ett regionaltågsfilter. Det kan du använda för att ta dig fr�
 Appen Trenìt! visar kommande strejker
 
 </figcaption>
-
- 
 
 ## Frankrike
 

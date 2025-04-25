@@ -1,19 +1,17 @@
 ---
-title: "Blog: Planeringstider"
+title: "Blog: Planeringstider (2025-04-05)"
 date: 2025-04-05
-tags: 
-  - "Danmark"
-  - "italien"
-  - "nattåg"
-  - "platsbiljett"
-  - "railplanner"
-  - "spanien"
-  - "tips"
-  - "tyskland"
+tags:
+- "Danmark"
+- "italien"
+- "nattåg"
+- "platsbiljett"
+- "railplanner"
+- "spanien"
+- "tips"
+- "tyskland"
 coverImage: "img_7002.jpeg"
 ---
-
- 
 
 ![](images/planeringstider_8.jpeg?w=768)
 
@@ -22,8 +20,6 @@ coverImage: "img_7002.jpeg"
 Carcassone (Frankrike) i april 2023, inga problem att ta tåget dit.
 
 </figcaption>
-
- 
 
 ## Ny läsare?
 
@@ -105,8 +101,6 @@ Live-infon fortsätter ställa till problem. Men nu går den att stänga av.
 
 Exempel på Railplanner-kaos när live updates är på och en via-station är vald. "No seat reservations" är valt men det kommer upp såna tåg när problemet uppstår (vilket det inte gör vid varje sökning). Inga problem med live-info avstängd eller bit för bit utan via-station.
 
- 
-
 ![](images/planeringstider_6.jpeg?w=592)
 
 <figcaption>
@@ -114,8 +108,6 @@ Exempel på Railplanner-kaos när live updates är på och en via-station är va
 Screenshot
 
 </figcaption>
-
- 
 
 Ett annat problem är att funktionen att klicka på ett tågnummer och se hela tågets sträckning - även innan och efter den sträcka du sökt - inte verkar funka när live-info är aktivt.
 

@@ -1,10 +1,10 @@
 ---
-title: "Blog: Krånglar vi till det?"
+title: "Blog: Krånglar vi till det? (2024-08-13)"
 date: 2024-08-13
-tags: 
-  - "platsbiljett"
-  - "railplanner"
-  - "tips"
+tags:
+- "platsbiljett"
+- "railplanner"
+- "tips"
 coverImage: "d865f76f-5bff-43c4-9182-1bc2c1d8d590_1_105_c.jpeg"
 ---
 
@@ -16,8 +16,6 @@ Att den här sajten behövs är tecken på ett misslyckande.
 
 Igår fick jag veta att det nu går att köpa platsbiljetter till Renfes tåg från [Frankrike](https://www.trainfo.eu/frankrike/) till [Spanien](https://www.trainfo.eu/spanien/) hos interrail.eu förutom hos [Happyrail](https://www.trainfo.eu/happyrail/)
 
- 
-
 ![](images/kranglar-vi-till-det_2.png?w=938)
 
 <figcaption>
@@ -25,8 +23,6 @@ Igår fick jag veta att det nu går att köpa platsbiljetter till Renfes tåg fr
 €10 för platsbiljett + €2 i bokningsavgift på interrail.eu
 
 </figcaption>
-
- 
 
 Det fick mig att fundera lite. **Hur mycket krångel är det värt för att slippa Interrails bokningsavgift?** Eller i Renfe-fallet betala €0.35 istället för €2 i bokningsavgift per biljett. Hur mycket av "Interrail-komplexiteten" kommer av detta optimerande för att spara pengar?
 

@@ -1,13 +1,13 @@
 ---
-title: "Blog: Inför sommaren 2024"
+title: "Blog: Inför sommaren 2024 (2024-04-16)"
 date: 2024-04-16
-tags: 
-  - "Danmark"
-  - "italien"
-  - "platsbiljett"
-  - "sverige"
-  - "tips"
-  - "tyskland"
+tags:
+- "Danmark"
+- "italien"
+- "platsbiljett"
+- "sverige"
+- "tips"
+- "tyskland"
 ---
 
 ### Nyheter och påminnelser
@@ -24,7 +24,7 @@ tags:
 
 - SJ har nu kunnat släppa en del sommarbiljetter och de har ett [nytt bokningsystem.](https://www.trainfo.eu/sverige/) Det gamla kräver (liksom Snälltåget) ett giltigt Interrail-nummer, det nya verkar inte göra det än så länge.
 
-- Nya rese-exempel: [Aosta-dalen](https://www.trainfo.eu/aosta-dalen-i-italien/) och [Sicilien / Kalabrien / Apulien](https://www.trainfo.eu/sicilien-kalbrien-apulien/) i Italien samt franska [Côte d’Azur](https://www.trainfo.eu/cote-dazur/) 
+- Nya rese-exempel: [Aosta-dalen](https://www.trainfo.eu/aosta-dalen-i-italien/) och [Sicilien / Kalabrien / Apulien](https://www.trainfo.eu/sicilien-kalbrien-apulien/) i Italien samt franska [Côte d’Azur](https://www.trainfo.eu/cote-dazur/)
 
 - [Separat sida om att lägga in 1-2 uppehåll vid bokning med Deutsche Bahn](https://www.trainfo.eu/platsbokning-med-db/)
 
@@ -40,7 +40,7 @@ tags:
 
 ### Vad läser besökarna på sajten?
 
-Nu har den nya sajten varit uppe ett tag och en oplanerad effekt är att uppdelningen på olika sidor gör att det går att få en överblick över vad besökarna tycker verkar intressant.  
+Nu har den nya sajten varit uppe ett tag och en oplanerad effekt är att uppdelningen på olika sidor gör att det går att få en överblick över vad besökarna tycker verkar intressant.
 Det är ca 100-300 besökare per dag. Det beror på hur mycket det länkas till sajten. Mer länkningar = mer trafik = fler som får en bättre resa.
 
 Startsidan (”Home” i tabellen) får förstås flest visningar (de flesta länkningarna går dit), länksidorna med exempelresor och lands-specifik information likaså.

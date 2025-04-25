@@ -1,5 +1,5 @@
 ---
-title: "Blog: Aosta-dalen med tåg"
+title: "Blog: Aosta-dalen med tåg (2024-03-22)"
 date: 2024-03-22
 coverImage: "aosta-small.png"
 ---

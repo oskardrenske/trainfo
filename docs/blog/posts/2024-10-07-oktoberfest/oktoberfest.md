@@ -1,17 +1,15 @@
 ---
-title: "Blog: Oktoberfest"
+title: "Blog: Oktoberfest (2024-10-07)"
 date: 2024-10-07
-tags: 
-  - "Frankrike"
-  - "london"
-  - "platsbiljett"
-  - "Portugal"
-  - "railplanner"
-  - "tips"
+tags:
+- "Frankrike"
+- "London"
+- "platsbiljett"
+- "Portugal"
+- "railplanner"
+- "tips"
 coverImage: "oktoberfest-small.png"
 ---
-
- 
 
 ![](images/oktoberfest_4.jpeg?w=768)
 
@@ -20,8 +18,6 @@ coverImage: "oktoberfest-small.png"
 Höst på väg från Heidelberg
 
 </figcaption>
-
- 
 
 ### Tyskland
 

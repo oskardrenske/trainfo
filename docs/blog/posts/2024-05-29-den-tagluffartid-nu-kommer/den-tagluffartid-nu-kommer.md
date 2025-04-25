@@ -1,20 +1,18 @@
 ---
-title: "Blog: Den tågluffartid nu kommer"
+title: "Blog: Den tågluffartid nu kommer (2024-05-29)"
 date: 2024-05-29
-tags: 
-  - "Danmark"
-  - "italien"
-  - "nattåg"
-  - "platsbiljett"
-  - "railplanner"
-  - "sverige"
-  - "tips"
+tags:
+- "Danmark"
+- "italien"
+- "nattåg"
+- "platsbiljett"
+- "railplanner"
+- "sverige"
+- "tips"
 coverImage: "syren-small.png"
 ---
 
 Uppdateringar inför sommarens tågluff och ny info-sida om Kroatien 🇭🇷
-
- 
 
 ![](images/den-tagluffartid-nu-kommer_1.jpeg?w=769)
 
@@ -23,8 +21,6 @@ Uppdateringar inför sommarens tågluff och ny info-sida om Kroatien 🇭🇷
 Jag blir förvirrad när jag reser på våren och syrenerna blommar. De skall ju blomma i slutet på maj/början av juni! Dessa var i _Jardins de la Fontaine_ i Nîmes, Frankrike i mitten på april. De lokala jordgubbarna var mogna samtidigt.
 
 </figcaption>
-
- 
 
 ## Bra att veta
 
@@ -46,8 +42,6 @@ Jag blir förvirrad när jag reser på våren och syrenerna blommar. De skall ju
 
 - Och som avslutning en länk till en sajt med frågor och svar om järnväg och tågtrafik [https://fråga.tågexperterna.nu](https://fråga.tågexperterna.nu)
 
- 
-
 ![](images/den-tagluffartid-nu-kommer_3.jpg?w=768)
 
 <figcaption>
@@ -55,5 +49,3 @@ Jag blir förvirrad när jag reser på våren och syrenerna blommar. De skall ju
 Gelato är viktigt i sommarvärmen
 
 </figcaption>
-
- 

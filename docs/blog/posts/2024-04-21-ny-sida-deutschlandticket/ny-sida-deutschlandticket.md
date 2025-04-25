@@ -1,8 +1,8 @@
 ---
-title: "Blog: Ny sida: Deutschlandticket och ny meny: Blog"
+title: "Blog: Ny sida: Deutschlandticket och ny meny: Blog (2024-04-21)"
 date: 2024-04-21
-tags: 
-  - "tyskland"
+tags:
+- "tyskland"
 ---
 
 Jag köpte en Deutschlandticket och dokumenterade samtidigt.

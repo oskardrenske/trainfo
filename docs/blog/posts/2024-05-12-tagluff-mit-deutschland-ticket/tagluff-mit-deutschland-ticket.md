@@ -1,11 +1,11 @@
 ---
-title: "Blog: Tåglüff mit Deutschland-Ticket"
+title: "Blog: Tåglüff mit Deutschland-Ticket (2024-05-12)"
 date: 2024-05-12
-tags: 
-  - "reseberattelser"
-  - "spanien"
-  - "tips"
-  - "tyskland"
+tags:
+- "reseberattelser"
+- "spanien"
+- "tips"
+- "tyskland"
 coverImage: "achtung-small.png"
 ---
 
@@ -35,10 +35,6 @@ Jag hade inte så jättemycket planer förutom att hålla mig till mindre städe
 
 Det funkade väldigt bra, jag hamnade inte på nåt av de ”förbjudna tågen” och jag testade några av de tåg som gick utanför Tyskland (🇵🇱, 🇱🇺 , 🇫🇷 ) liksom ett InterCity som ”extraknäcker” som regionaltåg på en del av sin sträckning:
 
- 
-
- 
-
 ![](images/tagluff-mit-deutschland-ticket_21.jpg?w=1024)
 
 <figcaption>
@@ -47,10 +43,6 @@ Tåget har både IC-nummer och RE-nummer
 
 </figcaption>
 
- 
-
- 
-
 ![](images/tagluff-mit-deutschland-ticket_60.jpg?w=1024)
 
 <figcaption>
@@ -58,10 +50,6 @@ Tåget har både IC-nummer och RE-nummer
 DB Fernverkehr där D-Ticket uttryckligen gäller
 
 </figcaption>
-
- 
-
- 
 
 ### Enkelt
 
@@ -103,8 +91,6 @@ Utanför stationer på mindre orter fanns ibland en skylt med vilka hotell mm so
 
 ## Färja
 
- 
-
 ![](images/tagluff-mit-deutschland-ticket_6.jpg?w=1024)
 
 <figcaption>
@@ -112,8 +98,6 @@ Utanför stationer på mindre orter fanns ibland en skylt med vilka hotell mm so
 St. Goarshausen på andra sidan Rhen.
 
 </figcaption>
-
- 
 
 Jag åkte färja över Rhen, tyvärr slutade D-Ticket gälla på denna färja sista april. Jag glömde fråga om det var för alltid eller bara i högsäsong. På ett annat rederi (KD) gällde den inte alls. Det är bara att kolla efter nån skylt eller fråga. den lokala turistinformationen kan säkert hjälpa till om du vill planera.
 
@@ -125,10 +109,6 @@ Stockholm - Berlin. Snälltåget. Uppgraderade till egen kupé, det fanns flera 
 
 Berlin - Cottbus - Görlitz
 
- 
-
- 
-
 ![](images/tagluff-mit-deutschland-ticket_50.jpeg?w=768)
 
 <figcaption>
@@ -136,10 +116,6 @@ Berlin - Cottbus - Görlitz
 Görlitz från Zgorzelec
 
 </figcaption>
-
- 
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_25.jpeg?w=768)
 
@@ -149,15 +125,7 @@ Zgorzelec från Görlitz
 
 </figcaption>
 
- 
-
- 
-
 Görlitz - Zittau - Zgorzelec i Polen (andra sidan floden, gick tillbaka till Görlitz). Deutschland-Ticket gällde til Zgorzelec. Floden Neisse blev gräns 1945 när Polen "flyttades västerut".
-
- 
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_10.jpeg?w=768)
 
@@ -167,10 +135,6 @@ Görlitz bahnhof
 
 </figcaption>
 
- 
-
- 
-
 ![](images/tagluff-mit-deutschland-ticket_18.jpeg?w=768)
 
 <figcaption>
@@ -179,13 +143,7 @@ Zittau
 
 </figcaption>
 
- 
-
- 
-
 Görlitz - Weimar. Jag valde Bauhaus-Museet istället för koncentrationslägret Buchenwald.
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_43.jpeg?w=1024)
 
@@ -195,11 +153,7 @@ Bauhaus-museet i Weimar
 
 </figcaption>
 
- 
-
 Weimar - Giessen
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_28.jpeg?w=768)
 
@@ -209,17 +163,11 @@ Gågata, Karstadt...väldigt (Väst)Tyskland
 
 </figcaption>
 
- 
-
 Giessen - Koblenz
 
 ![](images/tagluff-mit-deutschland-ticket_38.jpg?w=1024)
 
 Koblenz - Luxemburg - Gerolstein - Koblenz
-
- 
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_4.jpg?w=800)
 
@@ -229,10 +177,6 @@ Luxembourgs Gare Centrale
 
 </figcaption>
 
- 
-
- 
-
 ![](images/tagluff-mit-deutschland-ticket_16.jpeg?w=768)
 
 <figcaption>
@@ -241,13 +185,7 @@ Luxembourgs Gare Centrale
 
 </figcaption>
 
- 
-
- 
-
 Koblenz - Limburg - Kaub - Koblenz
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_5.jpeg?w=1024)
 
@@ -257,11 +195,7 @@ Bad Ems. För de som dagligen tänker på romarriket kan det vara intressant att
 
 </figcaption>
 
- 
-
 Koblenz - Wissembourg (FR) - St Georgen(Schwarzwald)
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_49.jpeg?w=768)
 
@@ -271,11 +205,7 @@ Korsvirkeshus i Wissembourg i Alsace. Stork sågs från tåget.
 
 </figcaption>
 
- 
-
 St G - Donaueschingen - Konstanz - St. G.
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_36.jpeg?w=1024)
 
@@ -285,11 +215,7 @@ Donaus källa
 
 </figcaption>
 
- 
-
 St G - Freiburg - Titisee - Rottweil - St G
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_7.jpeg?w=768)
 
@@ -298,8 +224,6 @@ St G - Freiburg - Titisee - Rottweil - St G
 Hundfritt Rottweil
 
 </figcaption>
-
- 
 
 St G - Freudenstadt - St G
 
@@ -315,8 +239,6 @@ Ansbach - Klingenthal - Zwickau
 
 Zwickau - Johanngeorgenstadt - Chemnitz - Zwickau
 
- 
-
 ![](images/tagluff-mit-deutschland-ticket_40.jpeg?w=1024)
 
 <figcaption>
@@ -325,13 +247,7 @@ Chemnitz. Gammalt och nytt.
 
 </figcaption>
 
- 
-
 Zwickau - Cranzahl - Wolkenstein - Augustusburg (bergbana) - Zwickau
-
- 
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_46.jpeg?w=1024)
 
@@ -341,10 +257,6 @@ Cranzahl
 
 </figcaption>
 
- 
-
- 
-
 ![](images/tagluff-mit-deutschland-ticket_31.jpeg?w=768)
 
 <figcaption>
@@ -352,10 +264,6 @@ Cranzahl
 "Drahtseilbahn" till Augustusburg
 
 </figcaption>
-
- 
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_53.jpeg?w=1024)
 
@@ -365,13 +273,7 @@ Wolkenstein
 
 </figcaption>
 
- 
-
- 
-
 Zwickau - Magdeburg (som har fått ett verb skapat efter stadsnamnet. ["Magdeburgisieren"](https://goranredin.wordpress.com/2013/05/15/dagens-tyska-verb-ar-magdeburgisieren/))
-
- 
 
 ![](images/tagluff-mit-deutschland-ticket_55.jpeg?w=768)
 
@@ -380,8 +282,6 @@ Zwickau - Magdeburg (som har fått ett verb skapat efter stadsnamnet. ["Magdebur
 "Grüne Zitadelle" i Magdeburg, desigat av Friedensreich Hundertwasser
 
 </figcaption>
-
- 
 
 Magdeburg - Potsdam - Berlin - SJ Nattåg till Stockholm.
 

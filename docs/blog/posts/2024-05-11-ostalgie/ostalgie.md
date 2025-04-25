@@ -1,9 +1,9 @@
 ---
-title: "Blog: Ostalgie"
+title: "Blog: Ostalgie (2024-05-11)"
 date: 2024-05-11
-tags: 
-  - "reseberattelser"
-  - "tyskland"
+tags:
+- "reseberattelser"
+- "tyskland"
 coverImage: "4d9e29de-a43c-4b96-948d-1004c8bf383a_1_201_a-2.jpg"
 ---
 

@@ -1,18 +1,16 @@
 ---
-title: "Blog: Halt! Här får ingen passera"
+title: "Blog: Halt! Här får ingen passera (2024-09-22)"
 date: 2024-09-22
-tags: 
-  - "Frankrike"
-  - "italien"
-  - "platsbiljett"
-  - "sverige"
-  - "tyskland"
+tags:
+- "Frankrike"
+- "italien"
+- "platsbiljett"
+- "sverige"
+- "tyskland"
 coverImage: "6565bcea-b07b-42ac-8641-29a855f62469_1_201_a-1.jpeg"
 ---
 
 [Här kommer ingen förbi](https://m.youtube.com/watch?v=8vI56ZaAr4M)
-
- 
 
 ![](images/halt-har-far-ingen-passera_1.jpeg?w=813)
 
@@ -21,8 +19,6 @@ coverImage: "6565bcea-b07b-42ac-8641-29a855f62469_1_201_a-1.jpeg"
 Avgångstavla i Brig. Tåget mot Zermatt ses till vänster.
 
 </figcaption>
-
- 
 
 - [Tyskland](https://www.trainfo.eu/tyskland/) har infört gränskontroller. De är inte överallt hela tiden och är rätt lätta att undvika med bil. Med tåg är det bara att sitta kvar och visa [pass/NID](https://polisen.se/tjanster-tillstand/pass-och-nationellt-id-kort/svar-pa-vanliga-fragor-om-pass/) för polisen när de kommer. Det är nog inte inplanerat i tidtabellerna än, så lägg på lite tid i nästa byte om du åker tåg som passerar en gräns till Tyskland. Det blir mindre kul på nattågen från Sverige till Tyskland om de utför gränskontroll vid 3-4 på natten. Nattågen från Hamburg mot Sverige har blivit kontrollerade av danskarna sedan länge, precis som dagtågen (ca 2h efter avgång från Hamburg). Nattågen från Innsbruck och Zürich passerar tyska gränsen runt 22, de från [Italien](https://www.trainfo.eu/italien/) vid 8-tiden på morgonen. Men det är å andra sidan inget att stressa upp sig över; öppna kupédörren, visa identifikation och din sömndruckna nuna för polisen och somna sen om. [Nattåg](https://www.trainfo.eu/nattag/) är ändå ofta en blandning av sömn och vakenhet. De presenterar sig (med myndighetsröst) som "Bundespolizie", och hörs på lång väg i vagnen. Det kan förekomma stopp vid andra stationer än ordinare för gränskontroll, jag åkte nattåg Rom - München för nåt år sen och det blev ett stopp i Tyskland vid en ensam perrong där normalt bara pendeltåg stannar.
 

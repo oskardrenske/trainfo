@@ -1,12 +1,10 @@
 ---
-title: "Blog: Död och återuppståndelse"
+title: "Blog: Död och återuppståndelse (2025-04-20)"
 date: 2025-04-20
 coverImage: "images/dod-och-ateruppstandelse_3.jpeg"
 tags:
-    - sajten
+- sajten
 ---
-
- 
 
 ![](images/dod-och-ateruppstandelse_3.jpeg?w=768)
 
@@ -16,10 +14,9 @@ Vägskäl
 
 </figcaption>
 
- Sammanfattning av en incident på påskafton när Wordpress.coms spamfilter stängde sajten
+Sammanfattning av en incident på påskafton när Wordpress.coms spamfilter stängde sajten
 
- <!-- more -->
-
+<!-- more -->
 
 ## Sammanfattning:
 
@@ -31,8 +28,6 @@ På Påskaftonens morgon slog ett överambitiöst spamfilter till och stängde n
 
 På morgonen lördag 2025-04-19 publicerade jag inlägget ["Knödelexpressens sista resor"](https://www.trainfo.eu/2025/04/19/knodelexpressens-sista-resor/) (återpublicerat på kvällen eftersom det inte verkar ha funkat med epost/RSS, men det ser inte ut att ha hjälpt). Kort därefter kommenterar någon på bloggposten om en trasig länk (för ett tag sen gjorde jag det möjligt att kommentera några dar efter publicering). Jag fick epost om denna kommentar och använde appen för att fixa en länk. Det gick inte, jag fick skumma fel om att "api is disabled". Jag kollade lite senare från datorn och ser då ett meddelande om att "Your site has been suspended from Wordpress.com för violating the Terms of Service". Med en länk för att "överklaga" vilket jag gjorde.
 
- 
-
 ![](images/dod-och-ateruppstandelse_1.png?w=1024)
 
 <figcaption>
@@ -41,11 +36,7 @@ Text efter att ha loggat in
 
 </figcaption>
 
- 
-
 Värt att notera här är att felet inte visades i appen, jag var tvungen att logga in i admin-gui med en webbläsare. Utöver det skickade de inte epost om detta, inte heller nån notifiering i admin-guit. Det är riktigt svagt. Sajten försvinner och den som har den måste kolla själv eller förlita sig på att nån läsare hör av sig.
-
- 
 
 ![](images/dod-och-ateruppstandelse_2.jpeg?w=1024)
 
@@ -54,8 +45,6 @@ Värt att notera här är att felet inte visades i appen, jag var tvungen att lo
 Detta visades för besökare
 
 </figcaption>
-
- 
 
 ### Lärdomar här:
 

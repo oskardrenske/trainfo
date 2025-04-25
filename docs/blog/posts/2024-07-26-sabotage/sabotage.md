@@ -1,8 +1,8 @@
 ---
-title: "Blog: Sabotage"
+title: "Blog: Sabotage (2024-07-26)"
 date: 2024-07-26
-tags: 
-  - "Frankrike"
+tags:
+- "Frankrike"
 ---
 
 Källor för att hitta trafikinformation under de problem som just nu förekommer i Frankrike. En del linjer är allt inställt på, på andra går tågen på de gamla spåren. En fördel med separata höghastighetsbanor är att det finns viss redundans.

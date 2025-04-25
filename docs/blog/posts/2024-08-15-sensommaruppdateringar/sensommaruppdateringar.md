@@ -1,21 +1,19 @@
 ---
-title: "Blog: Uppdateringar i all enkelhet"
+title: "Blog: Uppdateringar i all enkelhet (2024-08-15)"
 date: 2024-08-15
-tags: 
-  - "Danmark"
-  - "Frankrike"
-  - "italien"
-  - "platsbiljett"
-  - "Portugal"
-  - "reseberattelser"
-  - "spanien"
-  - "sverige"
-tags: 
-  - "interrail"
+tags:
+- "Danmark"
+- "Frankrike"
+- "italien"
+- "platsbiljett"
+- "Portugal"
+- "reseberattelser"
+- "spanien"
+- "sverige"
+tags:
+- "interrail"
 coverImage: "5ae7dc0a-0d28-4e09-8863-05263b7f67cf_1_201_a-1.jpg"
 ---
-
- 
 
 ![](images/sensommaruppdateringar_6.jpg?w=1024)
 
@@ -24,8 +22,6 @@ coverImage: "5ae7dc0a-0d28-4e09-8863-05263b7f67cf_1_201_a-1.jpg"
 Morgonutsikt från ett Mälartåg
 
 </figcaption>
-
- 
 
 **Enkelt eller billigt? Perfekt eller tillräckligt bra?**
 

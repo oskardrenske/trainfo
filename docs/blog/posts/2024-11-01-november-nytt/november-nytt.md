@@ -1,16 +1,14 @@
 ---
-title: "Blog: November-nytt"
+title: "Blog: November-nytt (2024-11-01)"
 date: 2024-11-01
-tags: 
-  - "italien"
-  - "london"
-  - "nattåg"
-  - "railplanner"
-  - "spanien"
+tags:
+- "italien"
+- "London"
+- "nattåg"
+- "railplanner"
+- "spanien"
 coverImage: "img_3388.jpeg"
 ---
-
- 
 
 ![](images/november-nytt_2.jpeg?w=750)
 
@@ -19,8 +17,6 @@ coverImage: "img_3388.jpeg"
 På väg mot från Port-Bou mot Girona i [Spanien](https://www.trainfo.eu/spanien/) en novemberdag.
 
 </figcaption>
-
- 
 
 ## Spanien
 
