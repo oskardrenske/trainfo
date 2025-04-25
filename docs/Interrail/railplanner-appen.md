@@ -1,10 +1,13 @@
 ---
 title: "Railplanner-appen"
 date: 2024-03-07
-coverImage: "image.jpg"
+coverImage: "images/railplanner-appen_20.jpg
+tags:
+    - interrail
+    - planering
+    - Railplanner
+  
 ---
-
- 
 
 ![](images/railplanner-appen_20.jpg?w=1024)
 
@@ -13,8 +16,6 @@ coverImage: "image.jpg"
 Håll appen uppdaterad
 
 </figcaption>
-
- 
 
 ### Vad gör den?
 
@@ -162,8 +163,6 @@ Hittar du ändå inte tåget måste du lägga till det manuellt - annars har du 
 
 Eller längs ned om du får upp sökresultat.
 
- 
-
 ![](images/railplanner-appen_7.jpg?w=658)
 
 <figcaption>
@@ -171,8 +170,6 @@ Eller längs ned om du får upp sökresultat.
 ”Add it manually” under sökresultaten
 
 </figcaption>
-
- 
 
 Sen fyller du i stationer och tider
 
@@ -190,8 +187,6 @@ Det är svårt att veta vad som är rätt utan insyn i hur appen är designad, d
 
 Det går också att gå in i telefonens inställningar och stänga av mobildata för den. Då har dina andra appar tillgång til mobildata, men Railplanner kan bara vara online med wifi (som iofs kan vara långsamt och instabilt på tåg).
 
- 
-
 ![](images/railplanner-appen_11.jpeg?w=763)
 
 <figcaption>
@@ -199,8 +194,6 @@ Det går också att gå in i telefonens inställningar och stänga av mobildata 
 Inställningar för Railplanner i iPhone (som är inställd på engelska)
 
 </figcaption>
-
- 
 
 En skärmbild är ingen riktig biljett men kan _kanske_ duga tills du fått fram biljetten. Den riktiga biljetten har en klocka för att förhindra fusk.
 
@@ -275,5 +268,3 @@ Info från Interrail om hur mobile pass används
 - Du har väl inte glömt att läsa om [aktivering av ditt Interrail-pass och tågresorna du kommer att göra?](https://www.trainfo.eu/en-interrail-resa-steg-for-steg/)
 
 - Standardbytestiden är 1 minut. Den vill du nog justera ("Filters").
-
-## Liknande sidor

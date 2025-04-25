@@ -1,7 +1,7 @@
 ---
-title: "Tåglüff mit Deutschland-Ticket"
+title: "Blog: Tåglüff mit Deutschland-Ticket"
 date: 2024-05-12
-categories: 
+tags: 
   - "reseberattelser"
   - "spanien"
   - "tips"

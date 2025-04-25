@@ -6,8 +6,6 @@ coverImage: "134b640d-cd2a-48bc-89ca-03d3eaa91e74_1_105_c.jpeg"
 
 ## Tyskland - Frankrike - "Passzuschlag"
 
- 
-
 ![](images/passzuschlag_4.jpeg?w=1024)
 
 <figcaption>
@@ -15,8 +13,6 @@ coverImage: "134b640d-cd2a-48bc-89ca-03d3eaa91e74_1_105_c.jpeg"
 Karlsruhe Hbf, härifrån går det att ta TGV eller ICE-tåg till Frankrike
 
 </figcaption>
-
- 
 
 Du kan förenkla ditt resande genom att [köpa platsbiljetter av interrail.eu](https://www.interrail.eu/en/book-reservations#/) men då betala en bokningsavgift. Eller så följer du instruktionerna nedan och får krångla lite mer men slipper bokningsavgiften.
 
@@ -71,5 +67,3 @@ Ingen tvekan om att det funkar ihop med Interrail Global Pass. Platsreservation 
 Att lägga till sökvillkor i url:en med en parameter och ett värde för den parametern (`ET=PASSZUSCHLAG` i det här fallet) är ett helt normalt sätt att göra sökningar på. Alla sökningar på DB:s sajt görs liknande sätt. Det finns [API-dokumentation](https://developer-docs.deutschebahn.com/doku/apis) för den som vill göra en egen söktjänst.
 
 Uppdaterad 2025-04-08
-
-## Liknande sidor

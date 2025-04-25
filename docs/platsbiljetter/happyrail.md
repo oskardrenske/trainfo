@@ -35,5 +35,3 @@ De har även en sida med vackra rutter. Många av dem går att resa med vanliga 
 [https://www.happyrail.com/en/holidays/scenic-trains-in-europe](https://www.happyrail.com/en/holidays/scenic-trains-in-europe)
 
 Uppdaterad 2025-01-04
-
-## Liknande sidor

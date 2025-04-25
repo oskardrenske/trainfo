@@ -4,8 +4,6 @@ date: 2024-07-05
 coverImage: "df09143b-956f-48cb-98f8-c5fda7a30479_1_105_c.jpeg"
 ---
 
- 
-
 ![]/Users/oskar/code/wordpress-export-to-markdown/export/pages/sncb-platsbiljettkop/images/sncb-platsbiljettkop_1.jpeg?w=1024)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "df09143b-956f-48cb-98f8-c5fda7a30479_1_105_c.jpeg"
 Belgisk våffla
 
 </figcaption>
-
- 
 
 Uppdatering 2024-08-14: SNCB var relevant tidigare och fick en renässans när [Raileurope](https://www.trainfo.eu/raileurope/) hade bokningsavgift några dar i juli 2024 (när jag skrev denna sida). Nu när bokningsavgiften är borta från Raileurope finns det ingen anledning att använda SNCB.
 
@@ -63,7 +59,7 @@ Det kan gå att välja "seat preference". Vill du helst sitta vid fönstret elle
 Detta kan säkert variera beroende på vilken biljett du köper. Exempel för TGV inom Frankrike.
 
 > **Fare conditions of the carrier:** Exchange or refund free of charge up to 30 minutes after departure. From 30 minutes before departure, ticket may be exchanged once and will not be refunded thereafter. If you are taking another train, exchange is compulsory.
-> 
+>
 > **Fare conditions of the carrier:** Valid Eurail Interrail Pass to be presented.
 
 ## Interrail krävs före köp
@@ -71,11 +67,9 @@ Detta kan säkert variera beroende på vilken biljett du köper. Exempel för TG
 På sidan Ticket Details" behöver du ange numret på ditt Interrail. De skriver såhär:
 
 > If you have a **mobile pass**, your pass number is mentioned in the **confirmation email** you received after purchasing your Eurail/Interrail pass.
-> 
+>
 > If you have a Eurail/Interrail Pass in **paper format**, you can find the pass cover number on the **top right**
 
 Jag har inget Interrail just nu att prova med, ett gammalt nummer funkade inte. Men det är nog inga konstigheter. Skapa ett konto så blir det nog enklare att köpa och hålla reda på platsbiljetterna.
 
 Uppdaterad 2024-08-14
-
-## Liknande sidor

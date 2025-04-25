@@ -1,7 +1,7 @@
 ---
-title: "Railplanner visar (kanske) aktuell info"
+title: "Blog: Railplanner visar (kanske) aktuell info"
 date: 2024-12-18
-categories: 
+tags: 
   - "railplanner"
   - "tips"
 coverImage: "screenshot-2024-12-18-at-19.33.20.png"

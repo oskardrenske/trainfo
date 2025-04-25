@@ -1,5 +1,5 @@
 ---
-title: "Till Finland med tåg (i teorin)"
+title: "Blog: Till Finland med tåg (i teorin)"
 date: 2024-08-02
 coverImage: "screenshot-2024-08-02-at-14.27.49.png"
 ---

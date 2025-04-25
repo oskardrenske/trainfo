@@ -2,6 +2,9 @@
 title: "Är interrail billigast?"
 date: 2024-06-23
 coverImage: "image.jpg"
+tags:
+- interrail
+- planering
 ---
 
 En jämförelse mellan Interrail och att köpa biljetter i förväg är svår. Hur långt i förväg och vilka tåg det gäller påverkar priserna. Interrail ger mer flexibilitet än de billigaste biljetterna. Vill du veta exakt måste du kolla, annars kan "söder om Alperna" vara ett riktmärke.
@@ -86,8 +89,6 @@ Kom ihåg att det inte är nån tävling. Precis som att du kan bo på bekvämt 
 
 En annan prisjämförelse som avslutning:
 
- 
-
 ![](images/ar-interrail-billigast_1.jpeg?w=948)
 
 <figcaption>
@@ -96,8 +97,4 @@ Screenshot
 
 </figcaption>
 
- 
-
 Uppdaterad 2025-04-02
-
-## Liknande sidor

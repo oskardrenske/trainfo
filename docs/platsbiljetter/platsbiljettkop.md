@@ -4,8 +4,6 @@ date: 2024-07-06
 coverImage: "83b8c6e1-9427-4447-8fea-8c23bd7cf0fa_1_105_c.jpeg"
 ---
 
- 
-
 ![](images/platsbiljettkop_1.jpeg?w=769)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "83b8c6e1-9427-4447-8fea-8c23bd7cf0fa_1_105_c.jpeg"
 Platsbiljetter köpta på stationen i Portbou (Spanien) 2022, innan de gick att köpa online.
 
 </figcaption>
-
- 
 
 ## Var köps platsbiljetterna?
 
@@ -80,5 +76,3 @@ Men också nackdelar
 - Bokningsproceduren är inte alltid uppenbar om du har Interrail
 
 Uppdaterad 2025-01-04
-
-## Liknande sidor

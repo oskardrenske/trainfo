@@ -1,5 +1,5 @@
 ---
-title: "Grattis på födelsedagen"
+title: "Blog: Grattis på födelsedagen"
 date: 2025-03-01
 coverImage: "lococake.jpg"
 ---
@@ -40,7 +40,7 @@ Sammanställda här: [FAQ - vanliga frågor](https://www.trainfo.eu/faq-vanliga-
 
 Banarbeten i Danmark
 
-Banarbete mellan Hamburg och Köpenhamn i påsk med buss mellan Hamburg och Odense (ovanligt lång bussresa). Nytt är obligatorisk platsbiljett på bussen. Verkar kunna köpas av [Deutsche Bahn](https://www.trainfo.eu/platsbokning-med-db/). Inga nattåg när det är banarbete med Ersatz-buss. Det lär bli likadant en vecka i juli. Eller så köper du av DSB. (läs mer om [Danmark](https://www.trainfo.eu/danmark/)). Det blir säkert mer banarbeten under våren, även i Sverige. Funderar du på färja så kolla upp hur mycket krångel det blir om du inte har bil, det varierar beroende på vilka hamnar och rederier som är inblandade.
+Banarbete mellan Hamburg och Köpenhamn i påsk med buss mellan Hamburg och Odense (ovanligt lång bussresa). Nytt är obligatorisk platsbiljett på bussen. Verkar kunna köpas av [Deutsche Bahn](https://www.trainfo.eu/platsbokning-med-db/). Inga nattåg när det är banarbete med Ersatz-buss. Det lär bli likadant en vecka i juli. Eller så köper du av DSB. (läs mer om [Danmark](https://www.trainfo.eu/Danmark/)). Det blir säkert mer banarbeten under våren, även i Sverige. Funderar du på färja så kolla upp hur mycket krångel det blir om du inte har bil, det varierar beroende på vilka hamnar och rederier som är inblandade.
 
 ### Inga SJ-tåg till Köpenhamn.
 

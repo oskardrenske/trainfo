@@ -1,8 +1,8 @@
 ---
-title: "Frankrikes €49-biljett (för 16-27-åringar)"
+title: "Blog: Frankrikes €49-biljett (för 16-27-åringar)"
 date: 2024-06-04
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
 coverImage: "hyeres-small.jpeg"
 ---
 

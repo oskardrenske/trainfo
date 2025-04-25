@@ -1,11 +1,11 @@
 ---
-title: "Två veckor kvar av 2024"
+title: "Blog: Två veckor kvar av 2024"
 date: 2024-12-01
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
   - "italien"
   - "london"
-  - "nattag"
+  - "nattåg"
   - "platsbiljett"
   - "sverige"
   - "tips"

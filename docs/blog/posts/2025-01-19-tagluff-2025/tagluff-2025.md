@@ -1,5 +1,5 @@
 ---
-title: "Tågluff 2025?"
+title: "Blog: Tågluff 2025?"
 date: 2025-01-19
 coverImage: "0066e4eb-b681-4c06-851f-d6eb20840d17_1_105_c.jpeg"
 ---

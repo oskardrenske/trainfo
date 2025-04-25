@@ -4,8 +4,6 @@ date: 2024-03-07
 coverImage: "8b8d546f-9b9b-4539-a19e-4163a33a0c5e_1_105_c.jpeg"
 ---
 
- 
-
 ![](images/nightjet_2.jpeg?w=898)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "8b8d546f-9b9b-4539-a19e-4163a33a0c5e_1_105_c.jpeg"
 "Mini-cabins" i ÖBB:s nyaste nattåg. De går inte på alla linjer, jag reste Innsbruck-hamburg.
 
 </figcaption>
-
- 
 
 Österikiska ÖBB:s nattåg kallas [Nightjet](https://www.nightjet.com/en/#/home).
 
@@ -34,7 +30,7 @@ när du sen klickar på “Find services” får du två val:
 
 1. One-way tickets and day tickets – **Rätt val**
 
-3. Seat reservation only (no ticket) – funkar för frivilliga platsbiljetter, men inte för det som skall bokas här.
+2. Seat reservation only (no ticket) – funkar för frivilliga platsbiljetter, men inte för det som skall bokas här.
 
 ## pris på nattågs-platsbiljetter
 
@@ -89,5 +85,3 @@ Samma procedur som ovan.
 - Du kan köpa _frivilliga_ platsbiljetter hos ÖBB med "seat only"-valet. De kostar 3€ per sträcka och du kan varken välja plats eller få med [fler tåg i ett platsbiljettköp](https://www.trainfo.eu/platsbokning-med-db/) som hos DB.
 
 Uppdaterad 2025-03-26
-
-## Liknande sidor

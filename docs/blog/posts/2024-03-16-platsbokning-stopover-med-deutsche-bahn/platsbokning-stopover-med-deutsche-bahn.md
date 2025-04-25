@@ -1,7 +1,7 @@
 ---
-title: "Platsbokning + stopover med Deutsche Bahn"
+title: "Blog: Platsbokning + stopover med Deutsche Bahn"
 date: 2024-03-16
-categories: 
+tags: 
   - "platsbiljett"
   - "tyskland"
 ---

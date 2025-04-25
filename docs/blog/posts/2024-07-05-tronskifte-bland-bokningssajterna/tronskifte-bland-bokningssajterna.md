@@ -1,8 +1,8 @@
 ---
-title: "Tronskifte bland bokningssajterna"
+title: "Blog: Tronskifte bland bokningssajterna"
 date: 2024-07-05
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
   - "italien"
   - "platsbiljett"
   - "spanien"

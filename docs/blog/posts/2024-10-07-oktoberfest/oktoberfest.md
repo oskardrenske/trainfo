@@ -1,8 +1,8 @@
 ---
-title: "Oktoberfest"
+title: "Blog: Oktoberfest"
 date: 2024-10-07
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
   - "london"
   - "platsbiljett"
   - "portugal"

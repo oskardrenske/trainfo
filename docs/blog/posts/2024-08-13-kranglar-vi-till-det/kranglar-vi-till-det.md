@@ -1,7 +1,7 @@
 ---
-title: "Krånglar vi till det?"
+title: "Blog: Krånglar vi till det?"
 date: 2024-08-13
-categories: 
+tags: 
   - "platsbiljett"
   - "railplanner"
   - "tips"

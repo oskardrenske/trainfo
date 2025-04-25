@@ -1,10 +1,10 @@
 ---
 title: "Hund på tåg"
 date: 2025-03-16
-coverImage: "img_0879-small.jpeg"
+coverImage: "images/hund_1.jpeg"
+tags:
+- praktisk info
 ---
-
- 
 
 ![](images/hund_1.jpeg?w=768)
 
@@ -13,8 +13,6 @@ coverImage: "img_0879-small.jpeg"
 Rottweiler i Rottweil
 
 </figcaption>
-
- 
 
 Vill du ta med dig djur på tåget finns kräver det en del planering. Olika regler i olika länder osv. Det ser vid en snabb koll ut som det inte är så kompatibelt med Interrail. I alla fall inte för större hundar. Tågbolagen tänker ungefär att du gör en resa inom landet, köper en biljett och lägger till en hundbiljett vid samma köp. Svenskar som skall resa över hela kontinenten med Interrail och hund är inte så stor kundgrupp för dem.
 

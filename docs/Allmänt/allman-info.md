@@ -1,10 +1,11 @@
 ---
 title: "Allmän info om tågresor och Interrail"
 date: 2024-03-07
-coverImage: "ef4ff7aa-8c54-430b-a6c9-9e8edddf7d22_1_105_c.jpeg"
+coverImage: "images/allman-info_2.jpeg"
+tags:
+- interrail
+- planering
 ---
-
- 
 
 ![](images/allman-info_2.jpeg?w=1024)
 
@@ -14,15 +15,13 @@ Platsbiljett (Marseille St Charles - Frankfurt Hbf) köpt i SNCF Boutique i Nice
 
 </figcaption>
 
- 
-
 Att tänka på: Interrail är nog mycket viktigare för svenskar som skall till Medelhavet på semester än det är för tågbolagen på kontinenten. Det är nog orsaken till många av de konstigheter du kommer att stöta på. De vill inte lägga pengar på speciallösningar som dessutom skapar ökad komplexitet i biljettsystemen.
 
-Är det din första långresa med tåg så börja med att läsa sidan ["Första tågresan".](https://www.trainfo.eu/forsta-resan/)
+Är det din första långresa med tåg så börja med att läsa sidan ["Första tågresan"](https://www.trainfo.eu/forsta-resan/)
 
 # Platsbiljetter med Interrail
 
-### Bakgrund
+## Bakgrund
 
 Interrail har funnits i drygt 50 år, men en del länder har gått över till biljettsystem där plats ingår i biljetten (_”Globalpris”, ”IRT”, ”Integrated Reservation Ticket”)_. SJ snabbtåg till exempel. När du köper en biljett på de tågen får du automatiskt en plats reserverad. När de nyare systemen möter gamla Interrail uppstår mer eller mindre friktion och det går inte alltid så smidigt som att köpa en vanlig biljett. De allra flesta resorna sker med vanliga biljetter som tågbolagen säljer själva, men bland svenskar som skall söderut är det en mycket större andel som reser med Interrail.
 
@@ -34,8 +33,6 @@ En del andra länder (Tyskland t.ex) har separat färdbiljett och platsbiljett. 
 
 I början var Interrail-biljetten mer som ett "kort", sen blev det biljetter i "vanligt järnvägsformat" (denna typ av Interrail går fortfarande att köpa) och nu går det mer och mer över till att biljetten finns i [RailPlanner-appen.](https://www.trainfo.eu/railplanner-appen/) Men begreppet "interrail-kort" lever kvar, liksom "tågluff" även om det numera också används för rundresor med tåg oavsett hur planerade de är.
 
- 
-
 ![](images/allman-info_1.jpeg?w=768)
 
 <figcaption>
@@ -43,8 +40,6 @@ I början var Interrail-biljetten mer som ett "kort", sen blev det biljetter i "
 Sista raden i "Travel Diary" skulle ta mig från Milano nånstans, som tur var hade jag skrivit ut extra listor innan resan. Varje tåg skulle noteras på detta sätt, digitalt Interrail har samma princip.
 
 </figcaption>
-
- 
 
 ### Seat reservation required / optional / recommended
 
@@ -132,8 +127,6 @@ Sök upp det i tågbolagets app eller webbsökning och kolla vad som erbjuds. St
 
 ![](images/allman-info_5.png?w=420)
 
- 
-
 ![](images/allman-info_3.jpeg?w=768)
 
 <figcaption>
@@ -141,8 +134,6 @@ Sök upp det i tågbolagets app eller webbsökning och kolla vad som erbjuds. St
 Knödel och nåt djur på tåget Prag - Wien
 
 </figcaption>
-
- 
 
 #### Wifi & laddning
 
@@ -261,5 +252,3 @@ Då kommer du att få mycket bättre svar på vad du undrar över.
 - Du kommer att höra och läsa mer om problem än om alla resor som går som tåget.
 
 - Ta med all relevant information om du frågar, så får du mycket bättre svar
-
-### Liknande sidor

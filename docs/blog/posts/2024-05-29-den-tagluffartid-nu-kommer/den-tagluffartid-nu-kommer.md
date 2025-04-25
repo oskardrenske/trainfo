@@ -1,10 +1,10 @@
 ---
-title: "Den tågluffartid nu kommer"
+title: "Blog: Den tågluffartid nu kommer"
 date: 2024-05-29
-categories: 
-  - "danmark"
+tags: 
+  - "Danmark"
   - "italien"
-  - "nattag"
+  - "nattåg"
   - "platsbiljett"
   - "railplanner"
   - "sverige"
@@ -36,7 +36,7 @@ Jag blir förvirrad när jag reser på våren och syrenerna blommar. De skall ju
 
 - Har du inte bokat nattåg för sommaren kan det mycket väl vara slut på platser. Du får åka dagtid istället.
 
-- Men i [Danmark](https://www.trainfo.eu/danmark/) blir det ersättningsbuss en bit i en dryg vecka i juli, och då går det inga nattåg alls. Dagtåg + buss med längre resetid än annars. Inget att oroa sig för, det är generellt sett välorganiserat. Alternativ med färjor kräver en del byten och krångel de också.
+- Men i [Danmark](https://www.trainfo.eu/Danmark/) blir det ersättningsbuss en bit i en dryg vecka i juli, och då går det inga nattåg alls. Dagtåg + buss med längre resetid än annars. Inget att oroa sig för, det är generellt sett välorganiserat. Alternativ med färjor kräver en del byten och krångel de också.
 
 - Jag lade till ett fält för att du skall kunna få epost när det publiceras nya blogginlägg. Prenumerations-fältet finns längst ned på alla sidor och blogginlägg och det är Wordpress som hanterar det.
 

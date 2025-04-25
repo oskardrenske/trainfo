@@ -89,5 +89,3 @@ Stopovers kan vara upp till 48h 55 min i appen, kortare än om du söker på web
 - Köp inte platsbiljett "seat only" över [franska](https://www.trainfo.eu/frankrike/) gränsen från DB. De är inte giltiga med Interrail. Köp biljett som ["Passzuschlag"](https://www.trainfo.eu/passzuschlag/) eller från t.ex interrail.eu eller [raileurope](https://www.trainfo.eu/raileurope/)
 
 Uppdaterad 2024-10-06
-
-## Liknande sidor

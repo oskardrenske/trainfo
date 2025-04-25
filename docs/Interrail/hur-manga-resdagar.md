@@ -1,12 +1,14 @@
 ---
-title: "Hur många resdagar?"
+title: "Hur många resdagar behövs?"
 date: 2025-03-11
-coverImage: "img_7993-small.jpeg"
+coverImage: "images/hur-manga-resdagar_1.jpeg"
+tags:
+    - interrail
+    - planering
+  
 ---
 
 ## "klippkort" eller "åkband"?
-
- 
 
 ![](images/hur-manga-resdagar_1.jpeg?w=1024)
 
@@ -16,13 +18,11 @@ Ett sånt här åkte jag med ett 2-månaders "continious pass". Bild från den H
 
 </figcaption>
 
- 
-
 Det finns två typer av "Interrail-kort".
 
 1. Det som gäller alla dagar en tidsperiod. Originalet "1 månad" är ett exempel på det. Numera finns det finns från 15 dagar till 3 månader.
 
-3. Det som har ett antal "resdagar" under en period. 7 resdagar under en månad till exempel
+2. Det som har ett antal "resdagar" under en period. 7 resdagar under en månad till exempel
 
 ### För & nackdelar
 

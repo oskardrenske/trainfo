@@ -1,8 +1,8 @@
 ---
-title: "It's complicated (Raileurope-uppdatering)"
+title: "Blog: It's complicated (Raileurope-uppdatering)"
 date: 2024-07-07
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
   - "platsbiljett"
   - "spanien"
 tags: 

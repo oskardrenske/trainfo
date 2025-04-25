@@ -1,10 +1,13 @@
 ---
 title: "Raileurope-instruktioner"
 date: 2024-03-09
-coverImage: "image.jpg"
+tags:
+    - Frankrike
+    - Italien
+    - Spanien
 ---
 
-## Raileurope
+# Raileurope
 
 "Add Railpass" syns nu även på mobilen.
 
@@ -23,5 +26,3 @@ Sen kan du söka platsbiljetter. Sök sträcka för sträcka så det inte kommer
 Tidigare har det krävts en del specialtrick för att kunna köpa från mobilen. Deras mobil-anpassade sajt visade inte "add rail pass". Men från oktober 2024 funkar det från mobilen.
 
 Uppdaterad 2024-10-06
-
-## Liknande sidor

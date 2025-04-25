@@ -1,9 +1,9 @@
 ---
-title: "RailPlanner-nytt"
+title: "Blog: RailPlanner-nytt"
 date: 2024-06-18
-categories: 
-  - "danmark"
-  - "nattag"
+tags: 
+  - "Danmark"
+  - "nattåg"
   - "platsbiljett"
   - "railplanner"
   - "sverige"
@@ -124,7 +124,7 @@ Det kan även ske "tysta" uppdateringar av tidtabellerna. En felaktig uppgift om
 
 - Är det fullt på snabbtågen med obligatorisk platsbiljett så använd filtret "no seat reservations" och se om du får fram en acceptabel resa.
 
-- Är det fullt på nattågen (troligt) som går så får du åka på dagen. Det går nog att komma fram genom [Danmark](https://www.trainfo.eu/danmark/), men direkttågen till Hamburg blir fullbokade först. Byten, eller via [västra Danmark](https://www.trainfo.eu/danmark-vast/) kan vara det som gäller.
+- Är det fullt på nattågen (troligt) som går så får du åka på dagen. Det går nog att komma fram genom [Danmark](https://www.trainfo.eu/Danmark/), men direkttågen till Hamburg blir fullbokade först. Byten, eller via [västra Danmark](https://www.trainfo.eu/Danmark-vast/) kan vara det som gäller.
 
 - Är [nattågen](https://www.trainfo.eu/nattag/) till Hamburg/Berlin i tid? Ja vanligtvis, men faller hela din resplan ihop om det är försenat så kanske du bör tänka om.
 

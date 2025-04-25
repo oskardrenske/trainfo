@@ -1,8 +1,8 @@
 ---
-title: "Påsklovsläsning"
+title: "Blog: Påsklovsläsning"
 date: 2025-04-14
-categories: 
-  - "frankrike"
+tags: 
+  - "Frankrike"
   - "italien"
   - "platsbiljett"
   - "polen"

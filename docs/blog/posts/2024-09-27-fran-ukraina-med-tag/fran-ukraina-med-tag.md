@@ -1,7 +1,7 @@
 ---
-title: "Från Ukraina med tåg"
+title: "Blog: Från Ukraina med tåg"
 date: 2024-09-27
-categories: 
+tags: 
   - "polen"
   - "reseberattelser"
   - "ukraina"

@@ -1,5 +1,5 @@
 ---
-title: "Bluesky"
+title: "Blog: Bluesky"
 date: 2025-02-08
 coverImage: "91bae435-98c2-4327-b3e8-001c225470f5_1_201_a-1.jpeg"
 ---

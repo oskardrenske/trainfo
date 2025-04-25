@@ -1,7 +1,12 @@
 ---
 title: "En Interrailresa steg för steg"
 date: 2024-09-30
-coverImage: "screenshot-2024-10-09-at-18.11.22.png"
+coverImage: "images/en-interrail-resa-steg-for-steg_15.png"
+tags:
+- interrail
+- "praktisk info"
+- planering
+- "under resan"
 ---
 
 ![](images/en-interrail-resa-steg-for-steg_15.png?w=566)
@@ -245,5 +250,3 @@ Repetera ordlistan om du är osäker på begreppen.
 Är något otydligt? [Hör av dig.](https://www.trainfo.eu/om-sajten/)
 
 Uppdaterad 2025-01-11
-
-## Liknande sidor

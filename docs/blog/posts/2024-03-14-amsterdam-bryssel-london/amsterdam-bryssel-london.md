@@ -1,7 +1,7 @@
 ---
-title: "Amsterdam / Bryssel / London"
+title: "Blog: Amsterdam / Bryssel / London"
 date: 2024-03-14
-categories: 
+tags: 
   - "london"
   - "platsbiljett"
 ---
