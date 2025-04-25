@@ -5,6 +5,8 @@ site_url: https://test.trainfo.eu
 theme:
   name: material
   logo: images/icon.png
+  features:
+    - header.autohide
   palette: 
 
     # Palette toggle for light mode
@@ -55,9 +57,6 @@ plugins:
         - "under resan"
         - Österrike
   - blog:
-      
-  - social:
-      cards: false
   - search
 
 extra:
@@ -65,7 +64,8 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://mastodonsweden.se/@interrailinfosvenska
       name: Mastodon
-
+    - icon: fontawesome/solid/envelope
+      link: mailto:interrailinfosvenska@protonmail.com
 
 extra_javascript:
   - stat_counter.js
