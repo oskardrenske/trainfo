@@ -1,7 +1,11 @@
 ---
 title: "Knödelexpress"
 date: 2025-04-15
-coverImage: "knoedel-small.jpg"
+coverImage: "images/knodelexpress_10.jpg"
+tags:
+    - Tjeckien
+    - "praktiska tips"
+    - reseberättelser
 ---
 
 Scroll down for info in English
