@@ -1,9 +1,10 @@
 ---
-title: "Blog: Global Switch Day"
+title: "Blog: Global Switch Day (2025-02-01)"
 date: 2025-02-01
-tags: 
-  - "interrail"
-coverImage: "screenshot-2025-02-01-at-10.48.11.png"
+tags:
+- "Interrail"
+- "sajten"
+coverImage: "images/global-switch-day_1.png"
 ---
 
 ![](images/global-switch-day_1.png?w=614)

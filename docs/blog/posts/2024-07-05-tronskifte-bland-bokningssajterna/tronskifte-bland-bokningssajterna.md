@@ -1,17 +1,15 @@
 ---
-title: "Blog: Tronskifte bland bokningssajterna"
+title: "Blog: Tronskifte bland bokningssajterna (2024-07-05)"
 date: 2024-07-05
-tags: 
-  - "Frankrike"
-  - "italien"
-  - "platsbiljett"
-  - "spanien"
-  - "sverige"
-  - "tips"
+tags:
+- "Frankrike"
+- "Italien"
+- "platsbiljett"
+- "Spanien"
+- "Sverige"
+- "tips"
 coverImage: "7c142229-7c22-4b57-811a-ab3a2c2af662_1_201_a.jpg"
 ---
-
- 
 
 ![](images/tronskifte-bland-bokningssajterna_1.jpg?w=1024)
 
@@ -20,8 +18,6 @@ coverImage: "7c142229-7c22-4b57-811a-ab3a2c2af662_1_201_a.jpg"
 Portbou i Spanien. Tåg söderut mot Barcelona inne i banhallen, SNCF-tåg mot Frankrike utomhus till höger.
 
 </figcaption>
-
- 
 
 ## Uppdatering:
 
@@ -41,12 +37,12 @@ Nattågen i norra Sverige går nu att boka med Interrail. Antagligen mest intres
 
 ### Tid > Pengar?
 
-Tips om tid är viktigare än pengar och tåget är fullt hela vägen:  
+Tips om tid är viktigare än pengar och tåget är fullt hela vägen:
 Prova att dela upp sökningen och köp två platsbiljetter. Det är inte alla som reser hela vägen från Stockholm till Malmö. Även tågen Köpenhamn-Hamburg gör några stopp på vägen. Det blir såklart dyrare med två platsbiljetter och du måste byta plats, du får själv avgöra om det är värt det för att komma fram snabbare.
 
-Exempel, du kanske behöver prova med olika städer:  
-Köpenhamn - Hamburg: fullt (om du skall åka hela vägen)  
-Köpenhamn - Kolding: plats  
+Exempel, du kanske behöver prova med olika städer:
+Köpenhamn - Hamburg: fullt (om du skall åka hela vägen)
+Köpenhamn - Kolding: plats
 Kolding - Hamburg: en annan plats i samma tåg
 
 ### Interrail-rea

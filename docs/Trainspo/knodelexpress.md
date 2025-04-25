@@ -46,11 +46,11 @@ The Czech dining cars were intruduced in 1997. Feels like yesterday, right? They
 
 Find a EC (EuroCity) Train that goes from or to the Czech Republic. DB can filter and include only EC or IC.
 
-![](images/screenshot-2025-04-15-at-17.27.40.png)
+![](images/knodelexpress_3.png?w=373)
 
 When you've found your train, make a note of the train number and search for it (along with your travel date) here: [https://www.cd.cz/en/vlak/](https://www.cd.cz/en/vlak/)
 
-![](images/screenshot-2025-04-15-at-17.40.00.png)
+![](images/knodelexpress_8.png?w=665)
 
 Click on the dining car
 

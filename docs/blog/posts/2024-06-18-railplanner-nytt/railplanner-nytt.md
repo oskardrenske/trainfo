@@ -1,13 +1,13 @@
 ---
-title: "Blog: RailPlanner-nytt"
+title: "Blog: RailPlanner-nytt (2024-06-18)"
 date: 2024-06-18
-tags: 
-  - "Danmark"
-  - "nattåg"
-  - "platsbiljett"
-  - "railplanner"
-  - "sverige"
-  - "tips"
+tags:
+- "Danmark"
+- "nattåg"
+- "platsbiljett"
+- "railplanner"
+- "Sverige"
+- "tips"
 coverImage: "b40d93b7-8d03-403a-b5a8-8544140387ed_1_105_c.jpeg"
 ---
 
@@ -25,8 +25,6 @@ Det verkar inte vara möjligt att själv uppdatera tidtabellerna mellan app-uppd
 
 "Last timetable update" syns efter en sökning, efter nån sekund försvinner det och du måste dra sökresultatlistan nedåt för att se det igen.
 
- 
-
 ![](images/railplanner-nytt_3.jpeg?w=1024)
 
 <figcaption>
@@ -34,8 +32,6 @@ Det verkar inte vara möjligt att själv uppdatera tidtabellerna mellan app-uppd
 App från 17 juni efter ominstallation. Vid uppdatering hade den från 17 juni.
 
 </figcaption>
-
- 
 
 Senaste uppdateringarna
 
@@ -62,8 +58,6 @@ En vanlig fråga har varit "hur får jag in platsbiljetter i Railplanner-appen"?
 
 Köper du platsbiljett på interrail.eu kommer de att bli synliga i appen. Köper du på andra ställen är de fortfarande separata och kan inte sparas i RailPlanner.
 
- 
-
 ![](images/railplanner-nytt_4.jpeg?w=1024)
 
 <figcaption>
@@ -72,11 +66,7 @@ Från App Stores "Version History"
 
 </figcaption>
 
- 
-
 Så här ser det ut med några gamla platsbiljetter jag hade. De finns under "Past"-fliken. Det verkar som det är länkar till Interrail.eu, i alla fall med de gamla platsbiljetterna jag hade. När du kommit till webbsidan finns valet "view tickets". Så du behöver ändå uppkoppling när de skall visas (om det inte funkar annorlunda med aktuella platsbiljetter). Så i praktiken inte så annorlunda mot om du öppnar en webbläsare i mobilen.
-
- 
 
 ![](images/railplanner-nytt_5.jpeg?w=1024)
 
@@ -85,8 +75,6 @@ Så här ser det ut med några gamla platsbiljetter jag hade. De finns under "Pa
 Platsbokningar visas i appen efter inloggning på interrail.eu
 
 </figcaption>
-
- 
 
 ## Översikt
 
@@ -136,8 +124,6 @@ Det kan även ske "tysta" uppdateringar av tidtabellerna. En felaktig uppgift om
 
 - Mest lästa sidan senaste 30 dagarna är fortfarande ["Första resan"](https://www.trainfo.eu/forsta-resan/). Tydligen är det fortfarande en stadig ström av förstagångsresenärer. Hjälp fler genom att länka till den här sajten. Sen är det ["Railplanner-appen"](https://www.trainfo.eu/railplanner-appen/) (som är uppdaterad med info från denna bloggpost), ["Deutschland-Ticket"](https://www.trainfo.eu/deutschland-ticket/), ["Allmän Info"](https://www.trainfo.eu/allman-info/) och ["Italien"](https://www.trainfo.eu/italien/) som är resten på topp 5.
 
- 
-
 ![](images/railplanner-nytt_2.jpeg?w=769)
 
 <figcaption>
@@ -145,5 +131,3 @@ Det kan även ske "tysta" uppdateringar av tidtabellerna. En felaktig uppgift om
 Hamburg-Altona en junikväll
 
 </figcaption>
-
- 

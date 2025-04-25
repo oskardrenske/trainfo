@@ -4,7 +4,7 @@ date: 2024-03-07
 coverImage: "forsta-resan_1.jpg"
 tags:
 - planering
-- interrail
+- Interrail
 - "praktisk info"
 - nattåg
 ---

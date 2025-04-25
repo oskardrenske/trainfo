@@ -26,16 +26,12 @@ Det pågår jobb med att konvertera och förbättra siten. Texterna är inte än
 - Planeringstider
 - Trans Europe Express-tågluff
 
-## HÅLL DIG UPPDATERAD
+## Håll dig uppdaterad
 
-- Följ på [Mastodon](https://mastodonsweden.se/@interrailinfosvenska) eller Bluesky.
+- Följ på [Mastodon](https://mastodonsweden.se/@interrailinfosvenska) eller [Bluesky(https://bsky.app/profile/interrailinfosvenska.mastodonsweden.se.ap.brid.gy )].
 - För en komplett lista av större uppdateringar, kolla bloggen  
 - Att följa med epost kan återkomma. Vill du hjälpa till med att administrera en epostlista? Hör av dig isåfall.
 
-## DELA GÄRNA
+## Dela gärna
 
 Så får fler en enklare resa. Undrar nån om hur en åker tåg till ett visst resmål så ge dem länken till en exempel-resa, och påminn om att det finns mer info bland menyerna. Du kan dela länk till denna startsida eller till en specifik ämnes-sida. Då får de en enklare resa med mindre risk för problem (de flesta “nybörjarmisstagen” kan förebyggas).
-
-## FEEDBACK & KONTAKT
-
-Se sidan “om sajten”  

@@ -3,7 +3,7 @@ title: "Är interrail billigast?"
 date: 2024-06-23
 coverImage: "image.jpg"
 tags:
-- interrail
+- Interrail
 - planering
 ---
 

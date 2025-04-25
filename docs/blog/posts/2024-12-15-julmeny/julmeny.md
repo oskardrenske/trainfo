@@ -1,10 +1,15 @@
 ---
-title: "Blog: Julmeny"
+title: "Blog: Julmeny (2024-12-15)"
 date: 2024-12-15
-coverImage: "706c3edf-3c4e-4d3a-a749-e8d8ebda282e_1_105_c.jpeg"
+coverImage: "![](images/julmeny_2.jpeg?w=1024)"
+tags:
+    - Frankrike
+    - Tyskland
+    - Ukraina
+    - London
+    - Italien
+    - Spanien
 ---
-
- 
 
 ![](images/julmeny_2.jpeg?w=1024)
 
@@ -13,8 +18,6 @@ coverImage: "706c3edf-3c4e-4d3a-a749-e8d8ebda282e_1_105_c.jpeg"
 Det här som jag glömt namnet på fanns på menyn på Frankfurts julmarknad. Bra grund inför 7 timmar TGV till Avignon. De börjar förresten gå från Frankfurt igen 15 december..
 
 </figcaption>
-
- 
 
 Jag gjorde om **menyerna** för att göra det tydligare vilka sidor som finns. Det funkar bäst på en dator och blir nog en förbättring på mobilen också..
 
@@ -34,8 +37,6 @@ Lite uppdateringar kring **[Frankrike](https://www.trainfo.eu/frankrike/),** spe
 
 Nytt tåg **Barcelona - Toulouse** (Renfe) kan bli lite intressant för [Spanien-resenären](https://www.trainfo.eu/spanien-resa/) då det går via Narbonne och Perpignan (Järnvägssstationen i Perpignan är Världens Centrum enligt Salvador Dali) där det går att ha anslutning till Franska TGV. Kanske inte förstahandsalternativet, men det kanske kan vara ett alternativ om övriga alternativ inte funkar. Men det kommer inte förrän under andra kvartalet 2025. Lite otippat att en resa med Renfes tåg skulle bli enkel och billig (bland tåg över gränser med obligatorisk platsbiljett). Rimligt pris, kan nu köpas online och inga kvoter eller extra dyrt för att tåget passerar en nationsgräns.
 
- 
-
 ![](images/julmeny_3.jpeg?w=1024)
 
 <figcaption>
@@ -43,8 +44,6 @@ Nytt tåg **Barcelona - Toulouse** (Renfe) kan bli lite intressant för [Spanien
 "Perpignan Centre du Monde"
 
 </figcaption>
-
- 
 
 [Railplanner-appen](https://www.trainfo.eu/railplanner-appen/) börjar visa aktuell info men värdet är tveksamt.
 

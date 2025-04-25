@@ -1,18 +1,16 @@
 ---
-title: "Blog: Namnlapp på bagaget i Frankrike"
+title: "Blog: Namnlapp på bagaget i Frankrike (2024-09-03)"
 date: 2024-09-03
-tags: 
-  - "Danmark"
-  - "Frankrike"
-  - "italien"
-  - "london"
-  - "Polen"
-  - "tips"
-  - "tyskland"
+tags:
+- "Danmark"
+- "Frankrike"
+- "Italien"
+- "London"
+- "Polen"
+- "tips"
+- "Tyskland"
 coverImage: "e238817d-5fdb-4135-99f0-5f2ec2e4b116_1_105_c.jpeg"
 ---
-
- 
 
 ![](images/namnlapp-pa-bagaget-i-frankrike_2.jpeg?w=1024)
 
@@ -21,8 +19,6 @@ coverImage: "e238817d-5fdb-4135-99f0-5f2ec2e4b116_1_105_c.jpeg"
 "Viaduc de Chamborigaud" i franska Occitanie.
 
 </figcaption>
-
- 
 
 ## Frankrike
 
@@ -34,8 +30,6 @@ De tåg över gränsen till [Tyskland](https://www.trainfo.eu/tyskland/) som had
 
 [Banarbeten mellan Frankfurt och Mannheim](https://int.bahn.de/en/booking-information/construction-sites/frankfurt-mannheim-riedbahn) gör att restiderna blir längre, fjärrtågen går en omväg över Mainz. En konsekvens är att sökningar kan ge förslag som verkar udda men som i själva verket är snabbare trots en geografisk omväg. Vill du absolut åka genom det här området behöver du kanske lägga in en via-station ([stopover med 0 min uppehåll hos DB)](https://www.trainfo.eu/platsbokning-med-db/) för att få fram de tåg du vill se. Eller söka bit för bit.
 
- 
-
 ![](images/namnlapp-pa-bagaget-i-frankrike_5.png?w=410)
 
 <figcaption>
@@ -43,8 +37,6 @@ De tåg över gränsen till [Tyskland](https://www.trainfo.eu/tyskland/) som had
 Sträckan som påverkas av banarbete.
 
 </figcaption>
-
- 
 
 ### Italien
 

@@ -3,7 +3,7 @@ title: "En Interrailresa steg för steg"
 date: 2024-09-30
 coverImage: "images/en-interrail-resa-steg-for-steg_15.png"
 tags:
-- interrail
+- Interrail
 - "praktisk info"
 - planering
 - "under resan"

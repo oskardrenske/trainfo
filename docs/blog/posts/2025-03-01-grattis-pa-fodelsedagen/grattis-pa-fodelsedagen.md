@@ -1,10 +1,8 @@
 ---
-title: "Blog: Grattis på födelsedagen"
+title: "Blog: Grattis på födelsedagen (2025-03-01)"
 date: 2025-03-01
 coverImage: "lococake.jpg"
 ---
-
- 
 
 ![](images/grattis-pa-fodelsedagen_1.jpg?w=1024)
 
@@ -13,8 +11,6 @@ coverImage: "lococake.jpg"
 Obligatorisk AI-bild för att vara trendig. På ett ironiskt sätt förstås.Fick 3 ljus när jag instruerade om 2.
 
 </figcaption>
-
- 
 
 ### 2 år på Wordpress
 

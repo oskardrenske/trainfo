@@ -1,16 +1,13 @@
 ---
-title: "Blog: It's complicated (Raileurope-uppdatering)"
+title: "Blog: It's complicated (Raileurope-uppdatering) (2024-07-07)"
 date: 2024-07-07
-tags: 
-  - "Frankrike"
-  - "platsbiljett"
-  - "spanien"
-tags: 
-  - "interrail"
+tags:
+- "Frankrike"
+- "platsbiljett"
+- "Spanien"
+- "Interrail"
 coverImage: "22de007e-5b22-4ff8-972d-b29e464b23bc_1_105_c.jpeg"
 ---
-
- 
 
 ![](images/its-complicated-raileurope-uppdatering_4.jpeg?w=769)
 
@@ -19,8 +16,6 @@ coverImage: "22de007e-5b22-4ff8-972d-b29e464b23bc_1_105_c.jpeg"
 Här gick järnvägen nära Sanremo i Italien. Numera gång- och cykelbana och järnvägen går i tunnlar en bit inåt land.
 
 </figcaption>
-
- 
 
 **Uppdatering 2024-07-08**: Bokningsavgiften på Raileurope är borta och jag fick rapport om lyckat platsbiljettköp på Happyrail för Renfes AVI Lyon - Barcelona..
 
@@ -36,8 +31,6 @@ Men för Eurostar skall den betalas.
 
 Men om "avgiftsfria" biljetter ingår i köpet så försvinner avgiften.
 
- 
-
 ![](images/its-complicated-raileurope-uppdatering_1.png?w=614)
 
 <figcaption>
@@ -45,8 +38,6 @@ Men om "avgiftsfria" biljetter ingår i köpet så försvinner avgiften.
 Booking fee visas men ingår inte.
 
 </figcaption>
-
- 
 
 Vi får väl se vad som händer. Jag har inte köpt nån platsbiljett så jag vet inte vad det blir i slutändan. Och utan insyn i sajterna kan jag bara prova och se vad som visas. Jag har heller ingen resa planerad så jag har inga platsbiljetter att köpa och vet följdaktligen inte om köpen går igenom.
 

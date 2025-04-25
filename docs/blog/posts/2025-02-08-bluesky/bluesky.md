@@ -1,10 +1,10 @@
 ---
-title: "Blog: Bluesky"
+title: "Blog: Bluesky (2025-02-08)"
 date: 2025-02-08
-coverImage: "91bae435-98c2-4327-b3e8-001c225470f5_1_201_a-1.jpeg"
+coverImage: "images/bluesky_1.jpeg"
+tags:
+    - sajten
 ---
-
- 
 
 ![](images/bluesky_1.jpeg?w=817)
 
@@ -13,8 +13,6 @@ coverImage: "91bae435-98c2-4327-b3e8-001c225470f5_1_201_a-1.jpeg"
 Blå himmel över spårvagn i Opicina nära Trieste i Italien.
 
 </figcaption>
-
- 
 
 ## Bluesky kompletterar Mastodon
 

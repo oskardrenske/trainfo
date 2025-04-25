@@ -1,11 +1,11 @@
 ---
-title: "Blog: Steg för steg med mobilt Interrail"
+title: "Blog: Steg för steg med mobilt Interrail (2024-10-09)"
 date: 2024-10-09
-tags: 
-  - "italien"
-  - "platsbiljett"
-  - "railplanner"
-  - "tips"
+tags:
+- "Italien"
+- "platsbiljett"
+- "railplanner"
+- "tips"
 coverImage: "abaaf914-c4a6-43d9-b96b-dbb0c7974436_1_201_a.jpeg"
 ---
 

@@ -1,16 +1,14 @@
 ---
-title: "Blog: Obegränsat resande"
+title: "Blog: Obegränsat resande (2025-03-07)"
 date: 2025-03-07
-tags: 
-  - "Frankrike"
-  - "italien"
-  - "Portugal"
-  - "tips"
-  - "tyskland"
+tags:
+- "Frankrike"
+- "Italien"
+- "Portugal"
+- "tips"
+- "Tyskland"
 coverImage: "img_3323-small.jpeg"
 ---
-
- 
 
 ![](images/obegransat-resande_1.jpeg?w=1024)
 
@@ -19,8 +17,6 @@ coverImage: "img_3323-small.jpeg"
 Beziers i Frankrike, här finns en budget-biljett.
 
 </figcaption>
-
- 
 
 I begynnelsen fanns bara Interrail med en månads giltighet. Idag köps det Interrail med ett visst antal resdagar under en period, dessa skall utnyttjas maximalt. Att betala några tusen till för att köpa 1 månad när det egentligen bara behövs 7 resdagar för den tänkta resan är det inte alla som är beredda att göra. Månadsbiljetten i kombination med informationsvakuum skapade en viss sorts resande som inte sker idag, men eftersom det gjordes i ungdomen har det ett nostalgiskt skimmer kring sig.
 

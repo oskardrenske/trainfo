@@ -1,18 +1,16 @@
 ---
-title: "Blog: Nytt och populärt"
+title: "Blog: Nytt och populärt (2025-01-05)"
 date: 2025-01-05
-tags: 
-  - "Frankrike"
-  - "nattåg"
-  - "platsbiljett"
-  - "reseberattelser"
-  - "spanien"
-  - "sverige"
-  - "tyskland"
+tags:
+- "Frankrike"
+- "nattåg"
+- "platsbiljett"
+- "reseberättelser"
+- "Spanien"
+- "Sverige"
+- "Tyskland"
 coverImage: "bd8cbf06-1e98-4595-a30f-fe300f20fbbe_1_105_c.jpeg"
 ---
-
- 
 
 ![](images/nytt-och-populart_4.jpeg?w=1024)
 
@@ -21,8 +19,6 @@ coverImage: "bd8cbf06-1e98-4595-a30f-fe300f20fbbe_1_105_c.jpeg"
 Medelhavsnära i Frankrike
 
 </figcaption>
-
- 
 
 [**Deutschland-Ticket**](https://www.trainfo.eu/deutschland-ticket/) kostar nu €58.
 
@@ -36,8 +32,6 @@ Rapport från nya lågprislinjen **Bryssel-Paris.** [https://jonworth.eu/in-this
 
 **Sverige till Tyskland med Deutsche Bahn.** Nu finns åter möjligheten att köpa biljetter av DB till/från Sverige. Det går (just nu) inte att köpa biljett på [nattåg](https://www.trainfo.eu/nattag/) på det här sättet, bara dagtåg (även om de går på natten som DB:s). Du kan behöva [justera sökningen och lägga in uppehåll](https://www.trainfo.eu/platsbokning-med-db/) för att få bekvämare resultat, men €60 Stockholm - München (några veckor i förväg) är rätt bra. Exempel med lunchpaus i Köpenhamn och 12h i Hamburg. En detalj är att biljetter till München bara är några få € dyrare än en biljett till Hamburg.
 
- 
-
 ![](images/nytt-och-populart_5.png?w=1024)
 
 <figcaption>
@@ -46,15 +40,11 @@ Lunch i Köpenhamn och övernattning i Hamburg.
 
 </figcaption>
 
- 
-
 **"Journalistik"** Svenska Dagbladet hade [2025-01-04 en artikel om tåg](https://www.svd.se/a/8qvwEA/2025-pa-rals-fler-nattag-i-europa-och-boka-tag-fran-samma-sajt). De nämner [Thello](https://en.wikipedia.org/wiki/Trenitalia_France) men linjerna lades ned 2020 (Milano - Marseille var dagtåg, inte nattåg). Thellos verksamhet upphörde i juni 2021. För tre och ett halvt år sen. Resetidningen Vagabond fortsatte skriva om dessa linjer långt efter att de lagts ned, men slutade till sist.
 
 European Sleepers eventuella nattågslinje Amsterdam-Barcelona beskrivs som om den kommer "inom kort". Men _'the CEO and \[European Sleeper\] co-founder tells RailTech, “we now anticipate the Amsterdam-Barcelona service will begin operating in either 2026 or 2027.”'_  [Artikel](https://www.railtech.com/all/2024/10/14/european-sleeper-adam-barca-night-train-may-be-delayed-to-2027-ceo/?gdpr=deny)
 
 SvD skriver även _"om ett tåg är försenat och man därför missar nästa tåg på resa faller hela bokningskedjan och man måste börja om"_. Det finns brister med [AJC](https://en.wikipedia.org/wiki/Agreement_on_Journey_Continuation) men så illa är det inte.
-
- 
 
 ![](images/nytt-och-populart_1.png?w=391)
 
@@ -64,11 +54,7 @@ SvD 2025-01-04
 
 </figcaption>
 
- 
-
 **Populärt 2024**
-
- 
 
 ![](images/nytt-och-populart_3.png?w=1024)
 
@@ -77,8 +63,6 @@ SvD 2025-01-04
 sidvisningar per månad sedan den här sajten skapades i mars 2024.
 
 </figcaption>
-
- 
 
 Precis som alla andra listor över "populäraste X under 2024" så är det som publicerats tidigt på årets oftast "mest populärt" eftersom det har hunnit få flest visningar. Det finns alltid ett flöde av visningar över tid som gör att det äldsta verkar populärast. Jag kollade istället på genomsnittet; ( hur många visningar under 2024 / hur många dagar var sidan publicerad under 2024). Innehållet i sidorna har ändrats under året, när det blivit tillräckligt mycket om ett del-ämne har jag ofta gjort en egen sida om det. ["Resdagar i Sverige"](https://www.trainfo.eu/resdagar-i-sverige/) fanns fram till september på sidan ["Sverige"](https://www.trainfo.eu/sverige/) till exempel. "Home" får flest visningar eftersom det är startsidan som de flesta länkar går till.
 

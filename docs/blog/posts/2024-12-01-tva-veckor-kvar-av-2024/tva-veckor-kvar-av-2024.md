@@ -1,19 +1,17 @@
 ---
-title: "Blog: Två veckor kvar av 2024"
+title: "Blog: Två veckor kvar av 2024 (2024-12-01)"
 date: 2024-12-01
-tags: 
-  - "Frankrike"
-  - "italien"
-  - "london"
-  - "nattåg"
-  - "platsbiljett"
-  - "sverige"
-  - "tips"
-  - "tyskland"
+tags:
+- "Frankrike"
+- "Italien"
+- "London"
+- "nattåg"
+- "platsbiljett"
+- "Sverige"
+- "tips"
+- "Tyskland"
 coverImage: "img_0326.jpg"
 ---
-
- 
 
 [![](images/img_0326.jpg?w=798)](https://weihnachtsmarkt-magazin.de/)
 
@@ -22,8 +20,6 @@ coverImage: "img_0326.jpg"
 Tysk papperstidning https://weihnachtsmarkt-magazin.de/, köp en [Deutschlandticket](https://www.trainfo.eu/deutschland-ticket/) och besök alla 1088 julmarknaderna.
 
 </figcaption>
-
- 
 
 Vänta nu? Två veckor? Det är ju den 1 december?
 

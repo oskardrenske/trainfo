@@ -1,14 +1,16 @@
 ---
-title: "Blog: Sökes: Social Media Manager till Sveriges populäraste Interrail-blogg"
+title: "Blog: Sökes: Social Media Manager till Sveriges populäraste Interrail-blogg (2025-01-11)"
 date: 2025-01-11
-coverImage: "screenshot-2025-01-08-at-13.49.53.png"
+coverImage: "images/sokes-social-media-manager-till-sveriges-popularaste-interrail-blogg_3.png"
+tags:
+    - sajten
 ---
 
 ![](images/sokes-social-media-manager-till-sveriges-popularaste-interrail-blogg_3.png?w=612)
 
 > > Sökes: Driven och kreativ Sociala Medieansvarig till populär blogg om tågresor och Interrail
-> > 
-> > Vi är en välkänd blogg som specialiserar sig på tågresor med Interrail och söker nu en entusiastisk och kreativ person för att ta hand om vår sociala media-strategi. Vi ser inte på tidigare erfarenhet som ett krav - det viktigaste är din entusiasm för tågresor och sociala medier! Din uppgift kommer att bestå av att planera, skapa och publicera innehåll på våra sociala kanaler, samt interagera med våra följare. Du måste vara flexibel och kunna jobba självständigt. Om du är en tågresenär som också älskar sociala medier och vill bidra till bloggens framgång så ska du inte tveka att skicka in din ansökan! Vi ser fram emot att höra från dig!  
+> >
+> > Vi är en välkänd blogg som specialiserar sig på tågresor med Interrail och söker nu en entusiastisk och kreativ person för att ta hand om vår sociala media-strategi. Vi ser inte på tidigare erfarenhet som ett krav - det viktigaste är din entusiasm för tågresor och sociala medier! Din uppgift kommer att bestå av att planera, skapa och publicera innehåll på våra sociala kanaler, samt interagera med våra följare. Du måste vara flexibel och kunna jobba självständigt. Om du är en tågresenär som också älskar sociala medier och vill bidra till bloggens framgång så ska du inte tveka att skicka in din ansökan! Vi ser fram emot att höra från dig!
 
 Var det lagom mycket platsannons-floskler? Tur att AI är tränat på text från platsannonser så det blir lätt att göra nya. Men fullt så allvarligt som ett riktigt jobb är det inte.
 
@@ -24,8 +26,6 @@ När jag kollade besöksstatistiken inför [förra blogginlägget](https://www.t
 
 Det har varit ungefär två blogginlägg i månaden. Generellt med samlade uppdateringar, men också information om det tillkommit en helt ny sida på den här sajten. Om automatpostning eller "egenskapade" inlägg med länk är bäst vet jag inte, men är du rätt person har du säkert bra ideér kring detta. Det finns ju fler sajter än de som Wordpress har stöd för. Även om det är få inlägg kanske det finns anledning att sprida kunskap med "ett land i taget" utöver blogginlägg. Men det är bara några tankar, du får fria händer.
 
- 
-
 ![](images/sokes-social-media-manager-till-sveriges-popularaste-interrail-blogg_1.png?w=351)
 
 <figcaption>
@@ -33,8 +33,6 @@ Det har varit ungefär två blogginlägg i månaden. Generellt med samlade uppda
 En del av de sajter Wordpress kan automaptposta till.
 
 </figcaption>
-
- 
 
 Det som behövs göras om jag tänker lite snabbt är att skapa konton på de sajter som verkar lämpliga, svara på kommentarer och rensa eventuell spam-kommentarer. Sen väljer du själv ambitionsnivå. Oavlönat, precis som mitt skrivande.
 

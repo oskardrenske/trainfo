@@ -3,7 +3,7 @@ title: "Allmän info om tågresor och Interrail"
 date: 2024-03-07
 coverImage: "images/allman-info_2.jpeg"
 tags:
-- interrail
+- Interrail
 - planering
 ---
 

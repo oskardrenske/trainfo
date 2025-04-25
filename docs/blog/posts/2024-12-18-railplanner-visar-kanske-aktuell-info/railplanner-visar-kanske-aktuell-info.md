@@ -1,9 +1,9 @@
 ---
-title: "Blog: Railplanner visar (kanske) aktuell info"
+title: "Blog: Railplanner visar (kanske) aktuell info (2024-12-18)"
 date: 2024-12-18
-tags: 
-  - "railplanner"
-  - "tips"
+tags:
+- "railplanner"
+- "tips"
 coverImage: "screenshot-2024-12-18-at-19.33.20.png"
 ---
 
@@ -49,10 +49,6 @@ När appen är offline ser det ut som allt är som det skall. Samma tåg som vis
 
 Ett annat exempel efter uppdatering av appen. Det blir bara sämre, tåg med störningar försvinner från sökningen.
 
- 
-
- 
-
 ![](images/railplanner-visar-kanske-aktuell-info_10.jpg?w=1024)
 
 <figcaption>
@@ -61,10 +57,6 @@ Online
 
 </figcaption>
 
- 
-
- 
-
 ![](images/railplanner-visar-kanske-aktuell-info_6.jpg?w=867)
 
 <figcaption>
@@ -72,10 +64,6 @@ Online
 Offline
 
 </figcaption>
-
- 
-
- 
 
 ### Slutsatser
 

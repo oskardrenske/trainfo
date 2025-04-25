@@ -1,7 +1,11 @@
 ---
-title: "Blog: Aosta-dalen med tåg"
+title: "Blog: Aosta-dalen med tåg (2024-03-22)"
 date: 2024-03-22
-coverImage: "aosta-small.png"
+coverImage: "images/aosta-dalen_4.png"
+tags:
+    - Italien
+    - Rese-exempel
+    - planering
 ---
 
 Tidningen Vagabond kom just med en "tåg-special". Det finns med en artikel om Aosta-dalen som mest är reklam för att sälja resor. Med flyg. Inte ett ord nämns i "tåg-specialen" hur man tar tåget till Aosta-dalen. Men det får du reda på här.

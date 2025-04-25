@@ -1,9 +1,9 @@
 ---
-title: "Blog: Italia in Tour - 3 eller 5 dagarsbiljett för regionaltåg"
+title: "Blog: Italia in Tour - 3 eller 5 dagarsbiljett för regionaltåg (2024-06-01)"
 date: 2024-06-01
-tags: 
-  - "italien"
-coverImage: "caffe_tubino.jpeg"
+tags:
+- "Italien"
+coverImage: "images/italia-in-tour-3-eller-5-dagarsbiljett_2.jpeg"
 ---
 
 ![](images/italia-in-tour-3-eller-5-dagarsbiljett_2.jpeg?w=768)

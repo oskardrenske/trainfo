@@ -1,10 +1,13 @@
 ---
-title: "Blog: Tågluff 2025?"
+title: "Blog: Tågluff 2025? (2025-01-19)"
 date: 2025-01-19
 coverImage: "0066e4eb-b681-4c06-851f-d6eb20840d17_1_105_c.jpeg"
+tags:
+    - planering
+    - Interrail
+    - platsbiljett
+    - tips
 ---
-
- 
 
 ![](images/tagluff-2025_1.jpeg?w=768)
 
@@ -14,13 +17,11 @@ Italienskt nattåg på Catania Centrale på Sicilien
 
 </figcaption>
 
- 
-
 Kul! Men din resa blir bättre om du har koll på några saker, det är därför denna sajt finns.
 
 Vi börjar med några saker du behöver tänka på, när du känner till dem blir resten mer begripligt när du börjar läsa informationen här på sajten.
 
-#### Det tar längre tid än flyg
+### Det tar längre tid än flyg
 
 Det tar mycket längre tid att åka tåg än att flyga. Det är konsekvensen av att energiförbrukningen (och tillhörande koldioxidutsläpp) för att driva tågen är mycket, mycket lägre än för flyget. Lägre CO2-utsläpp är en orsak till att många tar tåg. Men det tar "dagar istället för timmar". Fast tågresan ger också tid och möjligheter. Tid att koppla av under resan, möjlighet att stanna längs vägen och se saker längs resvägen. Försöker du byta flyg mot tåg rätt av blir det troligen en väldigt stressig resa. Anpassa dig till att det tar längre tid och se resan som en del av semestern så får du det trevligare.
 

@@ -1,18 +1,16 @@
 ---
-title: "Blog: Välkomna alla nytillkomna läsare"
+title: "Blog: Välkomna alla nytillkomna läsare (2025-01-31)"
 date: 2025-01-31
-tags: 
-  - "Danmark"
-  - "Frankrike"
-  - "italien"
-  - "platsbiljett"
-  - "spanien"
-  - "sverige"
-  - "tips"
+tags:
+- "Danmark"
+- "Frankrike"
+- "Italien"
+- "platsbiljett"
+- "Spanien"
+- "Sverige"
+- "tips"
 coverImage: "b60efc0b-43e0-4b9a-b0b2-9c1773d60062_1_201_a.jpg"
 ---
-
- 
 
 ![](images/valkomna-alla-nytillkomna-lasare_5.jpg?w=1024)
 
@@ -21,8 +19,6 @@ coverImage: "b60efc0b-43e0-4b9a-b0b2-9c1773d60062_1_201_a.jpg"
 Utsikt genom ett tågfönster mitt på [Sicilien](https://www.trainfo.eu/sicilien-kalbrien-apulien/) januari 2024
 
 </figcaption>
-
- 
 
 ### Välkomna!
 
@@ -42,8 +38,6 @@ Tyvärr var ingen intresserad av att hjälpa till att [sprida tågreseinformatio
 
 Men det finns som tur är fria [alternativ](https://blog.elenarossini.com/the-future-of-social-is-here-a-show-and-tell-part-1-mastodon-pixelfed-2/).
 
- 
-
 ![](images/valkomna-alla-nytillkomna-lasare_4.jpg?w=1024)
 
 <figcaption>
@@ -51,8 +45,6 @@ Men det finns som tur är fria [alternativ](https://blog.elenarossini.com/the-fu
 Photo by [Elena Rossini](https://unsplash.com/@elenarossini?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-person-holding-a-smart-phone-in-their-hand-9Xf-jxvfpW8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
 </figcaption>
-
- 
 
 ### Kartor
 
@@ -86,7 +78,7 @@ Lågpriståg Amsterdam - Berlin från september. Rykten skriver om Hamburg - Kö
 
 ### Franska tidtabeller
 
-> "Electronic timetable information with point-to-point connections from a worm's-eye view can never replace the warming overview of a timetable table." 
+> "Electronic timetable information with point-to-point connections from a worm's-eye view can never replace the warming overview of a timetable table."
 
 [https://gleisbaer.eu/lgv/lgv-kursbuch\_indicateur-lgv\_lgv-timetable\_v0.5\_2025.pdf](https://gleisbaer.eu/lgv/lgv-kursbuch_indicateur-lgv_lgv-timetable_v0.5_2025.pdf)
 
