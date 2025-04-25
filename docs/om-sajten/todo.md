@@ -2,13 +2,12 @@
 title: "Att göra"
 date: 2024-04-25"
 tags:
-    - sajten
+- sajten
 ---
 # Att göra
 
-
-## Bloggdatum i titeln 
-Kommer att förbättra [tags-sidan](https://test.trainfo.eu/tags/). 
+## Bloggdatum i titeln
+Kommer att förbättra [tags-sidan](https://test.trainfo.eu/tags/).
 
 ## Social
 Fixa delningsfunktioner så förhandsvisningen vid länkning blir bra
@@ -21,7 +20,6 @@ Fixa tags
 
 ## Alt text
 Lägg till alt-text på bilder
-
 
 ## Notifieringar
 ### RSS
@@ -37,6 +35,3 @@ Tyvärr.
 
 ### Activitypub
 Wordpress automatiska postning av bloggposter till activitypub var i teorin bra men jag tyckte den var dåligt utförd. Det finns funktioner för att formattera inlägg för delning och epost, men activitypub-pluginen verkade skicka hela sidan, och då blir det kaos i formatteringen.
-
-
-

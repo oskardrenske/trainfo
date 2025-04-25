@@ -3,8 +3,8 @@ title: "ÖBB Nightjet + Italienska tåg"
 date: 2024-03-07
 coverImage: "images/nightjet_2.jpeg"
 tags:
-    - nattåg
-    - Italien
+- nattåg
+- Italien
 ---
 
 ![](images/nightjet_2.jpeg?w=898)

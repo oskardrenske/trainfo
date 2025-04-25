@@ -3,9 +3,9 @@ title: "Knödelexpress"
 date: 2025-04-15
 coverImage: "images/knodelexpress_10.jpg"
 tags:
-    - Tjeckien
-    - "praktisk info"
-    - reseberättelser
+- Tjeckien
+- "praktisk info"
+- reseberättelser
 ---
 
 Scroll down for info in English

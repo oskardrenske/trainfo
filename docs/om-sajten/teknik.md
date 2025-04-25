@@ -2,12 +2,12 @@
 title: "Teknik"
 date: 2025-04-25
 tags:
-    - "sajten"
+- "sajten"
 ---
 # Teknik
 
 ## Wordpress
- Sajten fanns tidigare på Wordpress.com, efter en incident där deras spamfilter stängde ned sajten började jag kolla alternativ. Wordpress nån annanstans var ett alternativ, men jag hamnade snart på "statisk sajt"-spåret. 
+ Sajten fanns tidigare på Wordpress.com, efter en incident där deras spamfilter stängde ned sajten började jag kolla alternativ. Wordpress nån annanstans var ett alternativ, men jag hamnade snart på "statisk sajt"-spåret.
 
 ## Statisk sajt
 
@@ -22,7 +22,7 @@ När filerna är ren text blir de lätta att hantera i ett versionshanteringssyt
 
 #### Ändringar
 När filerna är ren text blir det enkelt att göra sök-ersätt och att se skillnad på vad jag ändrat innan jag lägger ut det.
-Det är även möjligt att göra större ändringar som att döpa om bilderna till nåt som matchar filen de hör till. Det här rä ett arbetssätt jag är van vid med programmeringsspråk. 
+Det är även möjligt att göra större ändringar som att döpa om bilderna till nåt som matchar filen de hör till. Det här rä ett arbetssätt jag är van vid med programmeringsspråk.
 
 #### Granskningar
 Det finns [program](https://pymarkdown.readthedocs.io/en/latest/) som granskar om markdown-filerna är korrekta. Även användbarhet tas upp, som att det skall finnas "alt-text" på bilder
@@ -36,8 +36,8 @@ Jag fick tips om Netlify som gjorde det enkelt att ta filer från ett Git-reposi
 ### Domän
 jag köpte domänen trainfo.eu (nån annan hade .se och .com, men att köpa upp domäner är inte så relevant idag när det är normalt med andra toppdomäner som .eu). Det gör det enkelt att flytta sajten vid behov.
 
-
 ## Markdown-exempel
+
 ```
 ## Wordpress
  Sajten fanns tidigare på Wordpress.com, efter en incident där deras spamfilter stängde ned sajten började jag kolla alternativ. Wordpress nån annanstans var ett alternativ, men jag hamnade snart på "statisk sajt"-spåret. 

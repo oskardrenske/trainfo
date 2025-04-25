@@ -7,9 +7,7 @@ tags:
 
 ---
 
-
-
-- [The Guardian: "Rail journey of the month" ](https://www.theguardian.com/travel/series/rail-journey-of-the-month) och ["Railtravel"](https://www.theguardian.com/travel/railtravel) (blandat resor och järnvägs-artiklar)
+- [The Guardian: "Rail journey of the month"](https://www.theguardian.com/travel/series/rail-journey-of-the-month) och ["Railtravel"](https://www.theguardian.com/travel/railtravel) (blandat resor och järnvägs-artiklar)
 
 - [Happyrail: "Scenic Trains in Europe"](https://www.happyrail.com/en/holidays/scenic-trains-in-europe)
 
@@ -19,4 +17,3 @@ tags:
 
 - [Siege avec vue](https://www.siegeavecvue.eu) - _"Around Europe on the train with a Peruvian finger puppet."_
 - ["It turns out you’re never too old to go Interrailing around Europe"](https://www.theguardian.com/commentisfree/2025/apr/22/interrailing-europe-sons-family-youth)
-
