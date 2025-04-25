@@ -3,9 +3,9 @@ title: "Blog: Från Ukraina med tåg (2024-09-27)"
 date: 2024-09-27
 tags:
 - "Polen"
-- "reseberattelser"
-- "ukraina"
-coverImage: "screenshot-2024-09-09-at-13.53.05.png"
+- "reseberättelser"
+- "Ukraina"
+coverImage: "images/fran-ukraina-med-tag_15.png"
 ---
 
 ![](images/fran-ukraina-med-tag_15.png?w=281)

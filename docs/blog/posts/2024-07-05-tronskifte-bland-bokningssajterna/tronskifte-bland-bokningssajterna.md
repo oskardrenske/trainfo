@@ -3,10 +3,10 @@ title: "Blog: Tronskifte bland bokningssajterna (2024-07-05)"
 date: 2024-07-05
 tags:
 - "Frankrike"
-- "italien"
+- "Italien"
 - "platsbiljett"
-- "spanien"
-- "sverige"
+- "Spanien"
+- "Sverige"
 - "tips"
 coverImage: "7c142229-7c22-4b57-811a-ab3a2c2af662_1_201_a.jpg"
 ---

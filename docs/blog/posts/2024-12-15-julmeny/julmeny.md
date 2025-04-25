@@ -1,7 +1,14 @@
 ---
 title: "Blog: Julmeny (2024-12-15)"
 date: 2024-12-15
-coverImage: "706c3edf-3c4e-4d3a-a749-e8d8ebda282e_1_105_c.jpeg"
+coverImage: "![](images/julmeny_2.jpeg?w=1024)"
+tags:
+    - Frankrike
+    - Tyskland
+    - Ukraina
+    - London
+    - Italien
+    - Spanien
 ---
 
 ![](images/julmeny_2.jpeg?w=1024)

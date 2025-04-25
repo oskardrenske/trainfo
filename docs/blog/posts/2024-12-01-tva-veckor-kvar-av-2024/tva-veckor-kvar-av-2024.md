@@ -3,13 +3,13 @@ title: "Blog: Två veckor kvar av 2024 (2024-12-01)"
 date: 2024-12-01
 tags:
 - "Frankrike"
-- "italien"
+- "Italien"
 - "London"
 - "nattåg"
 - "platsbiljett"
-- "sverige"
+- "Sverige"
 - "tips"
-- "tyskland"
+- "Tyskland"
 coverImage: "img_0326.jpg"
 ---
 

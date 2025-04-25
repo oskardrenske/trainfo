@@ -3,11 +3,11 @@ title: "Blog: Winterrail (2024-04-07)"
 date: 2024-04-07
 tags:
 - "Frankrike"
-- "italien"
-- "reseberattelser"
-- "spanien"
-- "sverige"
-- "tyskland"
+- "Italien"
+- "reseberättelser"
+- "Spanien"
+- "Sverige"
+- "Tyskland"
 ---
 
 Bildspel från min vinterresa. Distansarbete under arbetsveckorna och tågresor på helgerna. Hoppas det inspirerar.

@@ -2,6 +2,11 @@
 title: "Blog: Tågluff 2025? (2025-01-19)"
 date: 2025-01-19
 coverImage: "0066e4eb-b681-4c06-851f-d6eb20840d17_1_105_c.jpeg"
+tags:
+    - planering
+    - Interrail
+    - platsbiljett
+    - tips
 ---
 
 ![](images/tagluff-2025_1.jpeg?w=768)

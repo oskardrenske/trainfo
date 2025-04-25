@@ -4,14 +4,13 @@ date: 2024-07-10
 tags:
 - "Danmark"
 - "Frankrike"
-- "italien"
+- "Italien"
 - "platsbiljett"
-- "spanien"
+- "Spanien"
 - "tips"
-- "tyskland"
-tags:
-- "interrail"
-coverImage: "hemresa_berlin-1.jpeg"
+- "Tyskland"
+- "Interrail"
+coverImage: "images/forvirringen-ar-over_1.jpeg"
 ---
 
 ![](images/forvirringen-ar-over_1.jpeg?w=536)

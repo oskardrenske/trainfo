@@ -1,7 +1,11 @@
 ---
 title: "Blog: Till Finland med tåg (i teorin) (2024-08-02)"
 date: 2024-08-02
-coverImage: "screenshot-2024-08-02-at-14.27.49.png"
+coverImage: "images/till-finland-med-tag-i-teorin_1.png"
+tags:
+    - Finland
+    - planering
+    - Rese-exempel
 ---
 
 ![](images/till-finland-med-tag-i-teorin_1.png?w=555)

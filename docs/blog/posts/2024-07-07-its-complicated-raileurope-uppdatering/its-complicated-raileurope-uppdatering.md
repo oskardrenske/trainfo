@@ -4,9 +4,8 @@ date: 2024-07-07
 tags:
 - "Frankrike"
 - "platsbiljett"
-- "spanien"
-tags:
-- "interrail"
+- "Spanien"
+- "Interrail"
 coverImage: "22de007e-5b22-4ff8-972d-b29e464b23bc_1_105_c.jpeg"
 ---
 

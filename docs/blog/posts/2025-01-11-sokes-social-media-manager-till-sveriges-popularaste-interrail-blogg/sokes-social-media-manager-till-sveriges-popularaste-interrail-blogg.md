@@ -1,7 +1,9 @@
 ---
 title: "Blog: Sökes: Social Media Manager till Sveriges populäraste Interrail-blogg (2025-01-11)"
 date: 2025-01-11
-coverImage: "screenshot-2025-01-08-at-13.49.53.png"
+coverImage: "images/sokes-social-media-manager-till-sveriges-popularaste-interrail-blogg_3.png"
+tags:
+    - sajten
 ---
 
 ![](images/sokes-social-media-manager-till-sveriges-popularaste-interrail-blogg_3.png?w=612)
