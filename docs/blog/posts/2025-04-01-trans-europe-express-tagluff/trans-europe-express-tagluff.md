@@ -13,6 +13,9 @@ coverImage: "image-1.png"
 
 ![](images/trans-europe-express-tagluff_5.png?w=1000)
 
+# Följ Kraftwerks Europaturné med tåg
+<!-- more -->
+
 När jag fick se [Kraftwerks turnéplan](https://kraftwerk.com/concerts/index-concerts.html) tänkte jag att den ser ut som en resplan:
 
 ![](images/trans-europe-express-tagluff_3.png?w=813)

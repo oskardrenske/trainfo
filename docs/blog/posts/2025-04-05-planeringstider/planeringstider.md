@@ -21,6 +21,8 @@ Carcassone (Frankrike) i april 2023, inga problem att ta tåget dit.
 
 </figcaption>
 
+
+
 ## Ny läsare?
 
 Börja med inlägget ["Tågluff 2025?"](https://www.trainfo.eu/2025/01/19/tagluff-2025/) och kolla runt bland menyerna så hittar du säkert nåt som är relevant för din reseplanering. De flesta frågor du kommer att ha finns det redan svar på här.

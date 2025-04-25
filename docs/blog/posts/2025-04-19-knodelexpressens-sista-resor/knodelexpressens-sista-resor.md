@@ -12,7 +12,9 @@ coverImage: "00100dportrait_00100_burst20190908131040277_cover2-small.jpg"
 
 ![](images/knodelexpressens-sista-resor_1.jpg?w=768)
 
-De tjeckiska restaurangvagnarna där det lagas mat skall ersättas. Men det ser ut som de finns ett tag till. [Så här borde det gå att hitta dem](https://www.trainfo.eu/knodelexpress/).
+De tjeckiska restaurangvagnarna där det lagas mat skall ersättas. Men det ser ut som de finns ett tag till.  
+
+[Så här borde det gå att hitta dem](https://www.trainfo.eu/knodelexpress/).
 
 Några stämningsbilder
 

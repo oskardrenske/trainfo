@@ -19,6 +19,8 @@ Sidan om Portugal är uppdaterad med några rutter och det verkar bli strejker i
 
 ![](images/pasklovslasning_4.jpeg?w=768)
 
+<!-- more -->
+
 <figcaption>
 
 Strejkdag = ta en tidigt tåg så skapar du marginaler
