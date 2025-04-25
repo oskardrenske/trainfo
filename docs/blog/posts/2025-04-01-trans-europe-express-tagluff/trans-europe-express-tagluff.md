@@ -3,7 +3,7 @@ title: "Blog: Trans Europe Express-tågluff"
 date: 2025-04-01
 tags: 
   - "Danmark"
-  - "polen"
+  - "Polen"
   - "reseberattelser"
   - "sverige"
   - "tips"

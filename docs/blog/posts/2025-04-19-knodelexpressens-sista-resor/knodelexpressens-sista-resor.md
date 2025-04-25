@@ -2,7 +2,7 @@
 title: "Blog: Knödelexpressens sista resor?"
 date: 2025-04-19
 tags: 
-  - "polen"
+  - "Polen"
   - "reseberattelser"
   - "tips"
   - "tjeckien"

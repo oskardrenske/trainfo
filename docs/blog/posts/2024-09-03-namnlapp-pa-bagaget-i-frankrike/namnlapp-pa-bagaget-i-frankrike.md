@@ -6,7 +6,7 @@ tags:
   - "Frankrike"
   - "italien"
   - "london"
-  - "polen"
+  - "Polen"
   - "tips"
   - "tyskland"
 coverImage: "e238817d-5fdb-4135-99f0-5f2ec2e4b116_1_105_c.jpeg"
