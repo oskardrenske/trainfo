@@ -6,7 +6,7 @@ tags:
 - "platsbiljett"
 - "railplanner"
 - "tips"
-coverImage: "abaaf914-c4a6-43d9-b96b-dbb0c7974436_1_201_a.jpeg"
+coverImage: "images/steg-for-steg-med-mobilt-interrail_1.jpeg"
 ---
 
 ![](images/steg-for-steg-med-mobilt-interrail_1.jpeg?w=773)

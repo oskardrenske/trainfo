@@ -94,7 +94,7 @@ Du behöver köpa Deutschlandticket hos en tjänst som tillåter en person att k
 
 Nytt filter hos DB på webben, inte i appen DB Navigator:
 
-![](images/screenshot-2025-03-27-at-18.20.59.png)
+![](images/DB_filter_Deutschlandticket.png)
 
 I appen DB Navigator går du in på "options" - "Mode of transport" och väljer "Local/regional transport only". Motsvarande finns på webben.
 

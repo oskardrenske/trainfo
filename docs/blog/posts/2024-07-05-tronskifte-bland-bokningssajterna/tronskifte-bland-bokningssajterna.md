@@ -8,7 +8,7 @@ tags:
 - "Spanien"
 - "Sverige"
 - "tips"
-coverImage: "7c142229-7c22-4b57-811a-ab3a2c2af662_1_201_a.jpg"
+coverImage: "images/tronskifte-bland-bokningssajterna_1.jpg"
 ---
 
 ![](images/tronskifte-bland-bokningssajterna_1.jpg?w=1024)

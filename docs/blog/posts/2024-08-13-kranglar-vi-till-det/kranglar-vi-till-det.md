@@ -5,7 +5,7 @@ tags:
 - "platsbiljett"
 - "railplanner"
 - "tips"
-coverImage: "d865f76f-5bff-43c4-9182-1bc2c1d8d590_1_105_c.jpeg"
+coverImage: "mages/kranglar-vi-till-det_1.jpeg"
 ---
 
 Måste platsbiljettköp för Interrail vara en hemlig klubb?

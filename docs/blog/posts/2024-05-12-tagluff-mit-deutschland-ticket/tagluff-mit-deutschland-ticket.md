@@ -6,10 +6,10 @@ tags:
 - "Spanien"
 - "tips"
 - "Tyskland"
-coverImage: "achtung-small.png"
+coverImage: "images/achtung.jpg"
 ---
 
-![](images/image.jpg)
+![](images/achtung.jpg)
 
 Lite bilder och reflektioner efter drygt två veckor resande i Tyskland med Deutschlandticket.
 

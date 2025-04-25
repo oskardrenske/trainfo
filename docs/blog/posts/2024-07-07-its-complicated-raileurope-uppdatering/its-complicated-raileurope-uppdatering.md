@@ -6,7 +6,7 @@ tags:
 - "platsbiljett"
 - "Spanien"
 - "Interrail"
-coverImage: "22de007e-5b22-4ff8-972d-b29e464b23bc_1_105_c.jpeg"
+coverImage: "images/its-complicated-raileurope-uppdatering_4.jpeg"
 ---
 
 ![](images/its-complicated-raileurope-uppdatering_4.jpeg?w=769)

@@ -8,7 +8,6 @@ tags:
 - "railplanner"
 - "Sverige"
 - "tips"
-coverImage: "b40d93b7-8d03-403a-b5a8-8544140387ed_1_105_c.jpeg"
 ---
 
 ## De inbyggda tidtabellerna

@@ -4,7 +4,7 @@ date: 2024-12-18
 tags:
 - "railplanner"
 - "tips"
-coverImage: "screenshot-2024-12-18-at-19.33.20.png"
+coverImage: "images/railplanner-visar-kanske-aktuell-info_5.png"
 ---
 
 ![](images/railplanner-visar-kanske-aktuell-info_5.png?w=673)

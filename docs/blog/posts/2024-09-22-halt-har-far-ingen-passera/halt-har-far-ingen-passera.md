@@ -7,7 +7,7 @@ tags:
 - "platsbiljett"
 - "Sverige"
 - "Tyskland"
-coverImage: "6565bcea-b07b-42ac-8641-29a855f62469_1_201_a-1.jpeg"
+coverImage: "images/halt-har-far-ingen-passera_1.jpeg"
 ---
 
 [Här kommer ingen förbi](https://m.youtube.com/watch?v=8vI56ZaAr4M)
