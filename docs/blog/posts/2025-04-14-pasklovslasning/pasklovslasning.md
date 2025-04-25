@@ -5,7 +5,7 @@ tags:
   - "Frankrike"
   - "italien"
   - "platsbiljett"
-  - "polen"
+  - "Polen"
   - "Portugal"
   - "railplanner"
   - "spanien"

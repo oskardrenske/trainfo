@@ -6,7 +6,7 @@ tags:
   - "italien"
   - "nattåg"
   - "platsbiljett"
-  - "polen"
+  - "Polen"
   - "railplanner"
   - "tips"
 coverImage: "img_6591-small.jpeg"
