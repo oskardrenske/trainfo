@@ -13,6 +13,9 @@ Fixa delningsfunktioner så förhandsvisningen vid länkning blir bra
 ## Länkar
 Kolla länkar
 
+## Sammanfattning på blogposts
+så att det går att scrolla utan att hela sidan laddas
+
 
 ## Alt text
 Lägg till alt-text på bilder
