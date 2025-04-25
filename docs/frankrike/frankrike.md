@@ -3,7 +3,7 @@ title: "Frankrike med tåg"
 date: 2024-03-07
 coverImage: "a01826e7-fef6-4868-b982-333ac4fbb496_1_105_c.jpeg"
 tags:
-  - Frankrike
+- Frankrike
 ---
 
 ![](images/frankrike_5.jpeg?w=769)
@@ -64,8 +64,6 @@ Automaterna finns kanske bara på stationerna vid snabbtågslinjer, stationer p�
 
 Bild på hur det ser ut i automaterna, TER visar normalpris när Interrail är valt. I det här fallet finns bara €20-platsbiljetter för TGV.
 
- 
-
 ![](images/frankrike_3.jpeg?w=1024)
 
 <figcaption>
@@ -73,8 +71,6 @@ Bild på hur det ser ut i automaterna, TER visar normalpris när Interrail är v
 Bild från Jon Worth [https://gruene.social/@jon](https://gruene.social/@jon) med tillstånd
 
 </figcaption>
-
- 
 
 #### Kvoter
 
@@ -104,8 +100,6 @@ Regionen Occitanie i södra Frankrike har ett tåg-pass som gäller på regional
 
 ### Strejker
 
- 
-
 ![](images/frankrike_1.jpeg?w=769)
 
 <figcaption>
@@ -113,8 +107,6 @@ Regionen Occitanie i södra Frankrike har ett tåg-pass som gäller på regional
 Generalstrejk i Nimes våren 2023
 
 </figcaption>
-
- 
 
 Ifall det blir strejk så är det inte så illa som våra fördomar och nyhetsrapporteringen får det att verka. Det är typ samma brinnande soptunna som filmas från tjugo olika vinklar. Det fastställs dagen före vid 17 vilka tåg som skall gå nästa dag. Antingen går tåg normalt eller så är de inställda. Det verkar inte bli strejk-relaterade överraskningar under dagen. Med lite extra noggrann planering kunde jag resa under strejk, men jag såg till att det alltid fanns minst ett tåg till jag kunde ta. Detaljerad info hur strejkerna planeras och hur det bestäms vilka tåg som skall gå: [https://www.sncf.com/en/booking-itinerary/traffic/news/strikes](https://www.sncf.com/en/booking-itinerary/traffic/news/strikes) Här är en sajt som verkar hålla koll på strejker: [https://worldinparis.com/transport-in-france-strike-news-tips-for-traveling-to-paris#strike-schedule](https://worldinparis.com/transport-in-france-strike-news-tips-for-traveling-to-paris#strike-schedule). Railplanner kommer att visa ordinarie tidtabell, inställda tåg pga strejk vet den inte om. Men varje tåg du reser med skall registreras som vanligt Kolla hos SNCF (app/web) för att få reda på vilka tåg som går.
 
@@ -176,7 +168,5 @@ Frankrike är inte riktigt landet för spontant tågluffande på snabbtåg. Dera
 - Du _måste_ ha namnlapp på dina väskor.
 
 - "Vägglöss-epidemin" var en rysk desinformationskampanj.
-
-* * *
 
 ## Liknande sidor

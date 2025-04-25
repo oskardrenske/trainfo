@@ -4,8 +4,6 @@ date: 2024-03-08
 coverImage: "dece15d0-d625-4fd3-bc46-741fbc389878_1_105_c.jpeg"
 ---
 
- 
-
 ![](images/paris-resa_1.jpeg?w=775)
 
 <figcaption>
@@ -13,8 +11,6 @@ coverImage: "dece15d0-d625-4fd3-bc46-741fbc389878_1_105_c.jpeg"
 Känner du inte igen Triumfbågen? Det kan vara för att denna är i Montpellier.
 
 </figcaption>
-
- 
 
 Några exempel på hur en resa till Paris kan göras med Interrail
 
