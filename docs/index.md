@@ -5,8 +5,18 @@ date: 2024-03-07
 
 # INTERRAILINFO PÅ SVENSKA - TESTVERSION
 
+## Teknik
+[Den underliggande tekniken](om-sajten/teknik/) är helt annorlunda.
+
+## Menyer
+Info-sidor om oilka länder och rese-exemplen dit är i samma meny  
+[Tags](tags/) inkluderar nu både bloggposter och statiska sidor
+
+
 ## Banarbete
 Det pågår jobb med att konvertera och förbättra siten. Texterna är inte ändrade, men länkar, taggar mm kanske inte är helt korrekta.
+
+
 
 ## Interrailinfo på svenska kommer att underlätta din tågresa
 
@@ -20,11 +30,9 @@ Det pågår jobb med att konvertera och förbättra siten. Texterna är inte än
 
 ## De senaste blogginläggen
 
-- Död och återuppståndelse
-- Knödelexpressens sista resor?
-- Påsklovsläsning
-- Planeringstider
-- Trans Europe Express-tågluff
+[Hittas här](blog/)
+
+
 
 ## Håll dig uppdaterad
 
