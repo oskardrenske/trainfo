@@ -58,6 +58,8 @@ plugins:
         - Österrike
   - blog:
   - search
+  - social
+
 
 extra:
   social:
